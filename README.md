@@ -6,28 +6,23 @@ base FPGA board (e.g. [Numato Lab
 Nereid](https://numato.com/product/nereid-kintex-7-pci-express-fpga-development-board),
 it provides host PC communication for the following:
 
-- Two deserailizers for any multifunction headstage conforming to our
+- Two deserailizers for any multifunction headstage conforming to the ONIX
   serialization protocol
 - 12x 16-bit, +/-10V analog outputs or inputs. Direction selected via analog
   switch controllable over the FMC connector. Analog inputs are separated into
-  2 simultaneously sampled 6-channel banks. When analog outputs are used, they
-  are are always looped back using the analog inputs.
+  2 simultaneously sampled 6-channel banks. 
+- Analog output are always looped back using the analog inputs.
 - 3x high speed LVDS input pairs
 - 2x high speed LVDS outputs pairs
-- 2x high speed, arbitrary logic-level, singled-ended lock inputs
-- 1x high speed single ended, 50 ohm clock output
+- 2x high speed, arbitrary logic-level, singled-ended Hi-Z or 50-ohm clock inputs
+- 1x high speed single ended, 50-ohm clock output
 - 4x MLVDS input or output trigger lines
 
-Easy access to IO is provided by the [breakout board](../breakout/README.md).
-
-![pcie-host](./img/fmc-host.png)
-
-## Gerber Files
-{% include gerber_layers.md %}
+![fmc-host rev. 1.4 on Numato Lab Nereid](./resources/host-board_edited.jpg)
 
 ## Bill of Materials
 The bill of materials for this device can be found
-[here](https://docs.google.com/spreadsheets/d/1F-KWcdvH_63iXjZf0cgCfDiFX6XXW3qw6rlR8DZrFpQ/edit#gid=1976092058).
+[here](https://docs.google.com/spreadsheets/d/1dfK3jICU-dsLt_pm781gltwNn1_-4-RHdhAkIiad6z8/edit?usp=sharing).
 
 ## Manufacturing Requirements
 In order to meet approximately correct trace impedances, the design assumes the following stackup:
