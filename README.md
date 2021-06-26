@@ -1,6 +1,6 @@
-# FMC Host Board
-This card serves as host interface for serialized headstages and miniscopes, as
-well as general purpose analog and digital IO. This board is a VITA-57.1
+# ONIX FMC Host Board
+This card provies a host interface for serialized headstages and miniscopes, as
+well as general purpose analog and digital IO. It is a VITA-57.1
 compliant module that uses high pin-count FMC connector. In combination with a
 base FPGA board (e.g. [Numato Lab
 Nereid](https://numato.com/product/nereid-kintex-7-pci-express-fpga-development-board),
@@ -19,22 +19,3 @@ it provides host PC communication for the following:
 - 4x MLVDS input or output trigger lines
 
 ![fmc-host rev. 1.4 on Numato Lab Nereid](./resources/host-board_edited.jpg)
-
-## Bill of Materials
-The bill of materials for this device can be found
-[here](https://docs.google.com/spreadsheets/d/1dfK3jICU-dsLt_pm781gltwNn1_-4-RHdhAkIiad6z8/edit?usp=sharing).
-
-## Manufacturing Requirements
-In order to meet approximately correct trace impedances, the design assumes the following stackup:
-
-1. Top Copper 0.035 mm
-1. Prepreg (2313\*1) 0.1 mm
-1. Inner Copper 0.0175 mm
-1. Core (Copper) 0.565 mm
-1. Inner Copper 0.0175 mm
-1. Prepeg (2116\*1) 0.127 mm
-1. Inner Copper 0.0175 mm
-1. Core (Copper) 0.565 mm
-1. Inner Copper 0.0175 mm
-1. Prepreg (2313\*1) 0.1 mm
-1. Bottom Copper 0.0175 mm
