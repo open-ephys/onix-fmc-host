@@ -18,4 +18,4 @@ it provides host PC communication for the following:
 - 1x high speed single ended, 50-ohm clock output
 - 4x MLVDS input or output trigger lines
 
-![fmc-host rev. 1.4 on Numato Lab Nereid](./resources/host-board_edited.jpg)
+![fmc-host revision 1.4 on Numato Lab Nereid](./resources/host-board_edited.jpg)
