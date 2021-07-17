@@ -1,4 +1,4 @@
-# ONIX FMC Host Board
+# ONIX FMC Host
 This card provies a host interface for serialized headstages and miniscopes, as
 well as general purpose analog and digital IO. It is a VITA-57.1
 compliant module that uses high pin-count FMC connector. In combination with a
