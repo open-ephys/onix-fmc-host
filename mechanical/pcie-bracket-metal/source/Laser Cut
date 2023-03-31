@@ -4,9 +4,8 @@ SW990001
 [Layers]
 0 = 7, 0
 DEFPOINTS = 7, 0
-Cut = 8, 1
-Bend Up = 1, 3
-Bend Down = 3, 3
+Cut = 1, 1
+Bend = 3, 3
 Engrave = 5, 2
 
 [Entities]

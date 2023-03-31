@@ -445,7 +445,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../mechanical/pcie-bracket-metal/bracket-led.step",
+      "step": "../../mechanical/pcie-bracket-metal/source/bracket-led.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
