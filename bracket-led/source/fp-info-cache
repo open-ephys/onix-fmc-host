@@ -1,4 +1,4 @@
-21577492702402285
+21606086342963476
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63070,6 +63070,13 @@ BGA-6_2x3_1.0x1.54mm
 6
 6
 Open Ephys
+BIVAR_SLP3-150-100-R
+
+
+0
+0
+0
+Open Ephys
 CTS_745X101
 
 
@@ -63077,12 +63084,26 @@ CTS_745X101
 10
 10
 Open Ephys
+ECS_2016MV
+
+
+0
+4
+4
+Open Ephys
 ESWITCH_KAT1108E
 
 
 0
 10
 10
+Open Ephys
+EVERLIGHT_6-SMD-1.6x1.6
+SMD RGB LED Independent
+
+0
+6
+6
 Open Ephys
 GCT_BC034-03-A-V-0150-L-C
 
@@ -63155,11 +63176,25 @@ INTEL_WBGA81-4.5x4.5x0.46
 81
 Open Ephys
 JST_BM08B-SURS-TF(LF)(SN)
-
+JST Connector Vertical Entry 8 pins
 BM08B-SURS-TFLFSN 
 0
 10
 9
+Open Ephys
+JST_SM08B-SURS-TF(LF)(SN)
+JST Connector Horizontal Entry 8 pins
+
+0
+10
+9
+Open Ephys
+KYOCERA_046844727002846+
+
+
+0
+29
+28
 Open Ephys
 LATTICE_caBGA-381_17.0x17.0mm
 ECP5 FPGA
@@ -63168,12 +63203,33 @@ FPGA ECP5
 381
 381
 Open Ephys
+LATTICE_csfBGA-81_4.5x4.5mm
+
+
+0
+81
+81
+Open Ephys
 LATTICE_ufcBGA64C40P8X8_3.5X3.5X1.0
 64-Ball ucfBGA Package-1
 Integrated Circuit FPGA
 0
 64
 64
+Open Ephys
+LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_7.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+29
+25
+Open Ephys
+LINEAR_77-BGA-15x9x2.42mm
+
+
+0
+77
+77
 Open Ephys
 LINEAR_LTM8051
 
@@ -63210,6 +63266,13 @@ LT_05-08-1699
 11
 11
 Open Ephys
+MICROCHIP_TDFN-6-1EP_1.6x1.6mm_P0.5mm_EP0.5x1.4mm
+MLF, 6 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/mic5353.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+MLF NoLead
+0
+9
+7
+Open Ephys
 MICROCHIP_VFLGA4-2.0x1.6
 
 
@@ -63238,6 +63301,13 @@ MITSUMI_R-668049
 4
 2
 Open Ephys
+MOLEX_504618-3412
+
+
+0
+38
+38
+Open Ephys
 MOLEX_504622-3412
 
 
@@ -63251,6 +63321,13 @@ MOLEX_5050662422-5052702412
 0
 28
 28
+Open Ephys
+MOLEX_5050700622
+
+
+0
+10
+10
 Open Ephys
 MOLEX_5050702422
 
@@ -63315,12 +63392,33 @@ OE_LOGO-SILK-3.5x2.5
 0
 0
 Open Ephys
+OE_SolderJumper-2_0201_Closed_Pad
+SMD Solder Jumper, 0201, 0.12mm gap
+solder jumper open
+0
+2
+2
+Open Ephys
 OE_SolderJumper-2_0201_Open_Pad
 SMD Solder Jumper, 0201, 0.12mm gap
 solder jumper open
 0
 2
 2
+Open Ephys
+OE_SolderJumper-3_0201_Bridged12
+SMD Solder Jumper, 0201, 0.12mm gap
+net tie solder jumper bridged
+0
+3
+3
+Open Ephys
+OE_TP-Oval-2.8x1.6mm
+SMD Solder Jumper, 0201, 0.12mm gap
+solder jumper open
+0
+1
+1
 Open Ephys
 OMNETICS_A79022-001
 
@@ -63357,6 +63455,13 @@ ONSEMI_567JZ_WLCSP4-0.64x0.64
 4
 4
 Open Ephys
+ONSEMI_567JZ_WLCSP4-0.84x0.86
+
+
+0
+4
+4
+Open Ephys
 ONSEMI_BGA88CP50_8X11_493X613X75B25
 Ball Grid Array (BGA), 0.50 mm pitch, rect.; 88 pin, 4.93 mm L X 6.13 mm W X 0.75 mm H body
 
@@ -63384,13 +63489,6 @@ OSRAM_SFH2400FA-Tight
 0
 3
 3
-Open Ephys
-PLCC-4_3.2x2.8
-
-XZMDKCBDDG45S-9 
-0
-4
-4
 Open Ephys
 QFN-20_EP_3x3_Pitch0.4mm
 
@@ -63476,6 +63574,13 @@ Filter
 10
 10
 Open Ephys
+TE_2013496-9
+
+
+0
+29
+28
+Open Ephys
 TI_DPW0005A
 
 
@@ -63510,6 +63615,20 @@ TI_SIP0009B
 0
 9
 9
+Open Ephys
+TI_YKB0016
+
+
+0
+16
+16
+Open Ephys
+TI_YZP0006
+
+
+0
+6
+6
 Open Ephys
 TI_YZR0006
 
@@ -63560,12 +63679,12 @@ WINBOND_WSON8-6x5x0.75
 13
 9
 Open Ephys
-Wurth_156125M173000_reverse
-
-
+XILINX_FBG676
+Artix-7, Kintex-7 and Zynq-7000 BGA, 26x26 grid, 27x27mm package, 1mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=273, https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf#page=284, https://www.xilinx.com/support/documentation/user_guides/ug865-Zynq-7000-Pkg-Pinout.pdf#page=84, NSMD pad definition Appendix A
+BGA 676 1 FB676 FBG676 FBV676
 0
-4
-4
+676
+676
 OptoDevice
 ADNS-9800
 Laser Gaming Sensor ADNS-9800
