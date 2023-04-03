@@ -1,4 +1,4 @@
-21606085608982609
+21606086342963476
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63070,6 +63070,13 @@ BGA-6_2x3_1.0x1.54mm
 6
 6
 Open Ephys
+BIVAR_SLP3-150-100-R
+
+
+0
+0
+0
+Open Ephys
 CTS_745X101
 
 
@@ -63176,7 +63183,7 @@ BM08B-SURS-TFLFSN
 9
 Open Ephys
 JST_SM08B-SURS-TF(LF)(SN)
-JST Connector Vertical Entry 8 pins
+JST Connector Horizontal Entry 8 pins
 
 0
 10
@@ -63552,13 +63559,6 @@ SITIME_LGA6-5x3.2x0.75
 0
 6
 6
-Open Ephys
-SLP3-150-100-R
-
-
-0
-0
-0
 Open Ephys
 ST_MICROQFN-8L-2.5x1.15x0.45
 Micro QFN-8L
