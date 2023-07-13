@@ -1,0 +1,16 @@
+{
+    "layout": {
+        "rows": "5",
+        "cols": "5"
+    },
+    "tabs": {
+        "type": "none"
+    },
+    "cuts": {
+        "type": "vcuts",
+        "clearance": "1mm"
+    },
+    "post": {
+        "copperfill": "True"
+    }
+}
