@@ -1,0 +1,20 @@
+(version 1)
+(rule "class 1:1"
+  (condition "A.NetClass == '130 Ohm Diff Top' && B.NetClass == '130 Ohm Diff Top'")
+  (constraint clearance (min 0.0889mm)))
+
+(rule "class 3:3"
+  (condition "A.NetClass == '100 Ohm Diff Mid' && B.NetClass == '100 Ohm Diff Mid'")
+  (constraint clearance (min 0.09mm)))
+
+(rule "class 5:5"
+  (condition "A.NetClass == '100 Ohm Diff Top' && B.NetClass == '100 Ohm Diff Top'")
+  (constraint clearance (min 0.09mm)))
+
+(rule "class 6:6"
+  (condition "A.NetClass == 'Link' && B.NetClass == 'Link'")
+  (constraint clearance (min 0.5mm)))
+
+(rule "class 7:7"
+  (condition "A.NetClass == 'CAN 210 Diff Top' && B.NetClass == 'CAN 210 Diff Top'")
+  (constraint clearance (min 0.09mm)))
