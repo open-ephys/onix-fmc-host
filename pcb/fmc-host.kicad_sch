@@ -63569,7 +63569,7 @@
 				)
 			)
 		)
-		(property "MPN" "BAR 66 E6327"
+		(property "MPN" "BAR66E6327HTSA1"
 			(at 106.68 754.38 0)
 			(hide yes)
 			(show_name no)
@@ -63580,7 +63580,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 044"
+		(property "OEPS PN" "OEPS030050"
 			(at 106.68 754.38 0)
 			(hide yes)
 			(show_name no)
@@ -63591,7 +63591,7 @@
 				)
 			)
 		)
-		(property "old description" "PIN Diode STO23"
+		(property "old description" "#N/A"
 			(at 106.68 754.38 0)
 			(hide yes)
 			(show_name no)
@@ -63775,7 +63775,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 030"
+		(property "OEPS PN" "OEPS010002"
 			(at 177.8 1135.38 0)
 			(hide yes)
 			(show_name no)
@@ -63786,7 +63786,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 10nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 177.8 1135.38 0)
 			(hide yes)
 			(show_name no)
@@ -64047,7 +64047,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 026"
+		(property "OEPS PN" "OEPS020020"
 			(at 398.78 1290.32 0)
 			(hide yes)
 			(show_name no)
@@ -64058,7 +64058,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 165kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
 			(at 398.78 1290.32 0)
 			(hide yes)
 			(show_name no)
@@ -64161,7 +64161,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 429.26 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -64172,7 +64172,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 429.26 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -64355,7 +64355,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 551.18 789.94 0)
 			(hide yes)
 			(show_name no)
@@ -64366,7 +64366,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 551.18 789.94 0)
 			(hide yes)
 			(show_name no)
@@ -64469,7 +64469,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 070"
+		(property "OEPS PN" "OEPS020017"
 			(at 637.54 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -64480,7 +64480,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 47kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 47kΩ ±1% 0.100W   [ERJ-2RKF4702X] [SMD]"
 			(at 637.54 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -64742,7 +64742,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 052"
+		(property "OEPS PN" "OEPS080208"
 			(at 205.74 668.02 0)
 			(hide yes)
 			(show_name no)
@@ -64753,7 +64753,7 @@
 				)
 			)
 		)
-		(property "old description" "Comparitor"
+		(property "old description" "IC:   COMPARATOR 1 GP   [ADCMP600BRJZ-R2] [SOT23-5]"
 			(at 205.74 668.02 0)
 			(hide yes)
 			(show_name no)
@@ -64865,7 +64865,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 619.76 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -64876,7 +64876,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 619.76 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -65057,7 +65057,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 185.42 586.74 0)
 			(hide yes)
 			(show_name no)
@@ -65068,7 +65068,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 185.42 586.74 0)
 			(hide yes)
 			(show_name no)
@@ -65250,7 +65250,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 026"
+		(property "OEPS PN" "OEPS020020"
 			(at 167.64 627.38 0)
 			(hide yes)
 			(show_name no)
@@ -65261,7 +65261,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 165kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
 			(at 167.64 627.38 0)
 			(hide yes)
 			(show_name no)
@@ -65520,7 +65520,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 243.84 906.78 0)
 			(hide yes)
 			(show_name no)
@@ -65531,7 +65531,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 243.84 906.78 0)
 			(hide yes)
 			(show_name no)
@@ -65635,7 +65635,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 036"
+		(property "OEPS PN" "OEPS010008"
 			(at 452.12 767.08 0)
 			(hide yes)
 			(show_name no)
@@ -65646,7 +65646,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1210 47uF 25V ±20% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
 			(at 452.12 767.08 0)
 			(hide yes)
 			(show_name no)
@@ -66533,7 +66533,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 190.5 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -66544,7 +66544,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 190.5 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -66647,7 +66647,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 185.42 675.64 0)
 			(hide yes)
 			(show_name no)
@@ -66658,7 +66658,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 185.42 675.64 0)
 			(hide yes)
 			(show_name no)
@@ -66840,7 +66840,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 021"
+		(property "OEPS PN" "OEPS020013"
 			(at 563.88 391.16 0)
 			(hide yes)
 			(show_name no)
@@ -66851,7 +66851,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 10kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 563.88 391.16 0)
 			(hide yes)
 			(show_name no)
@@ -67032,7 +67032,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 038"
+		(property "OEPS PN" "OEPS040029"
 			(at 132.08 1120.14 90)
 			(hide yes)
 			(show_name no)
@@ -67043,7 +67043,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor 063"
+		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
 			(at 132.08 1120.14 90)
 			(hide yes)
 			(show_name no)
@@ -67147,7 +67147,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 047"
+		(property "OEPS PN" "OEPS060001"
 			(at 154.94 617.22 0)
 			(hide yes)
 			(show_name no)
@@ -67158,7 +67158,7 @@
 				)
 			)
 		)
-		(property "old description" "N MOSFET"
+		(property "old description" "TRANSISTOR:   MOSFET N-CH 20V 500mA   [SI1012R-T1-GE3] [SC-75A]"
 			(at 154.94 617.22 0)
 			(hide yes)
 			(show_name no)
@@ -67264,7 +67264,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 076"
+		(property "OEPS PN" "OEPS070149"
 			(at 561.34 932.18 0)
 			(hide yes)
 			(show_name no)
@@ -67275,7 +67275,7 @@
 				)
 			)
 		)
-		(property "old description" "Connector header 8POS 0.8mm"
+		(property "old description" "CONNECTOR:   HEADER 0.8MM 8POS   [BM08B-SURS-TF] [SMD]"
 			(at 561.34 932.18 0)
 			(hide yes)
 			(show_name no)
@@ -67585,7 +67585,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 185.42 1318.26 0)
 			(hide yes)
 			(show_name no)
@@ -67596,7 +67596,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 185.42 1318.26 0)
 			(hide yes)
 			(show_name no)
@@ -67856,7 +67856,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 017"
+		(property "OEPS PN" "OEPS020008"
 			(at 314.96 612.14 0)
 			(hide yes)
 			(show_name no)
@@ -67867,7 +67867,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 3kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 3kΩ ±1% 0.100W   [ERJ-2RKF3001X] [SMD]"
 			(at 314.96 612.14 0)
 			(hide yes)
 			(show_name no)
@@ -67971,7 +67971,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 449.58 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -67982,7 +67982,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 449.58 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -68085,7 +68085,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 152.4 901.7 0)
 			(hide yes)
 			(show_name no)
@@ -68096,7 +68096,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 152.4 901.7 0)
 			(hide yes)
 			(show_name no)
@@ -68200,7 +68200,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 360.68 929.64 0)
 			(hide yes)
 			(show_name no)
@@ -68211,7 +68211,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 360.68 929.64 0)
 			(hide yes)
 			(show_name no)
@@ -68315,7 +68315,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 190.5 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -68326,7 +68326,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 190.5 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -68429,7 +68429,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 015"
+		(property "OEPS PN" "OEPS020007"
 			(at 152.4 1320.8 0)
 			(hide yes)
 			(show_name no)
@@ -68440,7 +68440,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 2kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
 			(at 152.4 1320.8 0)
 			(hide yes)
 			(show_name no)
@@ -68622,7 +68622,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 014"
+		(property "OEPS PN" "OEPS020006"
 			(at 599.44 922.02 0)
 			(hide yes)
 			(show_name no)
@@ -68633,7 +68633,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 1kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
 			(at 599.44 922.02 0)
 			(hide yes)
 			(show_name no)
@@ -68736,7 +68736,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 027"
+		(property "OEPS PN" "OEPS020021"
 			(at 777.24 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -68747,7 +68747,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 178kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 178kΩ ±1% 0.100W   [ERJ-2RKF1783X] [SMD]"
 			(at 777.24 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -68851,7 +68851,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 019"
+		(property "OEPS PN" "OEPS020010"
 			(at 287.02 1292.86 0)
 			(hide yes)
 			(show_name no)
@@ -68862,7 +68862,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 4.7kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
 			(at 287.02 1292.86 0)
 			(hide yes)
 			(show_name no)
@@ -68965,7 +68965,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 566.42 833.12 0)
 			(hide yes)
 			(show_name no)
@@ -68976,7 +68976,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 566.42 833.12 0)
 			(hide yes)
 			(show_name no)
@@ -69079,7 +69079,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 520.7 1143 0)
 			(hide yes)
 			(show_name no)
@@ -69090,7 +69090,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 520.7 1143 0)
 			(hide yes)
 			(show_name no)
@@ -69193,7 +69193,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 010"
+		(property "OEPS PN" "OEPS020002"
 			(at 180.34 576.58 0)
 			(hide yes)
 			(show_name no)
@@ -69204,7 +69204,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 49.9Ω ±0.5% 0.063W"
+		(property "old description" "RESISTOR:   SMD 0402 49.9Ω ±0.5% 0.063W   [RR0510R-49R9-D] [SMD]"
 			(at 180.34 576.58 0)
 			(hide yes)
 			(show_name no)
@@ -69308,7 +69308,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 312.42 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -69319,7 +69319,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 312.42 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -69693,7 +69693,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 264.16 1140.46 0)
 			(hide yes)
 			(show_name no)
@@ -69704,7 +69704,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 264.16 1140.46 0)
 			(hide yes)
 			(show_name no)
@@ -69885,7 +69885,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 347.98 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -69896,7 +69896,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 347.98 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -70000,7 +70000,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 019"
+		(property "OEPS PN" "OEPS020010"
 			(at 274.32 1292.86 0)
 			(hide yes)
 			(show_name no)
@@ -70011,7 +70011,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 4.7kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
 			(at 274.32 1292.86 0)
 			(hide yes)
 			(show_name no)
@@ -70304,7 +70304,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 021"
+		(property "OEPS PN" "OEPS020013"
 			(at 175.26 678.18 0)
 			(hide yes)
 			(show_name no)
@@ -70315,7 +70315,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 10kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 175.26 678.18 0)
 			(hide yes)
 			(show_name no)
@@ -70653,7 +70653,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 040"
+		(property "OEPS PN" "OEPS040034"
 			(at 198.12 1076.96 90)
 			(hide yes)
 			(show_name no)
@@ -70664,7 +70664,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor 0805"
+		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0805 1kΩ 1.5A 150mΩ   [MPZ2012S102AT000] [SMD]"
 			(at 198.12 1076.96 90)
 			(hide yes)
 			(show_name no)
@@ -70768,7 +70768,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 029"
+		(property "OEPS PN" "OEPS010001"
 			(at 228.6 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -70779,7 +70779,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 4.7nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 4.7nF 25V ±10% X7R   [CC0402KRX7R8BB472] [SMD]"
 			(at 228.6 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -70883,7 +70883,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 464.82 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -70894,7 +70894,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 464.82 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -71075,7 +71075,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 017"
+		(property "OEPS PN" "OEPS020008"
 			(at 104.14 675.64 0)
 			(hide yes)
 			(show_name no)
@@ -71086,7 +71086,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 3kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 3kΩ ±1% 0.100W   [ERJ-2RKF3001X] [SMD]"
 			(at 104.14 675.64 0)
 			(hide yes)
 			(show_name no)
@@ -71345,7 +71345,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 038"
+		(property "OEPS PN" "OEPS040029"
 			(at 383.54 1016 90)
 			(hide yes)
 			(show_name no)
@@ -71356,7 +71356,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor 063"
+		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
 			(at 383.54 1016 90)
 			(hide yes)
 			(show_name no)
@@ -71459,7 +71459,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 021"
+		(property "OEPS PN" "OEPS020013"
 			(at 175.26 589.28 0)
 			(hide yes)
 			(show_name no)
@@ -71470,7 +71470,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 10kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 175.26 589.28 0)
 			(hide yes)
 			(show_name no)
@@ -71574,7 +71574,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 335.28 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -71585,7 +71585,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 335.28 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -71689,7 +71689,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 026"
+		(property "OEPS PN" "OEPS020020"
 			(at 386.08 1056.64 0)
 			(hide yes)
 			(show_name no)
@@ -71700,7 +71700,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 165kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
 			(at 386.08 1056.64 0)
 			(hide yes)
 			(show_name no)
@@ -71803,7 +71803,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 006"
+		(property "OEPS PN" "OEPS100086"
 			(at 198.12 1000.76 90)
 			(hide yes)
 			(show_name no)
@@ -71814,7 +71814,7 @@
 				)
 			)
 		)
-		(property "old description" "DIP Switch"
+		(property "old description" "OTHER:   SWITCH SLIDE DIP SPST 0.1A 6V 1 POS   [CHS-01TA] [Other]"
 			(at 198.12 1000.76 90)
 			(hide yes)
 			(show_name no)
@@ -72106,7 +72106,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 215.9 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -72117,7 +72117,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 215.9 566.42 0)
 			(hide yes)
 			(show_name no)
@@ -72221,7 +72221,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 036"
+		(property "OEPS PN" "OEPS010008"
 			(at 462.28 767.08 0)
 			(hide yes)
 			(show_name no)
@@ -72232,7 +72232,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1210 47uF 25V ±20% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
 			(at 462.28 767.08 0)
 			(hide yes)
 			(show_name no)
@@ -72335,7 +72335,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 848.36 1214.12 0)
 			(hide yes)
 			(show_name no)
@@ -72346,7 +72346,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 848.36 1214.12 0)
 			(hide yes)
 			(show_name no)
@@ -72841,7 +72841,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 013"
+		(property "OEPS PN" "OEPS020023"
 			(at 144.78 591.82 0)
 			(hide yes)
 			(show_name no)
@@ -72852,7 +72852,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0603 150Ω ±1% 0.250W"
+		(property "old description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
 			(at 144.78 591.82 0)
 			(hide yes)
 			(show_name no)
@@ -72956,7 +72956,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 020"
+		(property "OEPS PN" "OEPS020011"
 			(at 177.8 998.22 0)
 			(hide yes)
 			(show_name no)
@@ -72967,7 +72967,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 5.6kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 5.6kΩ ±1% 0.100W   [ERJ-2RKF5601X] [SMD]"
 			(at 177.8 998.22 0)
 			(hide yes)
 			(show_name no)
@@ -73148,7 +73148,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 254 929.64 0)
 			(hide yes)
 			(show_name no)
@@ -73159,7 +73159,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 254 929.64 0)
 			(hide yes)
 			(show_name no)
@@ -73419,7 +73419,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 015"
+		(property "OEPS PN" "OEPS020007"
 			(at 152.4 1087.12 0)
 			(hide yes)
 			(show_name no)
@@ -73430,7 +73430,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 2kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
 			(at 152.4 1087.12 0)
 			(hide yes)
 			(show_name no)
@@ -73533,7 +73533,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 039"
+		(property "OEPS PN" "OEPS040033"
 			(at 152.4 1076.96 90)
 			(hide yes)
 			(show_name no)
@@ -73544,7 +73544,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor"
+		(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 100uH 920mA 456mΩ   [SRN6045TA-101M] [SMD]"
 			(at 152.4 1076.96 90)
 			(hide yes)
 			(show_name no)
@@ -73725,7 +73725,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 030"
+		(property "OEPS PN" "OEPS010002"
 			(at 218.44 1135.38 0)
 			(hide yes)
 			(show_name no)
@@ -73736,7 +73736,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 10nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 218.44 1135.38 0)
 			(hide yes)
 			(show_name no)
@@ -73840,7 +73840,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 031"
+		(property "OEPS PN" "OEPS010003"
 			(at 246.38 957.58 0)
 			(hide yes)
 			(show_name no)
@@ -73851,7 +73851,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 47nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 47nF 25V ±10% X7R   [GRM155R71E473KA88D] [SMD]"
 			(at 246.38 957.58 0)
 			(hide yes)
 			(show_name no)
@@ -74223,7 +74223,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 033"
+		(property "OEPS PN" "OEPS010005"
 			(at 370.84 929.64 0)
 			(hide yes)
 			(show_name no)
@@ -74234,7 +74234,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 1uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
 			(at 370.84 929.64 0)
 			(hide yes)
 			(show_name no)
@@ -74416,7 +74416,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 013"
+		(property "OEPS PN" "OEPS020023"
 			(at 160.02 591.82 0)
 			(hide yes)
 			(show_name no)
@@ -74427,7 +74427,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0603 150Ω ±1% 0.250W"
+		(property "old description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
 			(at 160.02 591.82 0)
 			(hide yes)
 			(show_name no)
@@ -74530,7 +74530,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 003"
+		(property "OEPS PN" "OEPS070009"
 			(at 78.74 439.42 0)
 			(hide yes)
 			(show_name no)
@@ -74541,7 +74541,7 @@
 				)
 			)
 		)
-		(property "old description" "SDR Cable Receptacle"
+		(property "old description" "CONNECTOR:   SDR RCPT 90º 26POS   [12226-8250-00FR] [SMD]"
 			(at 78.74 439.42 0)
 			(hide yes)
 			(show_name no)
@@ -74723,7 +74723,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 358.14 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -74734,7 +74734,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 358.14 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -74837,7 +74837,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 038"
+		(property "OEPS PN" "OEPS040029"
 			(at 381 1120.14 90)
 			(hide yes)
 			(show_name no)
@@ -74848,7 +74848,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor 063"
+		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
 			(at 381 1120.14 90)
 			(hide yes)
 			(show_name no)
@@ -74952,7 +74952,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 073"
+		(property "OEPS PN" "OEPS210010"
 			(at 835.66 1214.12 0)
 			(hide yes)
 			(show_name no)
@@ -74963,7 +74963,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP TAN 1411 33uF 20V ±20% B0"
+		(property "old description" "CAPACITOR POL:   SMD TANT B0 1411 33uF 20V ±20% 50Ohm   [TL8B0336M020C] [SMD]"
 			(at 835.66 1214.12 0)
 			(hide yes)
 			(show_name no)
@@ -75382,7 +75382,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 016"
+		(property "OEPS PN" "OEPS080206"
 			(at 426.72 370.84 0)
 			(hide yes)
 			(show_name no)
@@ -75393,7 +75393,7 @@
 				)
 			)
 		)
-		(property "old description" "2.2k IC"
+		(property "old description" "IC:   RES ARRAY 8 RES 2.2K OHM 1506   [EXB-2HV222JV] [SMD]"
 			(at 426.72 370.84 0)
 			(hide yes)
 			(show_name no)
@@ -75538,7 +75538,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 368.3 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -75549,7 +75549,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 368.3 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -75653,7 +75653,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 505.46 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -75664,7 +75664,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 505.46 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -76002,7 +76002,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 015"
+		(property "OEPS PN" "OEPS020007"
 			(at 124.46 1087.12 0)
 			(hide yes)
 			(show_name no)
@@ -76013,7 +76013,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 2kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
 			(at 124.46 1087.12 0)
 			(hide yes)
 			(show_name no)
@@ -76117,7 +76117,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 048"
+		(property "OEPS PN" "OEPS080207"
 			(at 157.48 759.46 0)
 			(hide yes)
 			(show_name no)
@@ -76128,7 +76128,7 @@
 				)
 			)
 		)
-		(property "old description" "Logic Buffer"
+		(property "old description" "IC:   BUFFER NON-INVERT 2CH   [SN74LVC2G34DCKR] [SC-70-6]"
 			(at 157.48 759.46 0)
 			(hide yes)
 			(show_name no)
@@ -76243,7 +76243,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 019"
+		(property "OEPS PN" "OEPS020010"
 			(at 637.54 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -76254,7 +76254,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 4.7kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
 			(at 637.54 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -76436,7 +76436,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 256.54 952.5 0)
 			(hide yes)
 			(show_name no)
@@ -76447,7 +76447,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 256.54 952.5 0)
 			(hide yes)
 			(show_name no)
@@ -76629,7 +76629,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 010"
+		(property "OEPS PN" "OEPS020002"
 			(at 233.68 957.58 0)
 			(hide yes)
 			(show_name no)
@@ -76640,7 +76640,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 49.9Ω ±0.5% 0.063W"
+		(property "old description" "RESISTOR:   SMD 0402 49.9Ω ±0.5% 0.063W   [RR0510R-49R9-D] [SMD]"
 			(at 233.68 957.58 0)
 			(hide yes)
 			(show_name no)
@@ -76743,7 +76743,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 038"
+		(property "OEPS PN" "OEPS040029"
 			(at 381 886.46 90)
 			(hide yes)
 			(show_name no)
@@ -76754,7 +76754,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor 063"
+		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
 			(at 381 886.46 90)
 			(hide yes)
 			(show_name no)
@@ -77014,7 +77014,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 037"
+		(property "OEPS PN" "OEPS040032"
 			(at 124.46 1076.96 90)
 			(hide yes)
 			(show_name no)
@@ -77025,7 +77025,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor"
+		(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 4.7uH 950mA 350mΩ   [1008PS-472KLB] [-]"
 			(at 124.46 1076.96 90)
 			(hide yes)
 			(show_name no)
@@ -77519,7 +77519,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 368.3 1130.3 0)
 			(hide yes)
 			(show_name no)
@@ -77530,7 +77530,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 368.3 1130.3 0)
 			(hide yes)
 			(show_name no)
@@ -77711,7 +77711,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 021"
+		(property "OEPS PN" "OEPS020013"
 			(at 835.66 1259.84 0)
 			(hide yes)
 			(show_name no)
@@ -77722,7 +77722,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 10kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 835.66 1259.84 0)
 			(hide yes)
 			(show_name no)
@@ -78015,7 +78015,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 010"
+		(property "OEPS PN" "OEPS020002"
 			(at 233.68 1191.26 0)
 			(hide yes)
 			(show_name no)
@@ -78026,7 +78026,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 49.9Ω ±0.5% 0.063W"
+		(property "old description" "RESISTOR:   SMD 0402 49.9Ω ±0.5% 0.063W   [RR0510R-49R9-D] [SMD]"
 			(at 233.68 1191.26 0)
 			(hide yes)
 			(show_name no)
@@ -78129,7 +78129,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 030"
+		(property "OEPS PN" "OEPS010002"
 			(at 693.42 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -78140,7 +78140,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 10nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 693.42 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -78321,7 +78321,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 467.36 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -78332,7 +78332,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 467.36 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -78435,7 +78435,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 220.98 1087.12 0)
 			(hide yes)
 			(show_name no)
@@ -78446,7 +78446,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 220.98 1087.12 0)
 			(hide yes)
 			(show_name no)
@@ -78549,7 +78549,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 021"
+		(property "OEPS PN" "OEPS020013"
 			(at 596.9 787.4 0)
 			(hide yes)
 			(show_name no)
@@ -78560,7 +78560,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 10kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 596.9 787.4 0)
 			(hide yes)
 			(show_name no)
@@ -78741,7 +78741,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 001"
+		(property "OEPS PN" "OEPS070003"
 			(at 71.12 576.58 0)
 			(hide yes)
 			(show_name no)
@@ -78752,7 +78752,7 @@
 				)
 			)
 		)
-		(property "old description" "MMCX Coax Connector"
+		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [6-1634010-0] [TH]"
 			(at 71.12 576.58 0)
 			(hide yes)
 			(show_name no)
@@ -78864,7 +78864,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 231.14 1318.26 0)
 			(hide yes)
 			(show_name no)
@@ -78875,7 +78875,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 231.14 1318.26 0)
 			(hide yes)
 			(show_name no)
@@ -79165,7 +79165,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 551.18 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -79176,7 +79176,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 551.18 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -79279,7 +79279,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 008"
+		(property "OEPS PN" "OEPS100088"
 			(at 93.98 754.38 0)
 			(hide yes)
 			(show_name no)
@@ -79290,7 +79290,7 @@
 				)
 			)
 		)
-		(property "old description" "Polyfuse"
+		(property "old description" "OTHER:   PTC RESET FUSE 60V 140MA 1812   [MINISMDC014F-2] [Other]"
 			(at 93.98 754.38 0)
 			(hide yes)
 			(show_name no)
@@ -79394,7 +79394,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 358.14 1130.3 0)
 			(hide yes)
 			(show_name no)
@@ -79405,7 +79405,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 358.14 1130.3 0)
 			(hide yes)
 			(show_name no)
@@ -79509,7 +79509,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 041"
+		(property "OEPS PN" "OEPS040019"
 			(at 599.44 142.24 90)
 			(hide yes)
 			(show_name no)
@@ -79520,7 +79520,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor 0402"
+		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
 			(at 599.44 142.24 90)
 			(hide yes)
 			(show_name no)
@@ -79623,7 +79623,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 005"
+		(property "OEPS PN" "OEPS070148"
 			(at 777.24 1003.3 0)
 			(hide yes)
 			(show_name no)
@@ -79634,7 +79634,7 @@
 				)
 			)
 		)
-		(property "old description" "FMC HPC Male Connector"
+		(property "old description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
 			(at 777.24 1003.3 0)
 			(hide yes)
 			(show_name no)
@@ -81016,7 +81016,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 019"
+		(property "OEPS PN" "OEPS020010"
 			(at 274.32 1059.18 0)
 			(hide yes)
 			(show_name no)
@@ -81027,7 +81027,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 4.7kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
 			(at 274.32 1059.18 0)
 			(hide yes)
 			(show_name no)
@@ -81666,7 +81666,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 001"
+		(property "OEPS PN" "OEPS070003"
 			(at 63.5 1310.64 0)
 			(hide yes)
 			(show_name no)
@@ -81677,7 +81677,7 @@
 				)
 			)
 		)
-		(property "old description" "MMCX Coax Connector"
+		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [6-1634010-0] [TH]"
 			(at 63.5 1310.64 0)
 			(hide yes)
 			(show_name no)
@@ -82024,7 +82024,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 243.84 929.64 0)
 			(hide yes)
 			(show_name no)
@@ -82035,7 +82035,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 243.84 929.64 0)
 			(hide yes)
 			(show_name no)
@@ -82139,7 +82139,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 581.66 789.94 0)
 			(hide yes)
 			(show_name no)
@@ -82150,7 +82150,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 581.66 789.94 0)
 			(hide yes)
 			(show_name no)
@@ -82253,7 +82253,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 053"
+		(property "OEPS PN" "OEPS080209"
 			(at 226.06 279.4 0)
 			(hide yes)
 			(show_name no)
@@ -82264,7 +82264,7 @@
 				)
 			)
 		)
-		(property "old description" "Quad SPST"
+		(property "old description" "IC:   SWITCH SPST-NOX4 1.5OHM   [DG1412EEN-T1-GE4] [16-QFN (4x4)]"
 			(at 226.06 279.4 0)
 			(hide yes)
 			(show_name no)
@@ -82961,7 +82961,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 016"
+		(property "OEPS PN" "OEPS080206"
 			(at 426.72 431.8 0)
 			(hide yes)
 			(show_name no)
@@ -82972,7 +82972,7 @@
 				)
 			)
 		)
-		(property "old description" "2.2k IC"
+		(property "old description" "IC:   RES ARRAY 8 RES 2.2K OHM 1506   [EXB-2HV222JV] [SMD]"
 			(at 426.72 431.8 0)
 			(hide yes)
 			(show_name no)
@@ -83117,7 +83117,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 019"
+		(property "OEPS PN" "OEPS020010"
 			(at 637.54 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -83128,7 +83128,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 4.7kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
 			(at 637.54 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -83231,7 +83231,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 619.76 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -83242,7 +83242,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 619.76 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -83425,7 +83425,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 388.62 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -83436,7 +83436,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 388.62 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -83807,7 +83807,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 335.28 1130.3 0)
 			(hide yes)
 			(show_name no)
@@ -83818,7 +83818,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 335.28 1130.3 0)
 			(hide yes)
 			(show_name no)
@@ -84000,7 +84000,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 030"
+		(property "OEPS PN" "OEPS010002"
 			(at 205.74 1135.38 0)
 			(hide yes)
 			(show_name no)
@@ -84011,7 +84011,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 10nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 205.74 1135.38 0)
 			(hide yes)
 			(show_name no)
@@ -84194,7 +84194,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 014"
+		(property "OEPS PN" "OEPS020006"
 			(at 612.14 927.1 0)
 			(hide yes)
 			(show_name no)
@@ -84205,7 +84205,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 1kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
 			(at 612.14 927.1 0)
 			(hide yes)
 			(show_name no)
@@ -84467,7 +84467,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 012"
+		(property "OEPS PN" "OEPS020004"
 			(at 185.42 414.02 0)
 			(hide yes)
 			(show_name no)
@@ -84478,7 +84478,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 100Ω ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 100Ω ±1% 0.100W   [ERJ-2RKF1000X] [SMD]"
 			(at 185.42 414.02 0)
 			(hide yes)
 			(show_name no)
@@ -84582,7 +84582,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 238.76 441.96 0)
 			(hide yes)
 			(show_name no)
@@ -84593,7 +84593,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 238.76 441.96 0)
 			(hide yes)
 			(show_name no)
@@ -84774,7 +84774,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 005"
+		(property "OEPS PN" "OEPS070148"
 			(at 777.24 508 0)
 			(hide yes)
 			(show_name no)
@@ -84785,7 +84785,7 @@
 				)
 			)
 		)
-		(property "old description" "FMC HPC Male Connector"
+		(property "old description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
 			(at 777.24 508 0)
 			(hide yes)
 			(show_name no)
@@ -86167,7 +86167,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 861.06 1214.12 0)
 			(hide yes)
 			(show_name no)
@@ -86178,7 +86178,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 861.06 1214.12 0)
 			(hide yes)
 			(show_name no)
@@ -86281,7 +86281,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 039"
+		(property "OEPS PN" "OEPS040033"
 			(at 152.4 1310.64 90)
 			(hide yes)
 			(show_name no)
@@ -86292,7 +86292,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor"
+		(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 100uH 920mA 456mΩ   [SRN6045TA-101M] [SMD]"
 			(at 152.4 1310.64 90)
 			(hide yes)
 			(show_name no)
@@ -86395,7 +86395,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 022"
+		(property "OEPS PN" "OEPS020015"
 			(at 637.54 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -86406,7 +86406,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 15kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 15kΩ ±1% 0.100W   [ERJ-2RKF1502X] [SMD]"
 			(at 637.54 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -86587,7 +86587,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 030"
+		(property "OEPS PN" "OEPS010002"
 			(at 693.42 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -86598,7 +86598,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 10nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 693.42 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -86701,7 +86701,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 013"
+		(property "OEPS PN" "OEPS020023"
 			(at 144.78 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -86712,7 +86712,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0603 150Ω ±1% 0.250W"
+		(property "old description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
 			(at 144.78 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -86816,7 +86816,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 381 1163.32 0)
 			(hide yes)
 			(show_name no)
@@ -86827,7 +86827,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 381 1163.32 0)
 			(hide yes)
 			(show_name no)
@@ -86930,7 +86930,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 010"
+		(property "OEPS PN" "OEPS020002"
 			(at 180.34 665.48 0)
 			(hide yes)
 			(show_name no)
@@ -86941,7 +86941,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 49.9Ω ±0.5% 0.063W"
+		(property "old description" "RESISTOR:   SMD 0402 49.9Ω ±0.5% 0.063W   [RR0510R-49R9-D] [SMD]"
 			(at 180.34 665.48 0)
 			(hide yes)
 			(show_name no)
@@ -87122,7 +87122,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 006"
+		(property "OEPS PN" "OEPS100086"
 			(at 198.12 1234.44 90)
 			(hide yes)
 			(show_name no)
@@ -87133,7 +87133,7 @@
 				)
 			)
 		)
-		(property "old description" "DIP Switch"
+		(property "old description" "OTHER:   SWITCH SLIDE DIP SPST 0.1A 6V 1 POS   [CHS-01TA] [Other]"
 			(at 198.12 1234.44 90)
 			(hide yes)
 			(show_name no)
@@ -87393,7 +87393,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 043"
+		(property "OEPS PN" "OEPS030049"
 			(at 101.6 1318.26 90)
 			(hide yes)
 			(show_name no)
@@ -87404,7 +87404,7 @@
 				)
 			)
 		)
-		(property "old description" "TVS Diode 0402"
+		(property "old description" "DIODE:   TVS DIODE 7VWM 13VC   [SESD0402X1UN-0030-088] [0402/2DFN]"
 			(at 101.6 1318.26 90)
 			(hide yes)
 			(show_name no)
@@ -87664,7 +87664,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 073"
+		(property "OEPS PN" "OEPS210010"
 			(at 787.4 1214.12 0)
 			(hide yes)
 			(show_name no)
@@ -87675,7 +87675,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP TAN 1411 33uF 20V ±20% B0"
+		(property "old description" "CAPACITOR POL:   SMD TANT B0 1411 33uF 20V ±20% 50Ohm   [TL8B0336M020C] [SMD]"
 			(at 787.4 1214.12 0)
 			(hide yes)
 			(show_name no)
@@ -88045,7 +88045,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 013"
+		(property "OEPS PN" "OEPS020023"
 			(at 160.02 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -88056,7 +88056,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0603 150Ω ±1% 0.250W"
+		(property "old description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
 			(at 160.02 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -88159,7 +88159,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 330.2 632.46 0)
 			(hide yes)
 			(show_name no)
@@ -88170,7 +88170,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 330.2 632.46 0)
 			(hide yes)
 			(show_name no)
@@ -88510,7 +88510,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 050"
+		(property "OEPS PN" "OEPS080006"
 			(at 203.2 431.8 0)
 			(hide yes)
 			(show_name no)
@@ -88521,7 +88521,7 @@
 				)
 			)
 		)
-		(property "old description" "Quad LVDS Receiver"
+		(property "old description" "IC:   LVDS 4channel receiver   [FIN1032MTCX] [16-TSSOP]"
 			(at 203.2 431.8 0)
 			(hide yes)
 			(show_name no)
@@ -88667,7 +88667,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 764.54 1231.9 0)
 			(hide yes)
 			(show_name no)
@@ -88678,7 +88678,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 764.54 1231.9 0)
 			(hide yes)
 			(show_name no)
@@ -88861,7 +88861,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 016"
+		(property "OEPS PN" "OEPS080206"
 			(at 426.72 411.48 0)
 			(hide yes)
 			(show_name no)
@@ -88872,7 +88872,7 @@
 				)
 			)
 		)
-		(property "old description" "2.2k IC"
+		(property "old description" "IC:   RES ARRAY 8 RES 2.2K OHM 1506   [EXB-2HV222JV] [SMD]"
 			(at 426.72 411.48 0)
 			(hide yes)
 			(show_name no)
@@ -89018,7 +89018,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 019"
+		(property "OEPS PN" "OEPS020010"
 			(at 340.36 1176.02 0)
 			(hide yes)
 			(show_name no)
@@ -89029,7 +89029,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 4.7kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
 			(at 340.36 1176.02 0)
 			(hide yes)
 			(show_name no)
@@ -89132,7 +89132,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 036"
+		(property "OEPS PN" "OEPS010008"
 			(at 756.92 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -89143,7 +89143,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1210 47uF 25V ±20% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
 			(at 756.92 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -89246,7 +89246,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 053"
+		(property "OEPS PN" "OEPS080209"
 			(at 226.06 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -89257,7 +89257,7 @@
 				)
 			)
 		)
-		(property "old description" "Quad SPST"
+		(property "old description" "IC:   SWITCH SPST-NOX4 1.5OHM   [DG1412EEN-T1-GE4] [16-QFN (4x4)]"
 			(at 226.06 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -89481,7 +89481,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 014"
+		(property "OEPS PN" "OEPS020006"
 			(at 622.3 924.56 0)
 			(hide yes)
 			(show_name no)
@@ -89492,7 +89492,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 1kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
 			(at 622.3 924.56 0)
 			(hide yes)
 			(show_name no)
@@ -89752,7 +89752,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 005"
+		(property "OEPS PN" "OEPS070148"
 			(at 777.24 342.9 0)
 			(hide yes)
 			(show_name no)
@@ -89763,7 +89763,7 @@
 				)
 			)
 		)
-		(property "old description" "FMC HPC Male Connector"
+		(property "old description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
 			(at 777.24 342.9 0)
 			(hide yes)
 			(show_name no)
@@ -91144,7 +91144,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 447.04 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -91155,7 +91155,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 447.04 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -91259,7 +91259,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 014"
+		(property "OEPS PN" "OEPS020006"
 			(at 177.8 619.76 0)
 			(hide yes)
 			(show_name no)
@@ -91270,7 +91270,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 1kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
 			(at 177.8 619.76 0)
 			(hide yes)
 			(show_name no)
@@ -91373,7 +91373,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 165.1 1135.38 0)
 			(hide yes)
 			(show_name no)
@@ -91384,7 +91384,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 165.1 1135.38 0)
 			(hide yes)
 			(show_name no)
@@ -91497,7 +91497,7 @@
 				)
 			)
 		)
-		(property "old description" "TVS DIODE ARRAY"
+		(property "old description" "IC:   TVS DIODE ARRAY   [D3V3XA4B10LP-7] [10-UFDFN]"
 			(at 208.28 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -91702,7 +91702,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 025"
+		(property "OEPS PN" "OEPS020018"
 			(at 850.9 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -91713,7 +91713,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 73.2kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 73.2kΩ ±1% 0.100W   [ERJ-2RKF7322X] [SMD]"
 			(at 850.9 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -91816,7 +91816,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 220.98 1320.8 0)
 			(hide yes)
 			(show_name no)
@@ -91827,7 +91827,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 220.98 1320.8 0)
 			(hide yes)
 			(show_name no)
@@ -91931,7 +91931,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 424.18 609.6 0)
 			(hide yes)
 			(show_name no)
@@ -91942,7 +91942,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 424.18 609.6 0)
 			(hide yes)
 			(show_name no)
@@ -92046,7 +92046,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 023"
+		(property "OEPS PN" "OEPS020016"
 			(at 177.8 1249.68 0)
 			(hide yes)
 			(show_name no)
@@ -92057,7 +92057,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 21kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 21kΩ ±1% 0.100W   [ERJ-2RKF2102X] [SMD]"
 			(at 177.8 1249.68 0)
 			(hide yes)
 			(show_name no)
@@ -92160,7 +92160,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 021"
+		(property "OEPS PN" "OEPS020013"
 			(at 561.34 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -92171,7 +92171,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 10kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 561.34 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -92275,7 +92275,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 030"
+		(property "OEPS PN" "OEPS010002"
 			(at 322.58 1130.3 0)
 			(hide yes)
 			(show_name no)
@@ -92286,7 +92286,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 10nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 322.58 1130.3 0)
 			(hide yes)
 			(show_name no)
@@ -92389,7 +92389,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 008"
+		(property "OEPS PN" "OEPS100088"
 			(at 93.98 665.48 0)
 			(hide yes)
 			(show_name no)
@@ -92400,7 +92400,7 @@
 				)
 			)
 		)
-		(property "old description" "Polyfuse"
+		(property "old description" "OTHER:   PTC RESET FUSE 60V 140MA 1812   [MINISMDC014F-2] [Other]"
 			(at 93.98 665.48 0)
 			(hide yes)
 			(show_name no)
@@ -92503,7 +92503,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 015"
+		(property "OEPS PN" "OEPS020007"
 			(at 124.46 1320.8 0)
 			(hide yes)
 			(show_name no)
@@ -92514,7 +92514,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 2kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
 			(at 124.46 1320.8 0)
 			(hide yes)
 			(show_name no)
@@ -92618,7 +92618,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 381 929.64 0)
 			(hide yes)
 			(show_name no)
@@ -92629,7 +92629,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 381 929.64 0)
 			(hide yes)
 			(show_name no)
@@ -92811,7 +92811,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 571.5 309.88 0)
 			(hide yes)
 			(show_name no)
@@ -92822,7 +92822,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 571.5 309.88 0)
 			(hide yes)
 			(show_name no)
@@ -92925,7 +92925,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 015"
+		(property "OEPS PN" "OEPS020007"
 			(at 447.04 609.6 0)
 			(hide yes)
 			(show_name no)
@@ -92936,7 +92936,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 2kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
 			(at 447.04 609.6 0)
 			(hide yes)
 			(show_name no)
@@ -93195,7 +93195,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 419.1 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -93206,7 +93206,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 419.1 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -93467,7 +93467,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 619.76 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -93478,7 +93478,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 619.76 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -93581,7 +93581,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 030"
+		(property "OEPS PN" "OEPS010002"
 			(at 693.42 226.06 0)
 			(hide yes)
 			(show_name no)
@@ -93592,7 +93592,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 10nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 693.42 226.06 0)
 			(hide yes)
 			(show_name no)
@@ -93932,7 +93932,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 312.42 1130.3 0)
 			(hide yes)
 			(show_name no)
@@ -93943,7 +93943,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 312.42 1130.3 0)
 			(hide yes)
 			(show_name no)
@@ -94203,7 +94203,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 215.9 655.32 0)
 			(hide yes)
 			(show_name no)
@@ -94214,7 +94214,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 215.9 655.32 0)
 			(hide yes)
 			(show_name no)
@@ -94551,7 +94551,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 021"
+		(property "OEPS PN" "OEPS020013"
 			(at 304.8 1308.1 0)
 			(hide yes)
 			(show_name no)
@@ -94562,7 +94562,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 10kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 304.8 1308.1 0)
 			(hide yes)
 			(show_name no)
@@ -94666,7 +94666,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 474.98 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -94677,7 +94677,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 474.98 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -94780,7 +94780,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 591.82 1145.54 0)
 			(hide yes)
 			(show_name no)
@@ -94791,7 +94791,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 591.82 1145.54 0)
 			(hide yes)
 			(show_name no)
@@ -94973,7 +94973,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 177.8 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -94984,7 +94984,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 177.8 314.96 0)
 			(hide yes)
 			(show_name no)
@@ -95166,7 +95166,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 535.94 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -95177,7 +95177,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 535.94 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -95281,7 +95281,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 020"
+		(property "OEPS PN" "OEPS020011"
 			(at 177.8 1229.36 0)
 			(hide yes)
 			(show_name no)
@@ -95292,7 +95292,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 5.6kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 5.6kΩ ±1% 0.100W   [ERJ-2RKF5601X] [SMD]"
 			(at 177.8 1229.36 0)
 			(hide yes)
 			(show_name no)
@@ -95395,7 +95395,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 013"
+		(property "OEPS PN" "OEPS020023"
 			(at 152.4 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -95406,7 +95406,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0603 150Ω ±1% 0.250W"
+		(property "old description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
 			(at 152.4 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -95509,7 +95509,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 028"
+		(property "OEPS PN" "OEPS020022"
 			(at 538.48 795.02 0)
 			(hide yes)
 			(show_name no)
@@ -95520,7 +95520,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 649kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 649kΩ ±1% 0.100W   [ERJ-2RKF6493X] [SMD]"
 			(at 538.48 795.02 0)
 			(hide yes)
 			(show_name no)
@@ -95812,7 +95812,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 421.64 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -95823,7 +95823,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 421.64 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -95994,7 +95994,7 @@
 				)
 			)
 		)
-		(property "MPN" "BAR 66 E6327"
+		(property "MPN" "BAR66E6327HTSA1"
 			(at 116.84 665.48 0)
 			(hide yes)
 			(show_name no)
@@ -96005,7 +96005,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 044"
+		(property "OEPS PN" "OEPS030050"
 			(at 116.84 665.48 0)
 			(hide yes)
 			(show_name no)
@@ -96016,7 +96016,7 @@
 				)
 			)
 		)
-		(property "old description" "PIN Diode STO23"
+		(property "old description" "#N/A"
 			(at 116.84 665.48 0)
 			(hide yes)
 			(show_name no)
@@ -96280,7 +96280,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 584.2 309.88 0)
 			(hide yes)
 			(show_name no)
@@ -96291,7 +96291,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 584.2 309.88 0)
 			(hide yes)
 			(show_name no)
@@ -96540,7 +96540,7 @@
 				)
 			)
 		)
-		(property "MPN" "BAR 66 E6327"
+		(property "MPN" "BAR66E6327HTSA1"
 			(at 116.84 576.58 0)
 			(hide yes)
 			(show_name no)
@@ -96551,7 +96551,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 044"
+		(property "OEPS PN" "OEPS030050"
 			(at 116.84 576.58 0)
 			(hide yes)
 			(show_name no)
@@ -96562,7 +96562,7 @@
 				)
 			)
 		)
-		(property "old description" "PIN Diode STO23"
+		(property "old description" "#N/A"
 			(at 116.84 576.58 0)
 			(hide yes)
 			(show_name no)
@@ -96747,7 +96747,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 021"
+		(property "OEPS PN" "OEPS020013"
 			(at 454.66 322.58 0)
 			(hide yes)
 			(show_name no)
@@ -96758,7 +96758,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 10kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 454.66 322.58 0)
 			(hide yes)
 			(show_name no)
@@ -96862,7 +96862,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 256.54 1186.18 0)
 			(hide yes)
 			(show_name no)
@@ -96873,7 +96873,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 256.54 1186.18 0)
 			(hide yes)
 			(show_name no)
@@ -96977,7 +96977,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 030"
+		(property "OEPS PN" "OEPS010002"
 			(at 345.44 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -96988,7 +96988,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 10nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 345.44 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -97327,7 +97327,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 012"
+		(property "OEPS PN" "OEPS020004"
 			(at 185.42 398.78 0)
 			(hide yes)
 			(show_name no)
@@ -97338,7 +97338,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 100Ω ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 100Ω ±1% 0.100W   [ERJ-2RKF1000X] [SMD]"
 			(at 185.42 398.78 0)
 			(hide yes)
 			(show_name no)
@@ -97522,7 +97522,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 016"
+		(property "OEPS PN" "OEPS080206"
 			(at 426.72 391.16 0)
 			(hide yes)
 			(show_name no)
@@ -97533,7 +97533,7 @@
 				)
 			)
 		)
-		(property "old description" "2.2k IC"
+		(property "old description" "IC:   RES ARRAY 8 RES 2.2K OHM 1506   [EXB-2HV222JV] [SMD]"
 			(at 426.72 391.16 0)
 			(hide yes)
 			(show_name no)
@@ -98025,7 +98025,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 030"
+		(property "OEPS PN" "OEPS010002"
 			(at 345.44 1130.3 0)
 			(hide yes)
 			(show_name no)
@@ -98036,7 +98036,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 10nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 345.44 1130.3 0)
 			(hide yes)
 			(show_name no)
@@ -98453,7 +98453,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 033"
+		(property "OEPS PN" "OEPS010005"
 			(at 424.18 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -98464,7 +98464,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 1uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
 			(at 424.18 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -98646,7 +98646,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 033"
+		(property "OEPS PN" "OEPS010005"
 			(at 358.14 1257.3 0)
 			(hide yes)
 			(show_name no)
@@ -98657,7 +98657,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 1uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
 			(at 358.14 1257.3 0)
 			(hide yes)
 			(show_name no)
@@ -98760,7 +98760,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 337.82 1257.3 0)
 			(hide yes)
 			(show_name no)
@@ -98771,7 +98771,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 337.82 1257.3 0)
 			(hide yes)
 			(show_name no)
@@ -98953,7 +98953,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 005"
+		(property "OEPS PN" "OEPS070148"
 			(at 762 1155.7 0)
 			(hide yes)
 			(show_name no)
@@ -98964,7 +98964,7 @@
 				)
 			)
 		)
-		(property "old description" "FMC HPC Male Connector"
+		(property "old description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
 			(at 762 1155.7 0)
 			(hide yes)
 			(show_name no)
@@ -100423,7 +100423,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 347.98 1023.62 0)
 			(hide yes)
 			(show_name no)
@@ -100434,7 +100434,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 347.98 1023.62 0)
 			(hide yes)
 			(show_name no)
@@ -100537,7 +100537,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 030"
+		(property "OEPS PN" "OEPS010002"
 			(at 177.8 901.7 0)
 			(hide yes)
 			(show_name no)
@@ -100548,7 +100548,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 10nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 177.8 901.7 0)
 			(hide yes)
 			(show_name no)
@@ -100730,7 +100730,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 065"
+		(property "OEPS PN" "OEPS080218"
 			(at 807.72 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -100741,7 +100741,7 @@
 				)
 			)
 		)
-		(property "old description" "DC-DC Converter"
+		(property "old description" "IC:   DC DC CONVERTER ADJ 2outputs 2x1A   [LTM8049IY#PBF] [77-BGA (15x9)]"
 			(at 807.72 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -101228,7 +101228,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 177.8 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -101239,7 +101239,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 177.8 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -101344,7 +101344,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 052"
+		(property "OEPS PN" "OEPS080208"
 			(at 205.74 579.12 0)
 			(hide yes)
 			(show_name no)
@@ -101355,7 +101355,7 @@
 				)
 			)
 		)
-		(property "old description" "Comparitor"
+		(property "old description" "IC:   COMPARATOR 1 GP   [ADCMP600BRJZ-R2] [SOT23-5]"
 			(at 205.74 579.12 0)
 			(hide yes)
 			(show_name no)
@@ -101468,7 +101468,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 871.22 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -101479,7 +101479,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 871.22 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -101738,7 +101738,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 015"
+		(property "OEPS PN" "OEPS020007"
 			(at 439.42 609.6 0)
 			(hide yes)
 			(show_name no)
@@ -101749,7 +101749,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 2kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
 			(at 439.42 609.6 0)
 			(hide yes)
 			(show_name no)
@@ -101852,7 +101852,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 053"
+		(property "OEPS PN" "OEPS080209"
 			(at 226.06 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -101863,7 +101863,7 @@
 				)
 			)
 		)
-		(property "old description" "Quad SPST"
+		(property "old description" "IC:   SWITCH SPST-NOX4 1.5OHM   [DG1412EEN-T1-GE4] [16-QFN (4x4)]"
 			(at 226.06 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -102087,7 +102087,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 177.8 764.54 0)
 			(hide yes)
 			(show_name no)
@@ -102098,7 +102098,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 177.8 764.54 0)
 			(hide yes)
 			(show_name no)
@@ -102201,7 +102201,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 175.26 1087.12 0)
 			(hide yes)
 			(show_name no)
@@ -102212,7 +102212,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 175.26 1087.12 0)
 			(hide yes)
 			(show_name no)
@@ -102315,7 +102315,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 052"
+		(property "OEPS PN" "OEPS080208"
 			(at 208.28 579.12 0)
 			(hide yes)
 			(show_name no)
@@ -102326,7 +102326,7 @@
 				)
 			)
 		)
-		(property "old description" "Comparitor"
+		(property "old description" "IC:   COMPARATOR 1 GP   [ADCMP600BRJZ-R2] [SOT23-5]"
 			(at 208.28 579.12 0)
 			(hide yes)
 			(show_name no)
@@ -102438,7 +102438,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 175.26 1320.8 0)
 			(hide yes)
 			(show_name no)
@@ -102449,7 +102449,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 175.26 1320.8 0)
 			(hide yes)
 			(show_name no)
@@ -102552,7 +102552,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 017"
+		(property "OEPS PN" "OEPS020008"
 			(at 330.2 612.14 0)
 			(hide yes)
 			(show_name no)
@@ -102563,7 +102563,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 3kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 3kΩ ±1% 0.100W   [ERJ-2RKF3001X] [SMD]"
 			(at 330.2 612.14 0)
 			(hide yes)
 			(show_name no)
@@ -102667,7 +102667,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 063"
+		(property "OEPS PN" "OEPS080216"
 			(at 665.48 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -102678,7 +102678,7 @@
 				)
 			)
 		)
-		(property "old description" "Negative LDO Regulator"
+		(property "old description" "IC:   LDO NEGATIVE ADJ 200mA   [TPS7A3001DRBT] [8-SON (3x3)]"
 			(at 665.48 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -102814,7 +102814,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 019"
+		(property "OEPS PN" "OEPS020010"
 			(at 637.54 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -102825,7 +102825,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 4.7kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
 			(at 637.54 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -103196,7 +103196,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 026"
+		(property "OEPS PN" "OEPS020020"
 			(at 167.64 716.28 0)
 			(hide yes)
 			(show_name no)
@@ -103207,7 +103207,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 165kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
 			(at 167.64 716.28 0)
 			(hide yes)
 			(show_name no)
@@ -103310,7 +103310,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 017"
+		(property "OEPS PN" "OEPS020008"
 			(at 104.14 586.74 0)
 			(hide yes)
 			(show_name no)
@@ -103321,7 +103321,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 3kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 3kΩ ±1% 0.100W   [ERJ-2RKF3001X] [SMD]"
 			(at 104.14 586.74 0)
 			(hide yes)
 			(show_name no)
@@ -103502,7 +103502,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 408.94 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -103513,7 +103513,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 408.94 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -103617,7 +103617,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 033"
+		(property "OEPS PN" "OEPS010005"
 			(at 370.84 1163.32 0)
 			(hide yes)
 			(show_name no)
@@ -103628,7 +103628,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 1uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
 			(at 370.84 1163.32 0)
 			(hide yes)
 			(show_name no)
@@ -104044,7 +104044,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 243.84 1140.46 0)
 			(hide yes)
 			(show_name no)
@@ -104055,7 +104055,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 243.84 1140.46 0)
 			(hide yes)
 			(show_name no)
@@ -104237,7 +104237,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 030"
+		(property "OEPS PN" "OEPS010002"
 			(at 205.74 901.7 0)
 			(hide yes)
 			(show_name no)
@@ -104248,7 +104248,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 10nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 205.74 901.7 0)
 			(hide yes)
 			(show_name no)
@@ -104509,7 +104509,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 005"
+		(property "OEPS PN" "OEPS070148"
 			(at 777.24 838.2 0)
 			(hide yes)
 			(show_name no)
@@ -104520,7 +104520,7 @@
 				)
 			)
 		)
-		(property "old description" "FMC HPC Male Connector"
+		(property "old description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
 			(at 777.24 838.2 0)
 			(hide yes)
 			(show_name no)
@@ -105823,7 +105823,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 553.72 833.12 0)
 			(hide yes)
 			(show_name no)
@@ -105834,7 +105834,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 553.72 833.12 0)
 			(hide yes)
 			(show_name no)
@@ -105937,7 +105937,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 001"
+		(property "OEPS PN" "OEPS070003"
 			(at 71.12 754.38 0)
 			(hide yes)
 			(show_name no)
@@ -105948,7 +105948,7 @@
 				)
 			)
 		)
-		(property "old description" "MMCX Coax Connector"
+		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [6-1634010-0] [TH]"
 			(at 71.12 754.38 0)
 			(hide yes)
 			(show_name no)
@@ -106138,7 +106138,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 057"
+		(property "OEPS PN" "OEPS080213"
 			(at 393.7 627.38 0)
 			(hide yes)
 			(show_name no)
@@ -106149,7 +106149,7 @@
 				)
 			)
 		)
-		(property "old description" "8-bit 2 channel DAC"
+		(property "old description" "IC:   DAC 8BIT 2CH   [MCP47FEB02A0-E/ST] [8-TSSOP]"
 			(at 393.7 627.38 0)
 			(hide yes)
 			(show_name no)
@@ -106271,7 +106271,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 071"
+		(property "OEPS PN" "OEPS080210"
 			(at 307.34 1201.42 0)
 			(hide yes)
 			(show_name no)
@@ -106282,7 +106282,7 @@
 				)
 			)
 		)
-		(property "old description" "Deserializer"
+		(property "old description" "IC:   DESERIALIZER FPD-Link III   [DS90UB934TRGZRQ1] [48-VQFN (7x7)]"
 			(at 307.34 1201.42 0)
 			(hide yes)
 			(show_name no)
@@ -106909,7 +106909,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1210C104KCRAC7800"
+		(property "MPN" "C1210C104KCRACTU"
 			(at 744.22 1165.86 0)
 			(hide yes)
 			(show_name no)
@@ -106920,7 +106920,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 072"
+		(property "OEPS PN" "OEPS010091"
 			(at 744.22 1165.86 0)
 			(hide yes)
 			(show_name no)
@@ -106931,7 +106931,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1210 100nF 500V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1210 100nF 500V ±10% X7R   [C1210C104KCRACTU] [SMD]"
 			(at 744.22 1165.86 0)
 			(hide yes)
 			(show_name no)
@@ -107112,7 +107112,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 800.1 1214.12 0)
 			(hide yes)
 			(show_name no)
@@ -107123,7 +107123,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 800.1 1214.12 0)
 			(hide yes)
 			(show_name no)
@@ -107227,7 +107227,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 023"
+		(property "OEPS PN" "OEPS020016"
 			(at 177.8 1021.08 0)
 			(hide yes)
 			(show_name no)
@@ -107238,7 +107238,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 21kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 21kΩ ±1% 0.100W   [ERJ-2RKF2102X] [SMD]"
 			(at 177.8 1021.08 0)
 			(hide yes)
 			(show_name no)
@@ -107507,7 +107507,7 @@
 				)
 			)
 		)
-		(property "old description" "TVS DIODE ARRAY"
+		(property "old description" "IC:   TVS DIODE ARRAY   [D3V3XA4B10LP-7] [10-UFDFN]"
 			(at 156.21 458.47 0)
 			(hide yes)
 			(show_name no)
@@ -107713,7 +107713,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 074"
+		(property "OEPS PN" "OEPS020174"
 			(at 607.06 838.2 0)
 			(hide yes)
 			(show_name no)
@@ -107724,7 +107724,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 2.2kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 2.2kΩ ±1% 0.100W   [ERJ-2RKF2201X] [SMD]"
 			(at 607.06 838.2 0)
 			(hide yes)
 			(show_name no)
@@ -107827,7 +107827,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 001"
+		(property "OEPS PN" "OEPS070003"
 			(at 71.12 665.48 0)
 			(hide yes)
 			(show_name no)
@@ -107838,7 +107838,7 @@
 				)
 			)
 		)
-		(property "old description" "MMCX Coax Connector"
+		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [6-1634010-0] [TH]"
 			(at 71.12 665.48 0)
 			(hide yes)
 			(show_name no)
@@ -108107,7 +108107,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 009"
+		(property "OEPS PN" "OEPS020001"
 			(at 378.46 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -108118,7 +108118,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 0Ω 1A"
+		(property "old description" "RESISTOR:   SMD 0402 0Ω 1A   [RC0402JR-070RL] [SMD]"
 			(at 378.46 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -108221,7 +108221,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 706.12 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -108232,7 +108232,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 706.12 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -108336,7 +108336,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 041"
+		(property "OEPS PN" "OEPS040019"
 			(at 599.44 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -108347,7 +108347,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor 0402"
+		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
 			(at 599.44 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -108451,7 +108451,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 036"
+		(property "OEPS PN" "OEPS010008"
 			(at 472.44 767.08 0)
 			(hide yes)
 			(show_name no)
@@ -108462,7 +108462,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1210 47uF 25V ±20% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
 			(at 472.44 767.08 0)
 			(hide yes)
 			(show_name no)
@@ -108644,7 +108644,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 254 1163.32 0)
 			(hide yes)
 			(show_name no)
@@ -108655,7 +108655,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 254 1163.32 0)
 			(hide yes)
 			(show_name no)
@@ -108837,7 +108837,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 358.14 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -108848,7 +108848,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 358.14 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -109029,7 +109029,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 381 713.74 0)
 			(hide yes)
 			(show_name no)
@@ -109040,7 +109040,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 381 713.74 0)
 			(hide yes)
 			(show_name no)
@@ -109144,7 +109144,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 078"
+		(property "OEPS PN" "OEPS080219"
 			(at 561.34 1143 0)
 			(hide yes)
 			(show_name no)
@@ -109155,7 +109155,7 @@
 				)
 			)
 		)
-		(property "old description" "Step Down Converter 1.8V 1.6A"
+		(property "old description" "IC:   FIXED REG BUCK 1.8V 1.6A   [TPS62061DSGT] [8-WSON (2x2)]"
 			(at 561.34 1143 0)
 			(hide yes)
 			(show_name no)
@@ -109279,7 +109279,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 030"
+		(property "OEPS PN" "OEPS010002"
 			(at 391.16 713.74 0)
 			(hide yes)
 			(show_name no)
@@ -109290,7 +109290,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 10nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 391.16 713.74 0)
 			(hide yes)
 			(show_name no)
@@ -109394,7 +109394,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 525.78 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -109405,7 +109405,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 525.78 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -109508,7 +109508,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 021"
+		(property "OEPS PN" "OEPS020013"
 			(at 845.82 1259.84 0)
 			(hide yes)
 			(show_name no)
@@ -109519,7 +109519,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 10kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 845.82 1259.84 0)
 			(hide yes)
 			(show_name no)
@@ -109701,7 +109701,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 012"
+		(property "OEPS PN" "OEPS020004"
 			(at 185.42 429.26 0)
 			(hide yes)
 			(show_name no)
@@ -109712,7 +109712,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 100Ω ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 100Ω ±1% 0.100W   [ERJ-2RKF1000X] [SMD]"
 			(at 185.42 429.26 0)
 			(hide yes)
 			(show_name no)
@@ -109971,7 +109971,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 030"
+		(property "OEPS PN" "OEPS010002"
 			(at 218.44 901.7 0)
 			(hide yes)
 			(show_name no)
@@ -109982,7 +109982,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 10nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 218.44 901.7 0)
 			(hide yes)
 			(show_name no)
@@ -110085,7 +110085,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 008"
+		(property "OEPS PN" "OEPS100088"
 			(at 93.98 576.58 0)
 			(hide yes)
 			(show_name no)
@@ -110096,7 +110096,7 @@
 				)
 			)
 		)
-		(property "old description" "Polyfuse"
+		(property "old description" "OTHER:   PTC RESET FUSE 60V 140MA 1812   [MINISMDC014F-2] [Other]"
 			(at 93.98 576.58 0)
 			(hide yes)
 			(show_name no)
@@ -110278,7 +110278,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 439.42 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -110289,7 +110289,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 439.42 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -110551,7 +110551,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 056"
+		(property "OEPS PN" "OEPS080212"
 			(at 378.46 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -110562,7 +110562,7 @@
 				)
 			)
 		)
-		(property "old description" "16 Channel DAC"
+		(property "old description" "IC:   DAC 16BIT 16CH   [AD5766BCPZ-RL7] [40-LFCSP-WQ (6x6)]"
 			(at 378.46 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -110849,7 +110849,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1210C104KCRAC7800"
+		(property "MPN" "C1210C104KCRACTU"
 			(at 726.44 1165.86 0)
 			(hide yes)
 			(show_name no)
@@ -110860,7 +110860,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 072"
+		(property "OEPS PN" "OEPS010091"
 			(at 726.44 1165.86 0)
 			(hide yes)
 			(show_name no)
@@ -110871,7 +110871,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1210 100nF 500V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1210 100nF 500V ±10% X7R   [C1210C104KCRACTU] [SMD]"
 			(at 726.44 1165.86 0)
 			(hide yes)
 			(show_name no)
@@ -110975,7 +110975,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 062"
+		(property "OEPS PN" "OEPS080215"
 			(at 665.48 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -110986,7 +110986,7 @@
 				)
 			)
 		)
-		(property "old description" "Positive LDO Regulator"
+		(property "old description" "IC:   LDO ADJ 150mA   [TPS7A4901DRBR] [8-SON (3x3)]"
 			(at 665.48 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -111312,7 +111312,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 434.34 1130.3 0)
 			(hide yes)
 			(show_name no)
@@ -111323,7 +111323,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 434.34 1130.3 0)
 			(hide yes)
 			(show_name no)
@@ -111505,7 +111505,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 177.8 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -111516,7 +111516,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 177.8 231.14 0)
 			(hide yes)
 			(show_name no)
@@ -111619,7 +111619,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 152.4 1135.38 0)
 			(hide yes)
 			(show_name no)
@@ -111630,7 +111630,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 152.4 1135.38 0)
 			(hide yes)
 			(show_name no)
@@ -111733,7 +111733,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 018"
+		(property "OEPS PN" "OEPS020009"
 			(at 477.52 802.64 0)
 			(hide yes)
 			(show_name no)
@@ -111744,7 +111744,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 3.48kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 3.48kΩ ±1% 0.100W   [ERJ-2RKF3481X] [SMD]"
 			(at 477.52 802.64 0)
 			(hide yes)
 			(show_name no)
@@ -111847,7 +111847,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 706.12 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -111858,7 +111858,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 706.12 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -111962,7 +111962,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 014"
+		(property "OEPS PN" "OEPS020006"
 			(at 599.44 932.18 0)
 			(hide yes)
 			(show_name no)
@@ -111973,7 +111973,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 1kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
 			(at 599.44 932.18 0)
 			(hide yes)
 			(show_name no)
@@ -112076,7 +112076,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 368.3 1023.62 0)
 			(hide yes)
 			(show_name no)
@@ -112087,7 +112087,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 368.3 1023.62 0)
 			(hide yes)
 			(show_name no)
@@ -112190,7 +112190,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 033"
+		(property "OEPS PN" "OEPS010005"
 			(at 254 906.78 0)
 			(hide yes)
 			(show_name no)
@@ -112201,7 +112201,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 1uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
 			(at 254 906.78 0)
 			(hide yes)
 			(show_name no)
@@ -112460,7 +112460,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 231.14 1084.58 0)
 			(hide yes)
 			(show_name no)
@@ -112471,7 +112471,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 231.14 1084.58 0)
 			(hide yes)
 			(show_name no)
@@ -112652,7 +112652,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 812.8 1214.12 0)
 			(hide yes)
 			(show_name no)
@@ -112663,7 +112663,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 812.8 1214.12 0)
 			(hide yes)
 			(show_name no)
@@ -112844,7 +112844,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 467.36 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -112855,7 +112855,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 467.36 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -113115,7 +113115,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 031"
+		(property "OEPS PN" "OEPS010003"
 			(at 246.38 1191.26 0)
 			(hide yes)
 			(show_name no)
@@ -113126,7 +113126,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 47nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 47nF 25V ±10% X7R   [GRM155R71E473KA88D] [SMD]"
 			(at 246.38 1191.26 0)
 			(hide yes)
 			(show_name no)
@@ -113386,7 +113386,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 041"
+		(property "OEPS PN" "OEPS040019"
 			(at 599.44 203.2 90)
 			(hide yes)
 			(show_name no)
@@ -113397,7 +113397,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor 0402"
+		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
 			(at 599.44 203.2 90)
 			(hide yes)
 			(show_name no)
@@ -113658,7 +113658,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 055"
+		(property "OEPS PN" "OEPS080211"
 			(at 335.28 802.64 0)
 			(hide yes)
 			(show_name no)
@@ -113669,7 +113669,7 @@
 				)
 			)
 		)
-		(property "old description" "Quad M-LVDS Transceiver"
+		(property "old description" "IC:   TRANSCEIVER Half LVDS   [DS91M040TSQ/NOPB] [32-WQFN (5x5)]"
 			(at 335.28 802.64 0)
 			(hide yes)
 			(show_name no)
@@ -113865,7 +113865,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 185.42 1084.58 0)
 			(hide yes)
 			(show_name no)
@@ -113876,7 +113876,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 185.42 1084.58 0)
 			(hide yes)
 			(show_name no)
@@ -114057,7 +114057,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 007"
+		(property "OEPS PN" "OEPS100087"
 			(at 822.96 1282.7 90)
 			(hide yes)
 			(show_name no)
@@ -114068,7 +114068,7 @@
 				)
 			)
 		)
-		(property "old description" "DIP Switch"
+		(property "old description" "OTHER:   SWITCH SLIDE DIP SPST 0.1A 6V 2 POS   [CHS-02TB] [Other]"
 			(at 822.96 1282.7 90)
 			(hide yes)
 			(show_name no)
@@ -114178,7 +114178,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 190.5 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -114189,7 +114189,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 190.5 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -114370,7 +114370,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 037"
+		(property "OEPS PN" "OEPS040032"
 			(at 124.46 1310.64 90)
 			(hide yes)
 			(show_name no)
@@ -114381,7 +114381,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor"
+		(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 4.7uH 950mA 350mΩ   [1008PS-472KLB] [-]"
 			(at 124.46 1310.64 90)
 			(hide yes)
 			(show_name no)
@@ -114485,7 +114485,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 019"
+		(property "OEPS PN" "OEPS020010"
 			(at 337.82 942.34 0)
 			(hide yes)
 			(show_name no)
@@ -114496,7 +114496,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 4.7kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
 			(at 337.82 942.34 0)
 			(hide yes)
 			(show_name no)
@@ -114677,7 +114677,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 347.98 1257.3 0)
 			(hide yes)
 			(show_name no)
@@ -114688,7 +114688,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 347.98 1257.3 0)
 			(hide yes)
 			(show_name no)
@@ -114792,7 +114792,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 019"
+		(property "OEPS PN" "OEPS020010"
 			(at 287.02 1059.18 0)
 			(hide yes)
 			(show_name no)
@@ -114803,7 +114803,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 4.7kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
 			(at 287.02 1059.18 0)
 			(hide yes)
 			(show_name no)
@@ -115062,7 +115062,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 579.12 416.56 0)
 			(hide yes)
 			(show_name no)
@@ -115073,7 +115073,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 579.12 416.56 0)
 			(hide yes)
 			(show_name no)
@@ -115165,7 +115165,7 @@
 				)
 			)
 		)
-		(property "MPN" "R34, R36"
+		(property "MPN" "-"
 			(at 304.8 1292.86 0)
 			(hide yes)
 			(show_name no)
@@ -115526,7 +115526,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 706.12 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -115537,7 +115537,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 706.12 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -115640,7 +115640,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 421.64 1130.3 0)
 			(hide yes)
 			(show_name no)
@@ -115651,7 +115651,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 421.64 1130.3 0)
 			(hide yes)
 			(show_name no)
@@ -115755,7 +115755,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 368.3 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -115766,7 +115766,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 368.3 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -115869,7 +115869,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 034"
+		(property "OEPS PN" "OEPS010006"
 			(at 378.46 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -115880,7 +115880,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 10uF 25V ±10% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 378.46 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -116061,7 +116061,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 064"
+		(property "OEPS PN" "OEPS080217"
 			(at 734.06 1236.98 0)
 			(hide yes)
 			(show_name no)
@@ -116072,7 +116072,7 @@
 				)
 			)
 		)
-		(property "old description" "EEPROM"
+		(property "old description" "IC:   EEPROM 64KBIT I2C   [24AA64-I/ST] [8-TSSOP]"
 			(at 734.06 1236.98 0)
 			(hide yes)
 			(show_name no)
@@ -116427,7 +116427,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 001"
+		(property "OEPS PN" "OEPS070003"
 			(at 63.5 1076.96 0)
 			(hide yes)
 			(show_name no)
@@ -116438,7 +116438,7 @@
 				)
 			)
 		)
-		(property "old description" "MMCX Coax Connector"
+		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [6-1634010-0] [TH]"
 			(at 63.5 1076.96 0)
 			(hide yes)
 			(show_name no)
@@ -116617,7 +116617,7 @@
 				)
 			)
 		)
-		(property "MPN" "R34, R36"
+		(property "MPN" "-"
 			(at 299.72 1059.18 0)
 			(hide yes)
 			(show_name no)
@@ -116742,7 +116742,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 243.84 1163.32 0)
 			(hide yes)
 			(show_name no)
@@ -116753,7 +116753,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 243.84 1163.32 0)
 			(hide yes)
 			(show_name no)
@@ -116856,7 +116856,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 052"
+		(property "OEPS PN" "OEPS080208"
 			(at 208.28 668.02 0)
 			(hide yes)
 			(show_name no)
@@ -116867,7 +116867,7 @@
 				)
 			)
 		)
-		(property "old description" "Comparitor"
+		(property "old description" "IC:   COMPARATOR 1 GP   [ADCMP600BRJZ-R2] [SOT23-5]"
 			(at 208.28 668.02 0)
 			(hide yes)
 			(show_name no)
@@ -116979,7 +116979,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 045"
+		(property "OEPS PN" "OEPS030051"
 			(at 314.96 629.92 0)
 			(hide yes)
 			(show_name no)
@@ -116990,7 +116990,7 @@
 				)
 			)
 		)
-		(property "old description" "Zener Diode SOD123"
+		(property "old description" "DIODE:   DIODE ZENER 4.55V 1W   [KDZVTR4.3B] [PMDU]"
 			(at 314.96 629.92 0)
 			(hide yes)
 			(show_name no)
@@ -117250,7 +117250,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 043"
+		(property "OEPS PN" "OEPS030049"
 			(at 101.6 1084.58 90)
 			(hide yes)
 			(show_name no)
@@ -117261,7 +117261,7 @@
 				)
 			)
 		)
-		(property "old description" "TVS Diode 0402"
+		(property "old description" "DIODE:   TVS DIODE 7VWM 13VC   [SESD0402X1UN-0030-088] [0402/2DFN]"
 			(at 101.6 1084.58 90)
 			(hide yes)
 			(show_name no)
@@ -117364,7 +117364,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 165.1 901.7 0)
 			(hide yes)
 			(show_name no)
@@ -117375,7 +117375,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 165.1 901.7 0)
 			(hide yes)
 			(show_name no)
@@ -117558,7 +117558,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 561.34 789.94 0)
 			(hide yes)
 			(show_name no)
@@ -117569,7 +117569,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 561.34 789.94 0)
 			(hide yes)
 			(show_name no)
@@ -117751,7 +117751,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 398.78 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -117762,7 +117762,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 398.78 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -118033,7 +118033,7 @@
 				)
 			)
 		)
-		(property "old description" "Digital Potentiometer"
+		(property "old description" "IC:   DGT POT 10KOHM 256TAP 16TSSOP   [AD5142BRUZ10] [16-TSSOP]"
 			(at 505.46 858.52 0)
 			(hide yes)
 			(show_name no)
@@ -118365,7 +118365,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 495.3 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -118376,7 +118376,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 495.3 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -118479,7 +118479,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 033"
+		(property "OEPS PN" "OEPS010005"
 			(at 358.14 1023.62 0)
 			(hide yes)
 			(show_name no)
@@ -118490,7 +118490,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 1uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
 			(at 358.14 1023.62 0)
 			(hide yes)
 			(show_name no)
@@ -118593,7 +118593,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 033"
+		(property "OEPS PN" "OEPS010005"
 			(at 370.84 622.3 0)
 			(hide yes)
 			(show_name no)
@@ -118604,7 +118604,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 1uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
 			(at 370.84 622.3 0)
 			(hide yes)
 			(show_name no)
@@ -118785,7 +118785,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 021"
+		(property "OEPS PN" "OEPS020013"
 			(at 299.72 1074.42 0)
 			(hide yes)
 			(show_name no)
@@ -118796,7 +118796,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 10kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 299.72 1074.42 0)
 			(hide yes)
 			(show_name no)
@@ -118977,7 +118977,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 036"
+		(property "OEPS PN" "OEPS010008"
 			(at 756.92 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -118988,7 +118988,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1210 47uF 25V ±20% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
 			(at 756.92 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -119092,7 +119092,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 238.76 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -119103,7 +119103,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 238.76 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -119207,7 +119207,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 030"
+		(property "OEPS PN" "OEPS010002"
 			(at 322.58 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -119218,7 +119218,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 10nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 322.58 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -119478,7 +119478,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 021"
+		(property "OEPS PN" "OEPS020013"
 			(at 607.06 787.4 0)
 			(hide yes)
 			(show_name no)
@@ -119489,7 +119489,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 10kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 607.06 787.4 0)
 			(hide yes)
 			(show_name no)
@@ -119593,7 +119593,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 041"
+		(property "OEPS PN" "OEPS040019"
 			(at 726.44 203.2 90)
 			(hide yes)
 			(show_name no)
@@ -119604,7 +119604,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor 0402"
+		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
 			(at 726.44 203.2 90)
 			(hide yes)
 			(show_name no)
@@ -119786,7 +119786,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 026"
+		(property "OEPS PN" "OEPS020020"
 			(at 777.24 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -119797,7 +119797,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 165kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
 			(at 777.24 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -120058,7 +120058,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 038"
+		(property "OEPS PN" "OEPS040029"
 			(at 383.54 1249.68 90)
 			(hide yes)
 			(show_name no)
@@ -120069,7 +120069,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor 063"
+		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
 			(at 383.54 1249.68 90)
 			(hide yes)
 			(show_name no)
@@ -120330,7 +120330,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 014"
+		(property "OEPS PN" "OEPS020006"
 			(at 612.14 916.94 0)
 			(hide yes)
 			(show_name no)
@@ -120341,7 +120341,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 1kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
 			(at 612.14 916.94 0)
 			(hide yes)
 			(show_name no)
@@ -120444,7 +120444,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 070"
+		(property "OEPS PN" "OEPS020017"
 			(at 637.54 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -120455,7 +120455,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 47kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 47kΩ ±1% 0.100W   [ERJ-2RKF4702X] [SMD]"
 			(at 637.54 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -120568,7 +120568,7 @@
 				)
 			)
 		)
-		(property "old description" "TVS DIODE ARRAY"
+		(property "old description" "IC:   TVS DIODE ARRAY   [D3V3XA4B10LP-7] [10-UFDFN]"
 			(at 156.21 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -120852,7 +120852,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 360.68 1163.32 0)
 			(hide yes)
 			(show_name no)
@@ -120863,7 +120863,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 360.68 1163.32 0)
 			(hide yes)
 			(show_name no)
@@ -121045,7 +121045,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 036"
+		(property "OEPS PN" "OEPS010008"
 			(at 441.96 767.08 0)
 			(hide yes)
 			(show_name no)
@@ -121056,7 +121056,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1210 47uF 25V ±20% X5R"
+		(property "old description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
 			(at 441.96 767.08 0)
 			(hide yes)
 			(show_name no)
@@ -121159,7 +121159,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 021"
+		(property "OEPS PN" "OEPS020013"
 			(at 561.34 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -121170,7 +121170,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 10kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 561.34 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -121273,7 +121273,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 025"
+		(property "OEPS PN" "OEPS020018"
 			(at 850.9 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -121284,7 +121284,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 73.2kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 73.2kΩ ±1% 0.100W   [ERJ-2RKF7322X] [SMD]"
 			(at 850.9 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -121544,7 +121544,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 863.6 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -121555,7 +121555,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 863.6 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -121658,7 +121658,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 337.82 1023.62 0)
 			(hide yes)
 			(show_name no)
@@ -121669,7 +121669,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 337.82 1023.62 0)
 			(hide yes)
 			(show_name no)
@@ -121851,7 +121851,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 018"
+		(property "OEPS PN" "OEPS020009"
 			(at 469.9 792.48 0)
 			(hide yes)
 			(show_name no)
@@ -121862,7 +121862,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 3.48kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 3.48kΩ ±1% 0.100W   [ERJ-2RKF3481X] [SMD]"
 			(at 469.9 792.48 0)
 			(hide yes)
 			(show_name no)
@@ -122043,7 +122043,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 032"
+		(property "OEPS PN" "OEPS010004"
 			(at 264.16 906.78 0)
 			(hide yes)
 			(show_name no)
@@ -122054,7 +122054,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 100nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 264.16 906.78 0)
 			(hide yes)
 			(show_name no)
@@ -122158,7 +122158,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 014"
+		(property "OEPS PN" "OEPS020006"
 			(at 177.8 708.66 0)
 			(hide yes)
 			(show_name no)
@@ -122169,7 +122169,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 1kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
 			(at 177.8 708.66 0)
 			(hide yes)
 			(show_name no)
@@ -122272,7 +122272,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 033"
+		(property "OEPS PN" "OEPS010005"
 			(at 254 1140.46 0)
 			(hide yes)
 			(show_name no)
@@ -122283,7 +122283,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0805 1uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
 			(at 254 1140.46 0)
 			(hide yes)
 			(show_name no)
@@ -122387,7 +122387,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 029"
+		(property "OEPS PN" "OEPS010001"
 			(at 228.6 441.96 0)
 			(hide yes)
 			(show_name no)
@@ -122398,7 +122398,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 0402 4.7nF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 0402 4.7nF 25V ±10% X7R   [CC0402KRX7R8BB472] [SMD]"
 			(at 228.6 441.96 0)
 			(hide yes)
 			(show_name no)
@@ -122502,7 +122502,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 026"
+		(property "OEPS PN" "OEPS020020"
 			(at 398.78 1056.64 0)
 			(hide yes)
 			(show_name no)
@@ -122513,7 +122513,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 165kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
 			(at 398.78 1056.64 0)
 			(hide yes)
 			(show_name no)
@@ -122773,7 +122773,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 062"
+		(property "OEPS PN" "OEPS080215"
 			(at 665.48 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -122784,7 +122784,7 @@
 				)
 			)
 		)
-		(property "old description" "Positive LDO Regulator"
+		(property "old description" "IC:   LDO ADJ 150mA   [TPS7A4901DRBR] [8-SON (3x3)]"
 			(at 665.48 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -123279,7 +123279,7 @@
 				)
 			)
 		)
-		(property "old description" "ADC 16BIT 16 channels"
+		(property "old description" "IC:   ADC 16BIT 16 channels   [AD7616BSTZ] [80-LQFP]"
 			(at 505.46 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -123805,7 +123805,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 021"
+		(property "OEPS PN" "OEPS020013"
 			(at 594.36 408.94 0)
 			(hide yes)
 			(show_name no)
@@ -123816,7 +123816,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 10kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 594.36 408.94 0)
 			(hide yes)
 			(show_name no)
@@ -123997,7 +123997,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 368.3 1257.3 0)
 			(hide yes)
 			(show_name no)
@@ -124008,7 +124008,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 368.3 1257.3 0)
 			(hide yes)
 			(show_name no)
@@ -124301,7 +124301,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 061"
+		(property "OEPS PN" "OEPS080003"
 			(at 513.08 769.62 0)
 			(hide yes)
 			(show_name no)
@@ -124312,7 +124312,7 @@
 				)
 			)
 		)
-		(property "old description" "DC-DC Converter"
+		(property "old description" "IC:   DC-DC CONVERTER 2outputs1.5-12V 1.5-12V   [LTM4622AIY#PBF] [25-BGA]"
 			(at 513.08 769.62 0)
 			(hide yes)
 			(show_name no)
@@ -124718,7 +124718,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 038"
+		(property "OEPS PN" "OEPS040029"
 			(at 132.08 886.46 90)
 			(hide yes)
 			(show_name no)
@@ -124729,7 +124729,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor 063"
+		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
 			(at 132.08 886.46 90)
 			(hide yes)
 			(show_name no)
@@ -125055,7 +125055,7 @@
 				)
 			)
 		)
-		(property "MPN" "LM4132AMF-2.5/NOPBCT-ND"
+		(property "MPN" "LM4132AMF-2.5/NOPB"
 			(at 416.56 335.28 0)
 			(hide yes)
 			(show_name no)
@@ -125066,7 +125066,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 058"
+		(property "OEPS PN" "OEPS080214"
 			(at 416.56 335.28 0)
 			(hide yes)
 			(show_name no)
@@ -125077,7 +125077,7 @@
 				)
 			)
 		)
-		(property "old description" "2.5V Reference"
+		(property "old description" "IC:   VREF 2.5V 0.05%   [LM4132AMF-2.5/NOPB] [SOT-23-5]"
 			(at 416.56 335.28 0)
 			(hide yes)
 			(show_name no)
@@ -125187,7 +125187,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 075"
+		(property "OEPS PN" "OEPS040035"
 			(at 535.94 1135.38 90)
 			(hide yes)
 			(show_name no)
@@ -125198,7 +125198,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor 1210"
+		(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 6.8uH 1.2A 276mΩ   [1277AS-H-6R8M=P2] [SMD]"
 			(at 535.94 1135.38 90)
 			(hide yes)
 			(show_name no)
@@ -125301,7 +125301,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 077"
+		(property "OEPS PN" "OEPS070147"
 			(at 76.2 830.58 0)
 			(hide yes)
 			(show_name no)
@@ -125312,7 +125312,7 @@
 				)
 			)
 		)
-		(property "old description" "Connector header RA 10POS 1.27mm"
+		(property "old description" "CONNECTOR:   HEADER 1.27MM R/A 10POS   [FTSH-105-01-F-D-RA-K] [TH]"
 			(at 76.2 830.58 0)
 			(hide yes)
 			(show_name no)
@@ -125598,7 +125598,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 071"
+		(property "OEPS PN" "OEPS080210"
 			(at 307.34 967.74 0)
 			(hide yes)
 			(show_name no)
@@ -125609,7 +125609,7 @@
 				)
 			)
 		)
-		(property "old description" "Deserializer"
+		(property "old description" "IC:   DESERIALIZER FPD-Link III   [DS90UB934TRGZRQ1] [48-VQFN (7x7)]"
 			(at 307.34 967.74 0)
 			(hide yes)
 			(show_name no)
@@ -125854,7 +125854,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 049"
+		(property "OEPS PN" "OEPS080007"
 			(at 203.2 363.22 0)
 			(hide yes)
 			(show_name no)
@@ -125865,7 +125865,7 @@
 				)
 			)
 		)
-		(property "old description" "Quad LVDS Driver"
+		(property "old description" "IC:   LVDS 2channel driver   [SN65LVDS9638DGN] [8-MSOP-PowerPad]"
 			(at 203.2 363.22 0)
 			(hide yes)
 			(show_name no)
@@ -126068,7 +126068,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 005"
+		(property "OEPS PN" "OEPS070148"
 			(at 777.24 673.1 0)
 			(hide yes)
 			(show_name no)
@@ -126079,7 +126079,7 @@
 				)
 			)
 		)
-		(property "old description" "FMC HPC Male Connector"
+		(property "old description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
 			(at 777.24 673.1 0)
 			(hide yes)
 			(show_name no)
@@ -127462,7 +127462,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 047"
+		(property "OEPS PN" "OEPS060001"
 			(at 154.94 706.12 0)
 			(hide yes)
 			(show_name no)
@@ -127473,7 +127473,7 @@
 				)
 			)
 		)
-		(property "old description" "N MOSFET"
+		(property "old description" "TRANSISTOR:   MOSFET N-CH 20V 500mA   [SI1012R-T1-GE3] [SC-75A]"
 			(at 154.94 706.12 0)
 			(hide yes)
 			(show_name no)
@@ -127658,7 +127658,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 026"
+		(property "OEPS PN" "OEPS020020"
 			(at 386.08 1290.32 0)
 			(hide yes)
 			(show_name no)
@@ -127669,7 +127669,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 165kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
 			(at 386.08 1290.32 0)
 			(hide yes)
 			(show_name no)
@@ -127773,7 +127773,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 041"
+		(property "OEPS PN" "OEPS040019"
 			(at 726.44 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -127784,7 +127784,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor 0402"
+		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
 			(at 726.44 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -127965,7 +127965,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 013"
+		(property "OEPS PN" "OEPS020023"
 			(at 152.4 591.82 0)
 			(hide yes)
 			(show_name no)
@@ -127976,7 +127976,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0603 150Ω ±1% 0.250W"
+		(property "old description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
 			(at 152.4 591.82 0)
 			(hide yes)
 			(show_name no)
@@ -128158,7 +128158,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 014"
+		(property "OEPS PN" "OEPS020006"
 			(at 622.3 914.4 0)
 			(hide yes)
 			(show_name no)
@@ -128169,7 +128169,7 @@
 				)
 			)
 		)
-		(property "old description" "RES SMD 0402 1kΩ ±1% 0.100W"
+		(property "old description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
 			(at 622.3 914.4 0)
 			(hide yes)
 			(show_name no)
@@ -128272,7 +128272,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 040"
+		(property "OEPS PN" "OEPS040034"
 			(at 198.12 1310.64 90)
 			(hide yes)
 			(show_name no)
@@ -128283,7 +128283,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor 0805"
+		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0805 1kΩ 1.5A 150mΩ   [MPZ2012S102AT000] [SMD]"
 			(at 198.12 1310.64 90)
 			(hide yes)
 			(show_name no)
@@ -128498,7 +128498,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 041"
+		(property "OEPS PN" "OEPS040019"
 			(at 726.44 142.24 90)
 			(hide yes)
 			(show_name no)
@@ -128509,7 +128509,7 @@
 				)
 			)
 		)
-		(property "old description" "Inductor 0402"
+		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
 			(at 726.44 142.24 90)
 			(hide yes)
 			(show_name no)
@@ -128612,7 +128612,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS M05 035"
+		(property "OEPS PN" "OEPS010007"
 			(at 434.34 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -128623,7 +128623,7 @@
 				)
 			)
 		)
-		(property "old description" "CAP CER 1206 10uF 25V ±10% X7R"
+		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 434.34 896.62 0)
 			(hide yes)
 			(show_name no)
