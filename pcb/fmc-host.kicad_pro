@@ -62,31 +62,27 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|121251100|184353600|76d9fbec-c305-4d43-9a51-156bd8e8d33c|9865d5df-a130-48c6-9f1f-df18adb779e8",
+          "invalid_outline|110251100|212753600|6f793787-fd0a-4d88-839e-ff82757232d1|f345603c-e4a8-46b2-9eb9-092c84709c93",
           ""
         ],
         [
-          "clearance|121251100|240903600|9e4b0fe9-a720-4a92-aa7f-6b0b3bee9f94|fdb035c3-409f-459b-8c50-d7ec34a3e5ef",
+          "invalid_outline|110269350|-39896400|6f793787-fd0a-4d88-839e-ff82757232d1|ef8970fe-d511-4768-972a-7380ea8b866b",
           ""
         ],
         [
-          "invalid_outline|110251100|-64896400|6f793787-fd0a-4d88-839e-ff82757232d1|00000000-0000-0000-0000-000000000000",
+          "invalid_outline|186732850|-44596400|971bfca4-22aa-474b-9c0c-fcb0431598fc|c44cded9-4088-4d2d-bc2b-27a8f10deac8",
           ""
         ],
         [
-          "invalid_outline|186751100|-63596400|971bfca4-22aa-474b-9c0c-fcb0431598fc|00000000-0000-0000-0000-000000000000",
+          "invalid_outline|186732850|246403600|971bfca4-22aa-474b-9c0c-fcb0431598fc|0c1f1110-f179-4589-a449-7feed8f79ac7",
           ""
         ],
         [
-          "items_not_allowed|119289550|184403600|76d9fbec-c305-4d43-9a51-156bd8e8d33c|00000000-0000-0000-0000-000000000000",
+          "shorting_items|121251100|184353600|76d9fbec-c305-4d43-9a51-156bd8e8d33c|9865d5df-a130-48c6-9f1f-df18adb779e8",
           ""
         ],
         [
-          "items_not_allowed|177920416|180403600|26bd50d1-e48d-4fa1-a473-cc2aa4e4b460|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "items_not_allowed|177951100|243403600|424e41e7-ed9d-46ba-8a0c-0ab1747de449|00000000-0000-0000-0000-000000000000",
+          "shorting_items|121251100|240903600|9e4b0fe9-a720-4a92-aa7f-6b0b3bee9f94|fdb035c3-409f-459b-8c50-d7ec34a3e5ef",
           ""
         ],
         [
@@ -1030,7 +1026,7 @@
         "uuid": "3a190272-84f9-4241-a964-a08ef93e1ba1"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R82",
     "variants": []
   },
   "sheets": [

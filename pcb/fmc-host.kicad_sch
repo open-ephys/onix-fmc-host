@@ -35798,12 +35798,6 @@
 		(uuid "2676cb1b-869e-4a94-a58c-613ad512466c")
 	)
 	(junction
-		(at 579.12 408.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "27a587a9-390f-4764-96be-e44f732cc11d")
-	)
-	(junction
 		(at 185.42 403.86)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -36302,6 +36296,12 @@
 		(uuid "5127fd0c-70bb-4780-afce-0a0f7792ffdc")
 	)
 	(junction
+		(at 579.12 424.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5628edc4-3b25-4312-a4f7-811862d765c7")
+	)
+	(junction
 		(at 340.36 1229.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -36750,6 +36750,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7d65018c-e4c6-4f71-be30-7b44e85cafeb")
+	)
+	(junction
+		(at 596.9 408.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7d93ef98-70af-47f2-8664-e6e8f427492b")
 	)
 	(junction
 		(at 706.12 203.2)
@@ -37410,6 +37416,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bf4bb448-60bc-457d-94ba-0bb05377ec45")
+	)
+	(junction
+		(at 579.12 408.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf6dc6f4-168c-4feb-893c-615039ca1440")
 	)
 	(junction
 		(at 571.5 810.26)
@@ -39060,6 +39072,16 @@
 			(type solid)
 		)
 		(uuid "0b5edcb9-0a12-4d72-a722-2e4902f0bef8")
+	)
+	(wire
+		(pts
+			(xy 596.9 424.18) (xy 596.9 421.64)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "0bb53d72-ecfd-4584-8d03-141bb928facc")
 	)
 	(wire
 		(pts
@@ -45653,7 +45675,7 @@
 	)
 	(wire
 		(pts
-			(xy 579.12 408.94) (xy 589.28 408.94)
+			(xy 579.12 408.94) (xy 596.9 408.94)
 		)
 		(stroke
 			(width 0.1524)
@@ -46660,6 +46682,16 @@
 			(type solid)
 		)
 		(uuid "650e771f-cf72-4b2b-a6c7-9f253f2aa34a")
+	)
+	(wire
+		(pts
+			(xy 579.12 424.18) (xy 596.9 424.18)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "65322d72-157b-486a-9d02-fc9ccf321152")
 	)
 	(wire
 		(pts
@@ -49133,7 +49165,7 @@
 	)
 	(wire
 		(pts
-			(xy 635 408.94) (xy 599.44 408.94)
+			(xy 635 408.94) (xy 614.68 408.94)
 		)
 		(stroke
 			(width 0.1524)
@@ -49420,6 +49452,16 @@
 			(type solid)
 		)
 		(uuid "84e0bde7-459b-41f9-83ce-e77a52ebdaa3")
+	)
+	(wire
+		(pts
+			(xy 596.9 408.94) (xy 604.52 408.94)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "84fe08cd-0dde-4954-a803-e8fc279b9ad9")
 	)
 	(wire
 		(pts
@@ -55750,6 +55792,16 @@
 			(type solid)
 		)
 		(uuid "d189ce64-0f65-4a0b-bda2-077ffbfcd9c2")
+	)
+	(wire
+		(pts
+			(xy 596.9 411.48) (xy 596.9 408.94)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "d19250f5-cef9-4dbf-a341-57a960630042")
 	)
 	(wire
 		(pts
@@ -87891,6 +87943,120 @@
 		)
 	)
 	(symbol
+		(lib_id "fmc-host-eagle-import:R_0402")
+		(at 596.9 416.56 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "61bcd36f-fcc1-40eb-9fad-9ddc6f8f346d")
+		(property "Reference" "R82"
+			(at 595.4014 420.37 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "10k"
+			(at 600.202 420.37 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "fmc-host:0402"
+			(at 596.9 416.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 596.9 416.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 596.9 416.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ERJ-2RKF1002X"
+			(at 596.9 416.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS PN" "OEPS020013"
+			(at 596.9 416.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 596.9 416.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "87e971d6-8fbe-4b0e-8638-68f1833b8012")
+		)
+		(pin "2"
+			(uuid "e536d2fa-3e02-4834-8f78-d8c7610feba8")
+		)
+		(instances
+			(project "fmc-host"
+				(path "/3a190272-84f9-4241-a964-a08ef93e1ba1"
+					(reference "R82")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "fmc-host-eagle-import:GND")
 		(at 177.8 1148.08 0)
 		(unit 1)
@@ -115007,7 +115173,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "100pF"
 			(at 580.644 421.259 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -115051,7 +115217,7 @@
 				)
 			)
 		)
-		(property "MPN" "GRM155R71E104KE14D"
+		(property "MPN" ""
 			(at 579.12 416.56 0)
 			(hide yes)
 			(show_name no)
@@ -115062,7 +115228,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS010004"
+		(property "OEPS PN" ""
 			(at 579.12 416.56 0)
 			(hide yes)
 			(show_name no)
@@ -115073,7 +115239,7 @@
 				)
 			)
 		)
-		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+		(property "old description" ""
 			(at 579.12 416.56 0)
 			(hide yes)
 			(show_name no)
@@ -123730,7 +123896,7 @@
 	)
 	(symbol
 		(lib_id "fmc-host-eagle-import:R_0402")
-		(at 594.36 408.94 0)
+		(at 609.6 408.94 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -123740,7 +123906,7 @@
 		(dnp no)
 		(uuid "f0341613-8630-459d-8e97-f57a966e9e31")
 		(property "Reference" "R66"
-			(at 590.55 407.4414 0)
+			(at 605.79 407.4414 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -123750,8 +123916,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10k"
-			(at 590.55 412.242 0)
+		(property "Value" "0"
+			(at 605.79 412.242 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -123762,7 +123928,7 @@
 			)
 		)
 		(property "Footprint" "fmc-host:0402"
-			(at 594.36 408.94 0)
+			(at 609.6 408.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -123773,7 +123939,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 594.36 408.94 0)
+			(at 609.6 408.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -123784,7 +123950,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 594.36 408.94 0)
+			(at 609.6 408.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -123794,8 +123960,8 @@
 				)
 			)
 		)
-		(property "MPN" "ERJ-2RKF1002X"
-			(at 594.36 408.94 0)
+		(property "MPN" ""
+			(at 609.6 408.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -123805,19 +123971,8 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS020013"
-			(at 594.36 408.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
-			(at 594.36 408.94 0)
+		(property "old description" ""
+			(at 609.6 408.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
