@@ -2027,7 +2027,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "LTM8049_BGA"
+		(property "Value" "LTM8049IY#PBF"
 			(at -4.4 -7.9 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4147,7 +4147,7 @@
 				)
 			)
 		)
-		(property "old description" "#N/A"
+		(property "old description" "DIODE:   RF DIODE PIN 150V 250MW   [BAR66E6327HTSA1] [PG-SOT23]"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9311,7 +9311,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SRNxx-101M"
+		(property "Value" "SRN6045TA-101M"
 			(at -3 4 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12440,7 +12440,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "SMA002"
+		(property "Value" "6-1634010-0"
 			(at 2.5 1.5 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16763,7 +16763,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SRNxx-101M"
+		(property "Value" "SRN6045TA-101M"
 			(at -3 4 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16951,7 +16951,7 @@
 				)
 			)
 		)
-		(property "MPN" "-"
+		(property "MPN" "DNP"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16977,7 +16977,7 @@
 				)
 			)
 		)
-		(property "old description" ""
+		(property "old description" "DNP: Do Not Populate (DNI)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -29917,7 +29917,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "SESD0402X1UN-0020-090"
+		(property "Value" "SESD0402X1UN-0030-088"
 			(at -1.27 1.778 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -34720,7 +34720,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "AD5142BCPZ10"
+		(property "Value" "AD5142BRUZ10"
 			(at -2.7572 4.1385 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35285,7 +35285,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "SMA002"
+		(property "Value" "6-1634010-0"
 			(at 2.5 1.5 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -37745,7 +37745,7 @@
 				)
 			)
 		)
-		(property "old description" "#N/A"
+		(property "old description" "DIODE:   RF DIODE PIN 150V 250MW   [BAR66E6327HTSA1] [PG-SOT23]"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -38551,7 +38551,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "SESD0402X1UN-0020-090"
+		(property "Value" "SESD0402X1UN-0030-088"
 			(at -1.27 1.778 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -41078,7 +41078,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "KDZ4.3B"
+		(property "Value" "KDZVTR4.3B"
 			(at -2.54 2.54 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -43903,7 +43903,7 @@
 				)
 			)
 		)
-		(property "old description" "#N/A"
+		(property "old description" "DIODE:   RF DIODE PIN 150V 250MW   [BAR66E6327HTSA1] [PG-SOT23]"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44067,7 +44067,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "SMA002"
+		(property "Value" "6-1634010-0"
 			(at 2.5 1.5 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44290,7 +44290,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "SMA002"
+		(property "Value" "6-1634010-0"
 			(at 2.5 1.5 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -50182,7 +50182,7 @@
 				(pins "BEZ1" "BEZ2")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
 			(pts
@@ -53037,7 +53037,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "SMA002"
+		(property "Value" "6-1634010-0"
 			(at 2.5 1.5 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -53512,7 +53512,7 @@
 				)
 			)
 		)
-		(property "MPN" "-"
+		(property "MPN" "DNP"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -53538,7 +53538,7 @@
 				)
 			)
 		)
-		(property "old description" ""
+		(property "old description" "DNP: Do Not Populate (DNI)"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -57400,7 +57400,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 0.3 3.4)
@@ -59778,7 +59778,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "RC0402JR-070RL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -59792,7 +59792,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS PN" "OEPS020013"
+		(property "OEPS PN" "OEPS020001"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -59806,7 +59806,7 @@
 				(justify mirror)
 			)
 		)
-		(property "old description" ""
+		(property "old description" "RESISTOR:   SMD 0402 0Ω 1A   [RC0402JR-070RL] [SMD]"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -63944,7 +63944,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CC0402JRNPO9BN101"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -63958,7 +63958,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPS PN" ""
+		(property "OEPS PN" "OEPS010089"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -63972,7 +63972,7 @@
 				(justify mirror)
 			)
 		)
-		(property "old description" ""
+		(property "old description" "CAPACITOR:   SMD CER 0402 100pF 50V ±5% C0G   [CC0402JRNPO9BN101] [SMD]"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -65310,7 +65310,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 180)
@@ -67174,7 +67174,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 270)
@@ -67984,7 +67984,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 180)
@@ -69426,7 +69426,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 180)
@@ -70570,7 +70570,7 @@
 				(justify left bottom mirror)
 			)
 		)
-		(property "Value" "24ST"
+		(property "Value" "24AA64-I/ST"
 			(at 2.925 -3.25 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -71016,7 +71016,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 180)
@@ -72652,7 +72652,7 @@
 				(justify left bottom mirror)
 			)
 		)
-		(property "Value" "LM4132AMF-2.5/NOPBCT-ND"
+		(property "Value" "LM4132AMF-2.5/NOPB"
 			(at -1.705 -3.0734 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -75366,7 +75366,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 270)
@@ -75710,7 +75710,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 180)
@@ -80172,7 +80172,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 270)
@@ -81613,7 +81613,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 180)
@@ -81971,7 +81971,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 270)
@@ -84507,7 +84507,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 180)
@@ -84851,7 +84851,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 180)
@@ -86071,7 +86071,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 180)
@@ -86854,7 +86854,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 180)
@@ -87418,7 +87418,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 180)
@@ -87544,7 +87544,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 180)
@@ -88326,7 +88326,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 180)
@@ -88889,7 +88889,7 @@
 				(pins "TP")
 			)
 		)
-		(attr exclude_from_bom dnp)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "TP" smd roundrect
 			(at 0 0 180)

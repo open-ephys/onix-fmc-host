@@ -63643,7 +63643,7 @@
 				)
 			)
 		)
-		(property "old description" "#N/A"
+		(property "old description" "DIODE:   RF DIODE PIN 150V 250MW   [BAR66E6327HTSA1] [PG-SOT23]"
 			(at 106.68 754.38 0)
 			(hide yes)
 			(show_name no)
@@ -67457,8 +67457,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "10f993cb-e1d7-4c0b-ad50-d0d7562d4c5a")
 		(property "Reference" "TP14"
 			(at 462.28 745.49 90)
@@ -69483,7 +69483,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(uuid "17dabfb4-d290-4153-9844-839183ce0caf")
 		(property "Reference" "J8"
@@ -70176,8 +70176,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "1b584b82-eb76-4336-a8e5-fe5c2e4ea6eb")
 		(property "Reference" "TP2"
 			(at 579.12 240.03 90)
@@ -71900,8 +71900,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "266aaf6f-8753-4003-91e8-1aec2e8a0bfe")
 		(property "Reference" "TP10"
 			(at 744.22 1281.43 90)
@@ -73530,7 +73530,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Value" "SRNxx-101M"
+		(property "Value" "SRN6045TA-101M"
 			(at 147.32 1080.262 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -73937,8 +73937,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "30d79c8b-b5e1-459f-b927-b2af4e8380c2")
 		(property "Reference" "TP6"
 			(at 238.76 661.67 90)
@@ -77808,8 +77808,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "4157cdb7-8226-4663-a7d4-1f63e8073714")
 		(property "Reference" "TP16"
 			(at 792.48 1294.13 90)
@@ -78738,7 +78738,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "SMA002"
+		(property "Value" "6-1634010-0"
 			(at 68.58 581.66 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -79036,8 +79036,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "48a67a20-dd14-4672-9443-d4ca5950e44b")
 		(property "Reference" "TP15"
 			(at 415.29 119.38 90)
@@ -81270,8 +81270,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "4cf56bd9-23c6-42be-99ab-7bd7336d9afb")
 		(property "Reference" "TP9"
 			(at 734.06 1281.43 90)
@@ -81538,8 +81538,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "4ea6ee1e-396e-47a2-aeea-e41af27539be")
 		(property "Reference" "TP1"
 			(at 574.04 240.03 90)
@@ -81663,7 +81663,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "SMA002"
+		(property "Value" "6-1634010-0"
 			(at 60.96 1315.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -83522,8 +83522,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "55129643-ef35-4554-bd9d-b2b1444126c0")
 		(property "Reference" "TP4"
 			(at 584.2 240.03 90)
@@ -86278,7 +86278,7 @@
 				(justify right bottom)
 			)
 		)
-		(property "Value" "SRNxx-101M"
+		(property "Value" "SRN6045TA-101M"
 			(at 147.32 1313.942 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -87390,7 +87390,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "SESD0402X1UN-0020-090"
+		(property "Value" "SESD0402X1UN-0030-088"
 			(at 102.87 1327.15 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -87839,8 +87839,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "610ffd83-68d9-49fa-bd69-119ecf413416")
 		(property "Reference" "TP5"
 			(at 304.8 613.41 90)
@@ -95798,8 +95798,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "764f2d7a-b408-4648-b40a-d3934313d4f5")
 		(property "Reference" "TP18"
 			(at 764.54 1281.43 90)
@@ -96182,7 +96182,7 @@
 				)
 			)
 		)
-		(property "old description" "#N/A"
+		(property "old description" "DIODE:   RF DIODE PIN 150V 250MW   [BAR66E6327HTSA1] [PG-SOT23]"
 			(at 116.84 665.48 0)
 			(hide yes)
 			(show_name no)
@@ -96728,7 +96728,7 @@
 				)
 			)
 		)
-		(property "old description" "#N/A"
+		(property "old description" "DIODE:   RF DIODE PIN 150V 250MW   [BAR66E6327HTSA1] [PG-SOT23]"
 			(at 116.84 576.58 0)
 			(hide yes)
 			(show_name no)
@@ -97853,8 +97853,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "7fa95e94-cc77-45ce-9af3-cfc3fbcaf80a")
 		(property "Reference" "TP13"
 			(at 447.04 753.11 90)
@@ -100841,7 +100841,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "LTM8049_BGA"
+		(property "Value" "LTM8049IY#PBF"
 			(at 822.96 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -103181,8 +103181,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "94e753bf-2e6b-48a6-9346-43319e9dc2fe")
 		(property "Reference" "TP8"
 			(at 238.76 593.09 90)
@@ -106048,7 +106048,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "SMA002"
+		(property "Value" "6-1634010-0"
 			(at 68.58 759.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -107938,7 +107938,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "SMA002"
+		(property "Value" "6-1634010-0"
 			(at 68.58 670.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -111298,8 +111298,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "b76ef8a1-e358-4f37-9bb0-3d44870d666b")
 		(property "Reference" "TP11"
 			(at 772.16 1294.13 90)
@@ -115217,7 +115217,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "CC0402JRNPO9BN101"
 			(at 579.12 416.56 0)
 			(hide yes)
 			(show_name no)
@@ -115228,7 +115228,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" ""
+		(property "OEPS PN" "OEPS010089"
 			(at 579.12 416.56 0)
 			(hide yes)
 			(show_name no)
@@ -115239,7 +115239,7 @@
 				)
 			)
 		)
-		(property "old description" ""
+		(property "old description" "CAPACITOR:   SMD CER 0402 100pF 50V ±5% C0G   [CC0402JRNPO9BN101] [SMD]"
 			(at 579.12 416.56 0)
 			(hide yes)
 			(show_name no)
@@ -115331,7 +115331,7 @@
 				)
 			)
 		)
-		(property "MPN" "-"
+		(property "MPN" "DNP"
 			(at 304.8 1292.86 0)
 			(hide yes)
 			(show_name no)
@@ -115353,7 +115353,7 @@
 				)
 			)
 		)
-		(property "old description" ""
+		(property "old description" "DNP: Do Not Populate (DNI)"
 			(at 304.8 1292.86 0)
 			(hide yes)
 			(show_name no)
@@ -116172,7 +116172,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "24ST"
+		(property "Value" "24AA64-I/ST"
 			(at 723.9 1247.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -116538,7 +116538,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "SMA002"
+		(property "Value" "6-1634010-0"
 			(at 60.96 1082.04 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -116783,7 +116783,7 @@
 				)
 			)
 		)
-		(property "MPN" "-"
+		(property "MPN" "DNP"
 			(at 299.72 1059.18 0)
 			(hide yes)
 			(show_name no)
@@ -116805,7 +116805,7 @@
 				)
 			)
 		)
-		(property "old description" ""
+		(property "old description" "DNP: Do Not Populate (DNI)"
 			(at 299.72 1059.18 0)
 			(hide yes)
 			(show_name no)
@@ -117090,7 +117090,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "KDZ4.3B"
+		(property "Value" "KDZVTR4.3B"
 			(at 318.77 631.19 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -117361,7 +117361,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "SESD0402X1UN-0020-090"
+		(property "Value" "SESD0402X1UN-0030-088"
 			(at 102.87 1093.47 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -118133,7 +118133,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "AD5142BCPZ10"
+		(property "Value" "AD5142BRUZ10"
 			(at 520.7 831.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -118353,8 +118353,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "d7fd3b89-ffd7-4db6-855b-8d4487b182ad")
 		(property "Reference" "X2"
 			(at 106.68 1356.36 0)
@@ -123174,8 +123174,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "eddac3e2-5ae6-407d-b34c-226d66456240")
 		(property "Reference" "TP3"
 			(at 594.36 240.03 90)
@@ -123713,8 +123713,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "eeaec1ea-c0b4-4b0d-8549-2bfcf8bbd04a")
 		(property "Reference" "TP12"
 			(at 782.32 1294.13 90)
@@ -123960,7 +123960,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "RC0402JR-070RL"
 			(at 609.6 408.94 0)
 			(hide yes)
 			(show_name no)
@@ -123971,7 +123971,18 @@
 				)
 			)
 		)
-		(property "old description" ""
+		(property "old description" "RESISTOR:   SMD 0402 0Ω 1A   [RC0402JR-070RL] [SMD]"
+			(at 609.6 408.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS PN" "OEPS020001"
 			(at 609.6 408.94 0)
 			(hide yes)
 			(show_name no)
@@ -124197,8 +124208,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "f08206e5-6dd1-44e6-95d3-25d6fa72cbfd")
 		(property "Reference" "TP7"
 			(at 238.76 572.77 90)
@@ -125166,7 +125177,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "LM4132AMF-2.5/NOPBCT-ND"
+		(property "Value" "LM4132AMF-2.5/NOPB"
 			(at 406.4 328.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -128472,8 +128483,8 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
+		(in_pos_files no)
+		(dnp no)
 		(uuid "fd41d4d0-615c-4c7c-a64e-c925fea6214e")
 		(property "Reference" "TP17"
 			(at 754.38 1281.43 90)

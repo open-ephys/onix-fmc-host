@@ -24,6 +24,9 @@ fp-info-cache
 *.dsn
 *.ses
 
+# Editor and tool history
+.history/
+
 # Exported BOM files
 *.xml
 *.csv
