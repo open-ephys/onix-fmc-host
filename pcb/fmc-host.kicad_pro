@@ -861,7 +861,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "manufacturing/gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -876,7 +876,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "manufacturing\\bom\\FED3 tester BOM.csv",
+    "bom_export_filename": "manufacturing\\bom\\fmc-host.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -975,7 +975,7 @@
       "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
-      "sort_field": "${ITEM_NUMBER}"
+      "sort_field": "Reference"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
