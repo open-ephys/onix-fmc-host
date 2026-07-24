@@ -12478,7 +12478,7 @@
 				)
 			)
 		)
-		(property "MPN" "6-1634010-0"
+		(property "MPN" "262105"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12491,7 +12491,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS070003"
+		(property "OEPS PN" "OEPS070081"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12504,7 +12504,7 @@
 				)
 			)
 		)
-		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [6-1634010-0] [TH]"
+		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33677,7 +33677,7 @@
 				)
 			)
 		)
-		(property "MPN" "SI1012R-T1-GE3"
+		(property "MPN" "SI1012CR-T1-GE3"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33690,7 +33690,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS060001"
+		(property "OEPS PN" "OEPS060024"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -33703,7 +33703,7 @@
 				)
 			)
 		)
-		(property "old description" "TRANSISTOR:   MOSFET N-CH 20V 500mA   [SI1012R-T1-GE3] [SC-75A]"
+		(property "old description" "TRANSISTOR:   MOSFET N-CH 20V 630mA   [SI1012CR-T1-GE3] [SC-75A]"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35323,7 +35323,7 @@
 				)
 			)
 		)
-		(property "MPN" "6-1634010-0"
+		(property "MPN" "262105"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35336,7 +35336,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS070003"
+		(property "OEPS PN" "OEPS070081"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35349,7 +35349,7 @@
 				)
 			)
 		)
-		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [6-1634010-0] [TH]"
+		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44105,7 +44105,7 @@
 				)
 			)
 		)
-		(property "MPN" "6-1634010-0"
+		(property "MPN" "262105"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44118,7 +44118,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS070003"
+		(property "OEPS PN" "OEPS070081"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44131,7 +44131,7 @@
 				)
 			)
 		)
-		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [6-1634010-0] [TH]"
+		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44328,7 +44328,7 @@
 				)
 			)
 		)
-		(property "MPN" "6-1634010-0"
+		(property "MPN" "262105"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44341,7 +44341,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS070003"
+		(property "OEPS PN" "OEPS070081"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -44354,7 +44354,7 @@
 				)
 			)
 		)
-		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [6-1634010-0] [TH]"
+		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -49965,7 +49965,7 @@
 				)
 			)
 		)
-		(property "MPN" "1008PS-472KLB"
+		(property "MPN" "1008PS-472KLC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -49991,7 +49991,7 @@
 				)
 			)
 		)
-		(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 4.7uH 950mA 350mΩ   [1008PS-472KLB] [-]"
+		(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 4.7uH 950mA 350mΩ   [1008PS-472KLC] [-]"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51179,7 +51179,7 @@
 				)
 			)
 		)
-		(property "MPN" "1008PS-472KLB"
+		(property "MPN" "1008PS-472KLC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -51205,7 +51205,7 @@
 				)
 			)
 		)
-		(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 4.7uH 950mA 350mΩ   [1008PS-472KLB] [-]"
+		(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 4.7uH 950mA 350mΩ   [1008PS-472KLC] [-]"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -53075,7 +53075,7 @@
 				)
 			)
 		)
-		(property "MPN" "6-1634010-0"
+		(property "MPN" "262105"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -53088,7 +53088,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS070003"
+		(property "OEPS PN" "OEPS070081"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -53101,7 +53101,7 @@
 				)
 			)
 		)
-		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [6-1634010-0] [TH]"
+		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55616,7 +55616,7 @@
 				)
 			)
 		)
-		(property "MPN" "SI1012R-T1-GE3"
+		(property "MPN" "SI1012CR-T1-GE3"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55629,7 +55629,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS060001"
+		(property "OEPS PN" "OEPS060024"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -55642,7 +55642,7 @@
 				)
 			)
 		)
-		(property "old description" "TRANSISTOR:   MOSFET N-CH 20V 500mA   [SI1012R-T1-GE3] [SC-75A]"
+		(property "old description" "TRANSISTOR:   MOSFET N-CH 20V 630mA   [SI1012CR-T1-GE3] [SC-75A]"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
