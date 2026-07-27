@@ -67188,7 +67188,7 @@
 				)
 			)
 		)
-		(property "MPN" "SI1012R-T1-GE3"
+		(property "MPN" "SI1012CR-T1-GE3"
 			(at 154.94 617.22 0)
 			(hide yes)
 			(show_name no)
@@ -67199,7 +67199,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS060001"
+		(property "OEPS PN" "OEPS060024"
 			(at 154.94 617.22 0)
 			(hide yes)
 			(show_name no)
@@ -67210,7 +67210,7 @@
 				)
 			)
 		)
-		(property "old description" "TRANSISTOR:   MOSFET N-CH 20V 500mA   [SI1012R-T1-GE3] [SC-75A]"
+		(property "old description" "TRANSISTOR:   MOSFET N-CH 20V 630mA   [SI1012CR-T1-GE3] [SC-75A]"
 			(at 154.94 617.22 0)
 			(hide yes)
 			(show_name no)
@@ -77055,7 +77055,7 @@
 				)
 			)
 		)
-		(property "MPN" "1008PS-472KLB"
+		(property "MPN" "1008PS-472KLC"
 			(at 124.46 1076.96 90)
 			(hide yes)
 			(show_name no)
@@ -77077,7 +77077,7 @@
 				)
 			)
 		)
-		(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 4.7uH 950mA 350mΩ   [1008PS-472KLB] [-]"
+		(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 4.7uH 950mA 350mΩ   [1008PS-472KLC] [-]"
 			(at 124.46 1076.96 90)
 			(hide yes)
 			(show_name no)
@@ -78782,7 +78782,7 @@
 				)
 			)
 		)
-		(property "MPN" "6-1634010-0"
+		(property "MPN" "262105"
 			(at 71.12 576.58 0)
 			(hide yes)
 			(show_name no)
@@ -78793,7 +78793,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS070003"
+		(property "OEPS PN" "OEPS070081"
 			(at 71.12 576.58 0)
 			(hide yes)
 			(show_name no)
@@ -78804,7 +78804,7 @@
 				)
 			)
 		)
-		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [6-1634010-0] [TH]"
+		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
 			(at 71.12 576.58 0)
 			(hide yes)
 			(show_name no)
@@ -81707,7 +81707,7 @@
 				)
 			)
 		)
-		(property "MPN" "6-1634010-0"
+		(property "MPN" "262105"
 			(at 63.5 1310.64 0)
 			(hide yes)
 			(show_name no)
@@ -81718,7 +81718,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS070003"
+		(property "OEPS PN" "OEPS070081"
 			(at 63.5 1310.64 0)
 			(hide yes)
 			(show_name no)
@@ -81729,7 +81729,7 @@
 				)
 			)
 		)
-		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [6-1634010-0] [TH]"
+		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
 			(at 63.5 1310.64 0)
 			(hide yes)
 			(show_name no)
@@ -106092,7 +106092,7 @@
 				)
 			)
 		)
-		(property "MPN" "6-1634010-0"
+		(property "MPN" "262105"
 			(at 71.12 754.38 0)
 			(hide yes)
 			(show_name no)
@@ -106103,7 +106103,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS070003"
+		(property "OEPS PN" "OEPS070081"
 			(at 71.12 754.38 0)
 			(hide yes)
 			(show_name no)
@@ -106114,7 +106114,7 @@
 				)
 			)
 		)
-		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [6-1634010-0] [TH]"
+		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
 			(at 71.12 754.38 0)
 			(hide yes)
 			(show_name no)
@@ -107982,7 +107982,7 @@
 				)
 			)
 		)
-		(property "MPN" "6-1634010-0"
+		(property "MPN" "262105"
 			(at 71.12 665.48 0)
 			(hide yes)
 			(show_name no)
@@ -107993,7 +107993,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS070003"
+		(property "OEPS PN" "OEPS070081"
 			(at 71.12 665.48 0)
 			(hide yes)
 			(show_name no)
@@ -108004,7 +108004,7 @@
 				)
 			)
 		)
-		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [6-1634010-0] [TH]"
+		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
 			(at 71.12 665.48 0)
 			(hide yes)
 			(show_name no)
@@ -114525,7 +114525,7 @@
 				)
 			)
 		)
-		(property "MPN" "1008PS-472KLB"
+		(property "MPN" "1008PS-472KLC"
 			(at 124.46 1310.64 90)
 			(hide yes)
 			(show_name no)
@@ -114547,7 +114547,7 @@
 				)
 			)
 		)
-		(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 4.7uH 950mA 350mΩ   [1008PS-472KLB] [-]"
+		(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 4.7uH 950mA 350mΩ   [1008PS-472KLC] [-]"
 			(at 124.46 1310.64 90)
 			(hide yes)
 			(show_name no)
@@ -116582,7 +116582,7 @@
 				)
 			)
 		)
-		(property "MPN" "6-1634010-0"
+		(property "MPN" "262105"
 			(at 63.5 1076.96 0)
 			(hide yes)
 			(show_name no)
@@ -116593,7 +116593,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS070003"
+		(property "OEPS PN" "OEPS070081"
 			(at 63.5 1076.96 0)
 			(hide yes)
 			(show_name no)
@@ -116604,7 +116604,7 @@
 				)
 			)
 		)
-		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [6-1634010-0] [TH]"
+		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
 			(at 63.5 1076.96 0)
 			(hide yes)
 			(show_name no)
@@ -127617,7 +127617,7 @@
 				)
 			)
 		)
-		(property "MPN" "SI1012R-T1-GE3"
+		(property "MPN" "SI1012CR-T1-GE3"
 			(at 154.94 706.12 0)
 			(hide yes)
 			(show_name no)
@@ -127628,7 +127628,7 @@
 				)
 			)
 		)
-		(property "OEPS PN" "OEPS060001"
+		(property "OEPS PN" "OEPS060024"
 			(at 154.94 706.12 0)
 			(hide yes)
 			(show_name no)
@@ -127639,7 +127639,7 @@
 				)
 			)
 		)
-		(property "old description" "TRANSISTOR:   MOSFET N-CH 20V 500mA   [SI1012R-T1-GE3] [SC-75A]"
+		(property "old description" "TRANSISTOR:   MOSFET N-CH 20V 630mA   [SI1012CR-T1-GE3] [SC-75A]"
 			(at 154.94 706.12 0)
 			(hide yes)
 			(show_name no)
