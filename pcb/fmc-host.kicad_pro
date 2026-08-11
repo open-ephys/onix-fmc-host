@@ -58,6 +58,11 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.09,
+          "via_gap": 0.09,
+          "width": 0.09
         }
       ],
       "drc_exclusions": [
@@ -94,7 +99,51 @@
           ""
         ],
         [
+          "starved_thermal|122151100|216601100|afe4c194-049f-4769-8afc-a971c8faec3c|37380b19-f89c-4f7c-8785-58a5bec22fa4|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|122151100|231206100|afe4c194-049f-4769-8afc-a971c8faec3c|58c5038d-02be-4044-a4cf-e022fbfd8ead|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|124525700|231528600|afe4c194-049f-4769-8afc-a971c8faec3c|4f854172-2282-4714-a2ab-a0a14a1a26d0|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|129401100|218253600|afe4c194-049f-4769-8afc-a971c8faec3c|fa9f7b95-c719-4e62-831d-f29da5a9478f|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|129401100|219253600|afe4c194-049f-4769-8afc-a971c8faec3c|865eb6e8-f1bd-4ea2-8c21-78b443d18d64|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|129401100|223753600|afe4c194-049f-4769-8afc-a971c8faec3c|40ff347a-6cd6-4468-af84-afcb324282cd|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|129401100|231553600|afe4c194-049f-4769-8afc-a971c8faec3c|b6dc63bb-76f3-414c-8bdd-3b9975f52a3b|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|148984500|228403600|753f747e-52b0-47bb-8c19-1b247af1c25b|6373c250-8c05-4a1d-abb4-0cac7dada9cb|B.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|149077500|244380000|75534fa9-10e9-4516-a84f-52e255494b2d|688c3f9f-33b4-40d3-9d6c-d071756c4a1f|F.Cu",
+          ""
+        ],
+        [
           "starved_thermal|168421100|244243600|75534fa9-10e9-4516-a84f-52e255494b2d|56d9f0c8-6c83-412e-8ff8-d06d00f11b7e|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|172136100|199838600|75534fa9-10e9-4516-a84f-52e255494b2d|844774f7-ba3c-4bc6-a750-51cb4e4a8e6c|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|178926100|197978600|753f747e-52b0-47bb-8c19-1b247af1c25b|3c022738-d01b-4c14-8239-ceb9fa74ff4b|B.Cu",
           ""
         ]
       ],
@@ -233,6 +282,7 @@
       ],
       "track_widths": [
         0.0,
+        0.15,
         0.19
       ],
       "tuning_pattern_settings": {
@@ -265,6 +315,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.3524,
+          "drill": 0.2
         }
       ],
       "zones_allow_external_fillets": false
@@ -588,8 +642,8 @@
       {
         "bus_width": 12,
         "clearance": 0.0889,
-        "diff_pair_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_gap": 0.09,
+        "diff_pair_width": 0.0889,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -784,7 +838,7 @@
       },
       {
         "netclass": "130 Ohm Diff Top",
-        "pattern": "MLVDS_CLK_3_P"
+        "pattern": "*MLVDS_CLK_3_P"
       },
       {
         "netclass": "130 Ohm Diff Top",
@@ -804,7 +858,7 @@
       },
       {
         "netclass": "130 Ohm Diff Top",
-        "pattern": "MLVDS_CLK_3_N"
+        "pattern": "*MLVDS_CLK_3_N"
       },
       {
         "netclass": "130 Ohm Diff Top",
@@ -876,7 +930,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "manufacturing\\bom\\fmc-host.csv",
+    "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -1026,7 +1080,7 @@
         "uuid": "3a190272-84f9-4241-a964-a08ef93e1ba1"
       }
     ],
-    "used_designators": "R82",
+    "used_designators": "R82,#SUPPLY113,#SUPPLY212",
     "variants": []
   },
   "sheets": [

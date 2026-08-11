@@ -38915,6 +38915,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 792.48) (xy 80.01 792.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09747d72-77e4-4776-b05a-7443b32063e1")
+	)
+	(wire
+		(pts
 			(xy 713.74 1236.98) (xy 713.74 1239.52)
 		)
 		(stroke
@@ -56185,6 +56195,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 822.96) (xy 76.2 792.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7cde405-cafa-41f2-8804-a00fb0dd818c")
+	)
+	(wire
+		(pts
 			(xy 426.72 680.72) (xy 635 680.72)
 		)
 		(stroke
@@ -57883,6 +57903,16 @@
 		)
 		(uuid "ec7cefbe-1995-4092-92c0-ff29fc83155b")
 	)
+	(wire
+		(pts
+			(xy 80.01 792.48) (xy 80.01 795.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec80c112-3cb4-40af-bb51-1974c24d7d4e")
+	)
 	(polyline
 		(pts
 			(xy 60.96 754.38) (xy 66.04 754.38)
@@ -58392,6 +58422,16 @@
 			(type solid)
 		)
 		(uuid "f33e8a8f-3db4-4b2c-b8cf-54f466e75c61")
+	)
+	(wire
+		(pts
+			(xy 76.2 838.2) (xy 76.2 853.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3405c1c-7a21-49ea-a8ab-f1c4d5e31e98")
 	)
 	(polyline
 		(pts
@@ -96095,6 +96135,84 @@
 		)
 	)
 	(symbol
+		(lib_id "fmc-host-eagle-import:GND")
+		(at 80.01 797.56 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7834b7eb-a71b-445f-a0c6-cef9555e3939")
+		(property "Reference" "#SUPPLY0212"
+			(at 80.01 797.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 75.565 802.259 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 80.01 797.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 797.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 80.01 797.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "475c844b-54c5-414c-8ebb-041ba2d15f14")
+		)
+		(instances
+			(project "fmc-host"
+				(path "/3a190272-84f9-4241-a964-a08ef93e1ba1"
+					(reference "#SUPPLY0212")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "fmc-host-eagle-import:DIODE2_SOT23")
 		(at 116.84 665.48 0)
 		(unit 1)
@@ -112658,6 +112776,84 @@
 			(project "fmc-host"
 				(path "/3a190272-84f9-4241-a964-a08ef93e1ba1"
 					(reference "C30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "fmc-host-eagle-import:GND")
+		(at 76.2 855.98 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "beb954b6-54a1-4fce-a163-cf90166990f0")
+		(property "Reference" "#SUPPLY0113"
+			(at 76.2 855.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 71.755 860.679 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.2 855.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.2 855.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 76.2 855.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "083621dc-e5f7-4b07-801b-64a479b420b7")
+		)
+		(instances
+			(project "fmc-host"
+				(path "/3a190272-84f9-4241-a964-a08ef93e1ba1"
+					(reference "#SUPPLY0113")
 					(unit 1)
 				)
 			)
