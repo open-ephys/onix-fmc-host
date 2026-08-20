@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.71,
-          "height": 1.06,
-          "width": 1.06
+          "drill": 0.0,
+          "height": 1.6,
+          "width": 0.9
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -283,7 +283,8 @@
       "track_widths": [
         0.0,
         0.15,
-        0.19
+        0.19,
+        0.3
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -1022,6 +1023,48 @@
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "TempCo",
+          "name": "TempCo",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Tolerance",
+          "name": "Tolerance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Voltage",
+          "name": "Voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "OEPSPN",
+          "name": "OEPSPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Datasheet1",
+          "name": "Datasheet1",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Part No.",
+          "name": "Part No.",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -1080,7 +1123,7 @@
         "uuid": "3a190272-84f9-4241-a964-a08ef93e1ba1"
       }
     ],
-    "used_designators": "R82,#SUPPLY113,#SUPPLY212",
+    "used_designators": "R83-84,#SUPPLY215-216",
     "variants": []
   },
   "sheets": [
