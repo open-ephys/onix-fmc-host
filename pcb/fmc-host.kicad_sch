@@ -66117,6 +66117,28 @@
 				)
 			)
 		)
+		(property "OEPS PN" "OEPS020260"
+			(at 549.91 734.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "old description" "RESISTOR:   SMD 1206 4.7Ω ±5% 1W   [SG73P2BTTD4R7J] [SMD]"
+			(at 549.91 734.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "05cf5dbd-84f7-4147-9a29-1c4b7a9aa8d4")
 		)
@@ -67561,7 +67583,29 @@
 				)
 			)
 		)
-		(property "MPN" "SN74LVC2G14DBV"
+		(property "MPN" "SN74LVC2G14DBVR"
+			(at 605.79 713.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS PN" "OEPS080247"
+			(at 605.79 713.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "old description" "IC:   BUFFER INVERT 2CH SCHMITT-TRIGGER   [SN74LVC2G14DBVR] [SOT-23-6]"
 			(at 605.79 713.74 0)
 			(hide yes)
 			(show_name no)
@@ -70856,6 +70900,28 @@
 				)
 			)
 		)
+		(property "OEPS PN" "OEPS080246"
+			(at 571.5 721.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "old description" "IC:   OPAMP 2 CIRCUIT   [TLV9062IDSGR] [8-WSON]"
+			(at 571.5 721.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e9ada005-d4b5-4d25-b34c-1b8d8b39f930")
 		)
@@ -73159,7 +73225,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1E104K050BB"
+		(property "MPN" "GRM155R71E104KE14D"
 			(at 613.41 698.5 0)
 			(hide yes)
 			(show_name no)
@@ -73182,6 +73248,28 @@
 			)
 		)
 		(property "LCSC" "C105883"
+			(at 613.41 698.5 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS PN" "OEPS010004"
+			(at 613.41 698.5 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 613.41 698.5 90)
 			(hide yes)
 			(show_name no)
@@ -84406,6 +84494,28 @@
 			)
 		)
 		(property "LCSC" ""
+			(at 474.98 726.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS PN" "OEPS020260"
+			(at 474.98 726.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "old description" "RESISTOR:   SMD 1206 4.7Ω ±5% 1W   [SG73P2BTTD4R7J] [SMD]"
 			(at 474.98 726.44 90)
 			(hide yes)
 			(show_name no)
@@ -107735,6 +107845,28 @@
 				)
 			)
 		)
+		(property "OEPS PN" "OEPS080246"
+			(at 511.81 713.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "old description" "IC:   OPAMP 2 CIRCUIT   [TLV9062IDSGR] [8-WSON]"
+			(at 511.81 713.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e9ada005-d4b5-4d25-b34c-1b8d8b39f931")
 		)
@@ -118378,7 +118510,7 @@
 				)
 			)
 		)
-		(property "MPN" "C1005X7R1E104K050BB"
+		(property "MPN" "GRM155R71E104KE14D"
 			(at 509.27 703.58 0)
 			(hide yes)
 			(show_name no)
@@ -118401,6 +118533,28 @@
 			)
 		)
 		(property "LCSC" "C105883"
+			(at 509.27 703.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS PN" "OEPS010004"
+			(at 509.27 703.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 509.27 703.58 0)
 			(hide yes)
 			(show_name no)
@@ -128009,6 +128163,28 @@
 			)
 		)
 		(property "MPN" "TLV9062IDSGR"
+			(at 511.81 713.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS PN" "OEPS080246"
+			(at 511.81 713.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "old description" "IC:   OPAMP 2 CIRCUIT   [TLV9062IDSGR] [8-WSON]"
 			(at 511.81 713.74 0)
 			(hide yes)
 			(show_name no)

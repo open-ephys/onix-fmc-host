@@ -57011,12 +57011,40 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "SN74LVC2G14DBV"
+		(property "MPN" "SN74LVC2G14DBVR"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "3e1bdc05-b603-4697-902a-4773746351e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS PN" "OEPS080247"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "dadab978-1c64-43c3-aa3d-a35e678f0aa4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "old description" "IC:   BUFFER INVERT 2CH SCHMITT-TRIGGER   [SN74LVC2G14DBVR] [SOT-23-6]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e2945684-1e5f-47c1-9ff5-ac98bced97bd")
 			(effects
 				(font
 					(size 1 1)
@@ -64303,6 +64331,34 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS PN" "OEPS020260"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e53030fc-40f9-4cca-a947-5bfdc4c175b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "old description" "RESISTOR:   SMD 1206 4.7Ω ±5% 1W   [SG73P2BTTD4R7J] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4a3cb92f-0c11-425d-9a3a-0a10dc9426d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/4f01acb6-9c56-499f-afd4-742e66c5d85d")
 		(sheetname "/")
@@ -65414,7 +65470,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C1005X7R1E104K050BB"
+		(property "MPN" "GRM155R71E104KE14D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -65448,6 +65504,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4c0e564c-12db-42a2-91e9-972f32686c85")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS PN" "OEPS010004"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4249aa4d-256a-48d0-8173-e66056a0bab1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2ba98405-fa5f-4cc9-9c8d-f4299557cd22")
 			(effects
 				(font
 					(size 1 1)
@@ -69731,6 +69815,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a10d2c33-1eae-42b5-90ff-611bad88ef4c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS PN" "OEPS080246"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "df6ce39c-20b4-43a1-bdd3-7ecd170e32fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "old description" "IC:   OPAMP 2 CIRCUIT   [TLV9062IDSGR] [8-WSON]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "69e9041f-b6ab-440c-b36e-7d11aa2cce5a")
 			(effects
 				(font
 					(size 1 1)
@@ -89935,6 +90047,34 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS PN" "OEPS020260"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f05d2518-615d-4add-85a5-a6c86b433262")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "old description" "RESISTOR:   SMD 1206 4.7Ω ±5% 1W   [SG73P2BTTD4R7J] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7816823b-7053-4772-ba87-afa19a3cbb6e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/05cd182e-4d95-4b94-aa79-72443a7be1b7")
 		(sheetname "/")
@@ -91640,7 +91780,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "C1005X7R1E104K050BB"
+		(property "MPN" "GRM155R71E104KE14D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -91674,6 +91814,34 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8db7e5ae-da3d-4110-91bf-31f185d2ab47")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS PN" "OEPS010004"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7f5b4d60-f8dc-4ec6-8889-995ca25884dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "796e30f7-f9a6-461d-ade6-00c7aa64c4da")
 			(effects
 				(font
 					(size 1 1)
