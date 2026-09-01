@@ -1,0 +1,188 @@
+(footprint "1411-VISHAY-B"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -3.162 1.543 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a041c6bd-0a15-4662-a679-a5ed4e6a7da0")
+		(effects
+			(font
+				(size 0.650038 0.650038)
+				(thickness 0.149962)
+			)
+			(justify right top)
+		)
+	)
+	(property "Value" "33uF"
+		(at -2.77 2.978 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b9b79819-f96a-4634-8f15-b0adb08fa88e")
+		(effects
+			(font
+				(size 0.83312 0.83312)
+				(thickness 0.18288)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7dab3e76-d3e4-4446-b181-fcfa0b8d8097")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "20ec998e-990f-49fa-a31d-fb18540d0c05")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "TL8B0336M020C"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6a8d0b64-aa88-412f-9622-e66795e53356")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "OEPS PN" "OEPS210010"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8ef58af3-5cef-45b0-af3d-c37e8b5096a6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "old description" "CAPACITOR POL:   SMD TANT B0 1411 33uF 20V ±20% 50Ohm   [TL8B0336M020C] [SMD]"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aa137a6b-fdef-43f4-b58a-dcad4e857b24")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "fmc-host.kicad_sch")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3 -1.7)
+		(end -2.9 -1.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "33b7da94-5dca-4d49-874d-298fb131b081")
+	)
+	(fp_line
+		(start -3 1.7)
+		(end -3 -1.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8b0a924f-5e2f-4278-b4ea-685dc932c28f")
+	)
+	(fp_line
+		(start -2.9 -1.7)
+		(end 2.9 -1.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b4552755-37cf-45e8-906b-06a1da59c66b")
+	)
+	(fp_line
+		(start -2.9 1.7)
+		(end -3 1.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e6b0ef84-a16c-41de-bfc5-d1cb67e1b261")
+	)
+	(fp_line
+		(start -2.9 1.7)
+		(end -2.9 -1.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "27e7bdbc-60c4-44ce-9c0b-b4a66029d9b1")
+	)
+	(fp_line
+		(start 2.9 -1.7)
+		(end 2.9 1.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6573eebe-c714-4a44-9d7f-d37c8a255ad1")
+	)
+	(fp_line
+		(start 2.9 1.7)
+		(end -2.9 1.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "390ac724-80f9-477d-aec5-703127569a23")
+	)
+	(pad "A" smd rect
+		(at -1.725 0 90)
+		(size 3 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "8fee4503-e5ea-4f9b-b9f0-aff845543e8e")
+	)
+	(pad "C" smd rect
+		(at 1.725 0 270)
+		(size 3 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "516af2ec-eb73-4f04-bf86-112789442a5b")
+	)
+	(embedded_fonts no)
+)

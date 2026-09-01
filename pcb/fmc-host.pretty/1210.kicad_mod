@@ -1,0 +1,158 @@
+(footprint "1210"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 2.639 0.3486 -90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9ad8e632-8dce-4cae-b754-f40775853a23")
+		(effects
+			(font
+				(size 0.650038 0.650038)
+				(thickness 0.149962)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "1277AS-H-6R8M=P2"
+		(at -2.54 2.905 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "26360df0-1310-480b-b554-6df82c6de0e4")
+		(effects
+			(font
+				(size 0.83312 0.83312)
+				(thickness 0.18288)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bc506e4a-2697-4681-9fdc-5e2c5674e28c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d33a80ce-e03c-48c2-a9bd-df4a13c22548")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "1277AS-H-6R8M=P2"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c0eab5fd-df97-4a94-98bb-710fcc247db4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "OEPS PN" "OEPS040035"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "58076e0f-daf5-403a-ba5f-11638b7373d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 6.8uH 1.2A 276mΩ   [1277AS-H-6R8M=P2] [SMD]"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "70cac924-5e52-4ac8-aac1-47a9b19d7505")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "fmc-host.kicad_sch")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.413 -1.651)
+		(end 2.413 -1.651)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c32ebac4-65df-4457-b0b8-da75395993db")
+	)
+	(fp_line
+		(start -2.413 1.651)
+		(end -2.413 -1.651)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9527da34-5788-4423-8bbf-0464914a6d5b")
+	)
+	(fp_line
+		(start 2.413 -1.651)
+		(end 2.413 1.651)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "30afcc78-b3ff-47e9-bc60-0b61030b213d")
+	)
+	(fp_line
+		(start 2.413 1.651)
+		(end -2.413 1.651)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "add88620-ed7e-44b9-8f50-413274a54227")
+	)
+	(pad "1" smd rect
+		(at -1.397 0)
+		(size 1.651 2.794)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "0947856b-475e-4bf5-be28-c0188b684462")
+	)
+	(pad "2" smd rect
+		(at 1.397 0)
+		(size 1.651 2.794)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "916d8642-2bb0-449f-ad96-d077f43d1294")
+	)
+	(embedded_fonts no)
+)
