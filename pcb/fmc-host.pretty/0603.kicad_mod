@@ -1,0 +1,202 @@
+(footprint "0603"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -2.152632 0.675006 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b53c27d7-7f61-4756-8e74-ff79255f1011")
+		(effects
+			(font
+				(size 0.633376 0.633376)
+				(thickness 0.166624)
+			)
+			(justify left)
+		)
+	)
+	(property "Value" "BLM18KG601SN1D"
+		(at -1.397 1.397 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee24424b-d093-4d48-8222-6eb6d3e59f19")
+		(effects
+			(font
+				(size 0.83312 0.83312)
+				(thickness 0.18288)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2fb2212a-ae4c-4793-a470-6410b0cb386c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "efe4c22d-5c5a-4bb1-b388-f4632d6cab64")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "BLM18KG601SN1D"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a47afcab-2204-4eb1-bdfa-b05af6bce557")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "OEPS PN" "OEPS040029"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "59c43cfc-c5b5-4f54-8322-10ee017968c3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bd4c5a47-b96a-4ee7-9503-334357781719")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "fmc-host.kicad_sch")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.5875 -0.8255)
+		(end 1.5875 -0.8255)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fb77c5b0-10d5-4e87-be16-5a7fc261cb32")
+	)
+	(fp_line
+		(start -1.5875 0.8255)
+		(end -1.5875 -0.8255)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8c9b2cea-f582-4381-bb2a-bd02f9bc13a8")
+	)
+	(fp_line
+		(start 1.5875 -0.8255)
+		(end 1.5875 0.8255)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "16ed6fae-2779-4c4c-bd14-f1f98262ceb3")
+	)
+	(fp_line
+		(start 1.5875 0.8255)
+		(end -1.5875 0.8255)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "31044bb6-1b74-45fa-a36b-a90099ce7fb3")
+	)
+	(fp_line
+		(start -0.762 -0.4064)
+		(end 0.762 -0.4064)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d4332895-8416-4518-acf9-4613b814dca1")
+	)
+	(fp_line
+		(start 0.762 0.4064)
+		(end -0.762 0.4064)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6f389400-a10a-45db-a218-8704fbad28e8")
+	)
+	(fp_poly
+		(pts
+			(xy -0.8128 0.4064) (xy -0.508 0.4064) (xy -0.508 -0.4064) (xy -0.8128 -0.4064)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "e2219709-70ab-4adb-b37d-9314a3b1477e")
+	)
+	(fp_poly
+		(pts
+			(xy 0.508 0.4064) (xy 0.8128 0.4064) (xy 0.8128 -0.4064) (xy 0.508 -0.4064)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "2fe78e04-d096-4e3c-928c-ba1e41c4a8f6")
+	)
+	(pad "1" smd rect
+		(at -0.8636 0)
+		(size 0.889 1.0668)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "4dbb9c83-0e45-4ebd-842f-8c5b13688f8f")
+	)
+	(pad "2" smd rect
+		(at 0.8636 0)
+		(size 0.889 1.0668)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "0dd53487-8cfb-45fe-8672-9e381f011edb")
+	)
+	(embedded_fonts no)
+)

@@ -73138,7 +73138,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "fmc-host:0402"
 			(at 617.22 699.4652 0)
 			(hide yes)
 			(show_name no)
@@ -90452,7 +90452,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "fmc-host:0402"
 			(at 563.88 736.6 0)
 			(hide yes)
 			(show_name no)
@@ -101782,7 +101782,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-523"
+		(property "Footprint" "fmc-host:SC75"
 			(at 547.37 718.82 0)
 			(hide yes)
 			(show_name no)
@@ -111492,7 +111492,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "fmc-host:0402"
 			(at 501.65 722.63 0)
 			(hide yes)
 			(show_name no)
@@ -117050,7 +117050,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-523"
+		(property "Footprint" "fmc-host:SC75"
 			(at 472.44 711.2 0)
 			(hide yes)
 			(show_name no)
@@ -118423,7 +118423,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "fmc-host:0402"
 			(at 510.2352 707.39 0)
 			(hide yes)
 			(show_name no)

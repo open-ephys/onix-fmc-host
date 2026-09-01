@@ -83,6 +83,18 @@
           ""
         ],
         [
+          "lib_footprint_issues|139045000|241617500|3d6c3870-2d0b-4aa0-8048-9538078eb58c|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_issues|141135000|239187500|fd123d5f-7b59-4030-96b4-d44106e1347f|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_issues|149300000|244317500|8b4c1f04-7511-4bb1-8c87-9bc255c2bc33|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
           "shorting_items|121251100|184353600|76d9fbec-c305-4d43-9a51-156bd8e8d33c|9865d5df-a130-48c6-9f1f-df18adb779e8",
           ""
         ],
@@ -128,10 +140,6 @@
         ],
         [
           "starved_thermal|148984500|228403600|753f747e-52b0-47bb-8c19-1b247af1c25b|6373c250-8c05-4a1d-abb4-0cac7dada9cb|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|149077500|244380000|75534fa9-10e9-4516-a84f-52e255494b2d|688c3f9f-33b4-40d3-9d6c-d071756c4a1f|F.Cu",
           ""
         ],
         [
@@ -197,7 +205,7 @@
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
-        "text_height": "warning",
+        "text_height": "ignore",
         "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
@@ -931,7 +939,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "manufacturing\\bom\\fmc-host.csv",
+    "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -972,26 +980,8 @@
         },
         {
           "group_by": true,
-          "label": "Tolerance",
-          "name": "Tolerance",
-          "show": true
-        },
-        {
-          "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
-          "show": true
-        },
-        {
-          "group_by": true,
-          "label": "TempCo",
-          "name": "TempCo",
-          "show": true
-        },
-        {
-          "group_by": true,
-          "label": "Voltage",
-          "name": "Voltage",
           "show": true
         },
         {
@@ -1040,6 +1030,24 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "TempCo",
+          "name": "TempCo",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Tolerance",
+          "name": "Tolerance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Voltage",
+          "name": "Voltage",
           "show": false
         },
         {
@@ -1123,8 +1131,12 @@
         "uuid": "3a190272-84f9-4241-a964-a08ef93e1ba1"
       }
     ],
-    "used_designators": "R83-84,#SUPPLY215-216",
-    "variants": []
+    "used_designators": "",
+    "variants": [
+      {
+        "name": "301R/29.8k"
+      }
+    ]
   },
   "sheets": [
     [

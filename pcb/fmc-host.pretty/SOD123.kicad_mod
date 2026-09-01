@@ -1,0 +1,192 @@
+(footprint "SOD123"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 2.47 -0.759 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9ab915de-9cb4-463d-8832-21dd276388a4")
+		(effects
+			(font
+				(size 0.633376 0.633376)
+				(thickness 0.166624)
+			)
+			(justify right top)
+		)
+	)
+	(property "Value" "KDZVTR4.3B"
+		(at -2.54 2.54 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "47da188b-806c-4bf5-8b2e-5b2f5d6837e6")
+		(effects
+			(font
+				(size 0.83312 0.83312)
+				(thickness 0.18288)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5eb9c3bb-406d-4299-9ef6-9d82bb4eec5e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "092d4115-d06d-41d1-93a2-37d9bbdd3bf9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "KDZVTR4.3B"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4515b57c-6369-4c13-a056-bba6f9a816f9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "OEPS PN" "OEPS030051"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eceab7ce-b03e-4113-bf5e-5b0af3d12f4a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "old description" "DIODE:   DIODE ZENER 4.55V 1W   [KDZVTR4.3B] [PMDU]"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "13dea473-2a2b-4921-bc06-19680143b001")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "fmc-host.kicad_sch")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.3 -0.8)
+		(end 1.3 -0.8)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6d426069-c062-4ac1-b247-3f5a3cd9b28c")
+	)
+	(fp_line
+		(start -1.3 0.8)
+		(end 1.3 0.8)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "01789002-a9dc-439c-ae38-5f26bb2c3915")
+	)
+	(fp_line
+		(start -0.59375 -0.63505)
+		(end -0.59375 0.63505)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "49a1fa6a-826a-41f1-97a5-8971631fec72")
+	)
+	(fp_line
+		(start -0.59375 0.63505)
+		(end 0.45875 0)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a4eabd36-4f74-41bb-a76a-9cb4b4b1d8f4")
+	)
+	(fp_line
+		(start 0.45875 0)
+		(end -0.59375 -0.63505)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4f40e7fe-c5ab-4bdd-9a1a-c31ece6813ec")
+	)
+	(fp_poly
+		(pts
+			(xy 0.335 0.8) (xy 0.6525 0.8) (xy 0.6525 -0.8) (xy 0.335 -0.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "9adc46d0-66e0-42f5-a4c6-657eb61f506d")
+	)
+	(fp_poly
+		(pts
+			(xy -1.3 0.8) (xy 1.3 0.8) (xy 1.3 -0.8) (xy -1.3 -0.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.CrtYd")
+		(uuid "f1952f30-0639-4301-baef-c068ca35494c")
+	)
+	(pad "A" smd rect
+		(at -1.8 0)
+		(size 0.9144 1.2192)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "d5a5f6f5-aa7d-496c-a632-de4ed6ea8654")
+	)
+	(pad "C" smd rect
+		(at 1.8 0)
+		(size 0.9144 1.2192)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "24001487-ed5e-4949-bfac-d9e389a1a14c")
+	)
+	(embedded_fonts no)
+)

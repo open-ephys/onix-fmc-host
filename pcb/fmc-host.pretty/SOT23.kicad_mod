@@ -1,0 +1,213 @@
+(footprint "SOT23"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.701319 -0.84819 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "175dbe07-e64d-44ff-8d3f-04d6dd821f04")
+		(effects
+			(font
+				(size 0.59172 0.59172)
+				(thickness 0.20828)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "BAR66"
+		(at -1.905 3.175 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fcc4ad47-871f-4140-a9fc-7165b3621406")
+		(effects
+			(font
+				(size 1.0414 1.0414)
+				(thickness 0.2286)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "649953b7-995d-4a63-b7b5-f42cf8f4bbd4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d95abfb0-d166-4d1c-afa0-4194b18c86ab")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "BAR66E6327HTSA1"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d4e00cd0-bd48-437e-883e-457787b743e7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "OEPS PN" "OEPS030050"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0ce27550-a865-498c-a84d-0c1b9e7395ab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "old description" "DIODE:   RF DIODE PIN 150V 250MW   [BAR66E6327HTSA1] [PG-SOT23]"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b3a6f3ae-1e70-4b26-9e9a-f165386519c0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "fmc-host.kicad_sch")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.4224 -0.6604)
+		(end -0.7112 -0.6604)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3b4bbe2e-b5e2-442c-ad90-a2b9e044be7d")
+	)
+	(fp_line
+		(start -1.4224 0.2032)
+		(end -1.4224 -0.6604)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "aa1a23b3-8e38-49f6-a2d1-928eb30d8bfc")
+	)
+	(fp_line
+		(start -0.2794 0.9398)
+		(end 0.2794 0.9398)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "85e22967-9223-44d3-a7e8-fd0bc17e8481")
+	)
+	(fp_line
+		(start 0.7112 -0.6604)
+		(end 1.4224 -0.6604)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d6309031-10c2-404c-ab37-e07186650e9f")
+	)
+	(fp_line
+		(start 1.4224 -0.6604)
+		(end 1.4224 0.2032)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d308b13a-1ebb-4d39-9242-79b290617d7c")
+	)
+	(fp_poly
+		(pts
+			(xy -1.1684 1.2954) (xy -0.7112 1.2954) (xy -0.7112 0.7112) (xy -1.1684 0.7112)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "e9006174-912c-4425-99f9-b55958a2e20c")
+	)
+	(fp_poly
+		(pts
+			(xy -0.2286 -0.7112) (xy 0.2286 -0.7112) (xy 0.2286 -1.2954) (xy -0.2286 -1.2954)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "a53aa77d-4049-404a-b3e8-8dc898be027c")
+	)
+	(fp_poly
+		(pts
+			(xy 0.7112 1.2954) (xy 1.1684 1.2954) (xy 1.1684 0.7112) (xy 0.7112 0.7112)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "fde7978c-0320-4d9e-9670-cecc467f430f")
+	)
+	(pad "1" smd rect
+		(at -0.95 1.1)
+		(size 1 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "4d5fb627-ca2a-43fd-a5ac-1440ef000400")
+	)
+	(pad "2" smd rect
+		(at 0.95 1.1)
+		(size 1 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "8bf0ac3f-7f78-4a86-b726-748e103960f0")
+	)
+	(pad "3" smd rect
+		(at 0 -1.1)
+		(size 1 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "c89abe25-235c-41d7-9281-a69701955547")
+	)
+	(embedded_fonts no)
+)

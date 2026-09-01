@@ -1,0 +1,158 @@
+(footprint "1008PS"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -2.5864 2.457363 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "2653ad88-63d0-453c-8a03-4594300fbef0")
+		(effects
+			(font
+				(size 0.633376 0.633376)
+				(thickness 0.166624)
+			)
+			(justify left)
+		)
+	)
+	(property "Value" "1008PS-472"
+		(at -2.54 2.54 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9591236e-d94e-433b-be27-0340ffdaab0f")
+		(effects
+			(font
+				(size 0.83312 0.83312)
+				(thickness 0.18288)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "60008b71-9410-4431-934d-589a4391707a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b95438f-afd7-4d61-b4e1-dffe6ed8b960")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "1008PS-472KLC"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "42c1a23e-a99e-4b65-b6f5-5e638d7307e4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "OEPS PN" "OEPS040032"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3daa2d2c-5f2d-4f63-a7c5-8299cb5c7ad2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 4.7uH 950mA 350mΩ   [1008PS-472KLC] [-]"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "af28597b-8280-4085-8674-3974a465bd74")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "fmc-host.kicad_sch")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.905 -1.905)
+		(end -1.905 1.905)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3a229636-9071-4d02-bb3a-e441d277332e")
+	)
+	(fp_line
+		(start -1.905 1.905)
+		(end 1.905 1.905)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8b666d64-3a53-41ca-831c-d34819b9c079")
+	)
+	(fp_line
+		(start 1.905 -1.905)
+		(end -1.905 -1.905)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "aa8025c7-d9bb-408b-918a-7c8c88c54bba")
+	)
+	(fp_line
+		(start 1.905 1.905)
+		(end 1.905 -1.905)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ec76947c-dd38-4eb1-af82-e14f746166a9")
+	)
+	(pad "1" smd rect
+		(at 0 -1.143 180)
+		(size 2.54 1.016)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "4457287d-2fb5-443e-a2cd-00cda7419b74")
+	)
+	(pad "2" smd rect
+		(at 0 1.143 180)
+		(size 2.54 1.016)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "ded2b349-ee1a-4040-926b-f2bb43308d7b")
+	)
+	(embedded_fonts no)
+)

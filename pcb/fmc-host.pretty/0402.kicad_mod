@@ -1,0 +1,203 @@
+(footprint "0402"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 1.95 -3.35 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1533a5d6-3098-4e95-9532-cea45a3d28da")
+		(effects
+			(font
+				(size 0.633376 0.633376)
+				(thickness 0.166624)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "0.1uF"
+		(at -1.27 1.778 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f5b515b3-a67a-401b-9329-77e4299c2e12")
+		(effects
+			(font
+				(size 0.83312 0.83312)
+				(thickness 0.18288)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e5b2412e-b107-4308-bc48-45419914f404")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4296bf59-6373-42fd-a1a1-2e6b3b23045d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "GRM155R71E104KE14D"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b9dfce00-dd1d-4180-aafb-10a73a6860df")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "OEPS PN" "OEPS010004"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7282cf12-61c4-4491-b2e9-0695703de69c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e2c1c44-8483-489a-8726-b3575651680f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "fmc-host.kicad_sch")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.0668 -0.5588)
+		(end 1.0668 -0.5588)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4cab135f-e521-4878-a67d-ee14d275f851")
+	)
+	(fp_line
+		(start -1.0668 0.5588)
+		(end -1.0668 -0.5588)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c3e2ffaf-8a7f-4a33-8224-e40259c00302")
+	)
+	(fp_line
+		(start 1.0668 -0.5588)
+		(end 1.0668 0.5588)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5dfabf48-9ccd-4f9d-8457-43b8b8a6a517")
+	)
+	(fp_line
+		(start 1.0668 0.5588)
+		(end -1.0668 0.5588)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9c2e8a93-2fc8-474d-ae5c-fa2a3d3feccf")
+	)
+	(fp_line
+		(start -0.4572 -0.254)
+		(end 0.4572 -0.254)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0cec6e64-ac8d-4e43-8afa-59a4a8549a41")
+	)
+	(fp_line
+		(start 0.4572 0.254)
+		(end -0.4572 0.254)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "03dc7ba1-21f9-4b11-84bc-8e4895ffbec4")
+	)
+	(fp_poly
+		(pts
+			(xy -0.508 0.254) (xy -0.254 0.254) (xy -0.254 -0.254) (xy -0.508 -0.254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "275a2854-1006-4dfe-9065-bdde0ff80eca")
+	)
+	(fp_poly
+		(pts
+			(xy 0.254 0.254) (xy 0.508 0.254) (xy 0.508 -0.254) (xy 0.254 -0.254)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "d0121df8-5d01-4cfa-8d9d-03d5e91504dd")
+	)
+	(pad "1" smd rect
+		(at -0.5334 0)
+		(size 0.6858 0.762)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(zone_connect 2)
+		(thermal_bridge_angle 0)
+		(uuid "e6e1ffbe-629d-4c20-8c08-5880531d0e29")
+	)
+	(pad "2" smd rect
+		(at 0.5334 0)
+		(size 0.6858 0.762)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "f97e7479-ee21-4009-b39c-b5bd9664e163")
+	)
+	(embedded_fonts no)
+)
