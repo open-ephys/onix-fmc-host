@@ -4,6 +4,9 @@
 	(generator_version "10.0")
 	(uuid "3a190272-84f9-4241-a964-a08ef93e1ba1")
 	(paper "User" 911.86 1409.85)
+	(title_block
+		(rev "G")
+	)
 	(lib_symbols
 		(symbol "74xGxx:SN74LVC2G14DBV"
 			(exclude_from_sim no)
@@ -65380,6 +65383,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "DIODE:   RF DIODE PIN 150V 250MW   [BAR66E6327HTSA1] [PG-SOT23]"
+			(at 106.68 754.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "2de37f56-b36c-4e7b-a334-8872e595e0ca")
 		)
@@ -65565,6 +65579,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 177.8 1135.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 177.8 1135.38 0)
 			(hide yes)
 			(show_name no)
@@ -65847,6 +65872,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 398.78 1290.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ea4721f8-d834-4a4e-8562-6677b038ed34")
 		)
@@ -65951,6 +65987,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 429.26 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 429.26 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 429.26 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 429.26 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -66095,17 +66164,6 @@
 				)
 			)
 		)
-		(property "OEPSPN" ""
-			(at 549.91 734.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC" ""
 			(at 549.91 734.06 90)
 			(hide yes)
@@ -66130,6 +66188,17 @@
 		)
 		(property "old description" "RESISTOR:   SMD 1206 4.7Ω ±5% 1W   [SG73P2BTTD4R7J] [SMD]"
 			(at 549.91 734.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 1206 4.7Ω ±5% 1W   [SG73P2BTTD4R7J] [SMD]"
+			(at 549.91 734.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -66336,6 +66405,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 551.18 789.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 551.18 789.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 551.18 789.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "90c2e6c1-843e-4aa4-8fd5-1b947aac3511")
 		)
@@ -66440,6 +66542,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 47kΩ ±1% 0.100W   [ERJ-2RKF4702X] [SMD]"
+			(at 637.54 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 47kΩ ±1% 0.100W   [ERJ-2RKF4702X] [SMD]"
 			(at 637.54 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -66723,6 +66836,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "IC:   COMPARATOR 1 GP   [ADCMP600BRJZ-R2] [SOT23-5]"
+			(at 205.74 668.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "8c0bd477-a9c5-47b7-a18b-c2bdadce1083")
 		)
@@ -66836,6 +66960,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 619.76 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 619.76 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -67038,6 +67173,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 185.42 586.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 185.42 586.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 185.42 586.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "82b19854-8386-401c-a315-c16e618250e9")
 		)
@@ -67221,6 +67389,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 167.64 627.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
 			(at 167.64 627.38 0)
 			(hide yes)
 			(show_name no)
@@ -67501,6 +67680,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 243.84 906.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8d45e599-b495-47f3-925c-7e6854473256")
 		)
@@ -67606,6 +67796,17 @@
 			)
 		)
 		(property "old description" "IC:   BUFFER INVERT 2CH SCHMITT-TRIGGER   [SN74LVC2G14DBVR] [SOT-23-6]"
+			(at 605.79 713.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   BUFFER INVERT 2CH SCHMITT-TRIGGER   [SN74LVC2G14DBVR] [SOT-23-6]"
 			(at 605.79 713.74 0)
 			(hide yes)
 			(show_name no)
@@ -67733,6 +67934,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
+			(at 452.12 767.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
 			(at 452.12 767.08 0)
 			(hide yes)
 			(show_name no)
@@ -68641,6 +68853,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 190.5 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 190.5 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 190.5 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "531baa5d-2fd9-42fa-b567-bebb395d621c")
 		)
@@ -68745,6 +68990,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 185.42 675.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 185.42 675.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 185.42 675.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 185.42 675.64 0)
 			(hide yes)
 			(show_name no)
@@ -69026,6 +69304,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 563.88 391.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bcbe8afc-a1b1-4fe3-aca9-6f5564c7d602")
 		)
@@ -69218,6 +69507,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
+			(at 132.08 1120.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c9632efc-5bdf-4453-86c5-68176ade63d4")
 		)
@@ -69323,6 +69623,17 @@
 			)
 		)
 		(property "old description" "TRANSISTOR:   MOSFET N-CH 20V 630mA   [SI1012CR-T1-GE3] [SC-75A]"
+			(at 154.94 619.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "TRANSISTOR:   MOSFET N-CH 20V 630mA   [SI1012CR-T1-GE3] [SC-75A]"
 			(at 154.94 619.76 0)
 			(hide yes)
 			(show_name no)
@@ -69440,6 +69751,17 @@
 			)
 		)
 		(property "old description" "CONNECTOR:   HEADER 0.8MM 8POS   [BM08B-SURS-TF] [SMD]"
+			(at 561.34 932.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CONNECTOR:   HEADER 0.8MM 8POS   [BM08B-SURS-TF] [SMD]"
 			(at 561.34 932.18 0)
 			(hide yes)
 			(show_name no)
@@ -69771,6 +70093,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 185.42 1318.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 185.42 1318.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 185.42 1318.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "927fe75f-0fdb-4706-8e01-1b7017866b74")
 		)
@@ -70042,6 +70397,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 3kΩ ±1% 0.100W   [ERJ-2RKF3001X] [SMD]"
+			(at 314.96 612.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4f491417-ea64-44ba-a161-8827741afd8b")
 		)
@@ -70157,6 +70523,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 449.58 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9c559d8f-0209-4b33-b90f-cd6a1b90001b")
 		)
@@ -70261,6 +70638,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 152.4 901.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 152.4 901.7 0)
 			(hide yes)
 			(show_name no)
@@ -70386,6 +70774,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 360.68 929.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 360.68 929.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 360.68 929.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6235e0a8-f41e-4309-b07a-035dd5cc45d4")
 		)
@@ -70501,6 +70922,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 190.5 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 190.5 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 190.5 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "45ecf42b-4a39-4947-9488-41363f36fc0a")
 		)
@@ -70605,6 +71059,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
+			(at 152.4 1320.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
 			(at 152.4 1320.8 0)
 			(hide yes)
 			(show_name no)
@@ -70808,6 +71273,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
+			(at 599.44 922.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7b99c9dd-2da9-4cc2-a85b-a12e3e79cf35")
 		)
@@ -70912,6 +71388,17 @@
 			)
 		)
 		(property "old description" "IC:   OPAMP 2 CIRCUIT   [TLV9062IDSGR] [8-WSON]"
+			(at 571.5 721.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   OPAMP 2 CIRCUIT   [TLV9062IDSGR] [8-WSON]"
 			(at 571.5 721.36 0)
 			(hide yes)
 			(show_name no)
@@ -71057,6 +71544,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 178kΩ ±1% 0.100W   [ERJ-2RKF1783X] [SMD]"
+			(at 777.24 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5eec56b7-465f-45ea-890e-be37ebb00fcf")
 		)
@@ -71162,6 +71660,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 287.02 1292.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
 			(at 287.02 1292.86 0)
 			(hide yes)
 			(show_name no)
@@ -71286,6 +71795,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 566.42 833.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a26c0651-51c3-49d8-a609-09fcb8f051d7")
 		)
@@ -71390,6 +71910,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 520.7 1143 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 520.7 1143 0)
 			(hide yes)
 			(show_name no)
@@ -71514,6 +72045,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 49.9Ω ±0.5% 0.063W   [RR0510R-49R9-D] [SMD]"
+			(at 180.34 576.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "246c6017-1b53-4eb9-819e-12b455979ca1")
 		)
@@ -71619,6 +72161,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 312.42 896.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 312.42 896.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 312.42 896.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 312.42 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -72014,6 +72589,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 264.16 1140.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 264.16 1140.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 264.16 1140.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4af2066d-6737-4404-b4df-e6461d973714")
 		)
@@ -72206,6 +72814,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 347.98 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "21cb4d53-ddfd-46d9-83f4-7173dde46d76")
 		)
@@ -72311,6 +72930,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 274.32 1292.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
 			(at 274.32 1292.86 0)
 			(hide yes)
 			(show_name no)
@@ -72615,6 +73245,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 175.26 678.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 175.26 678.18 0)
 			(hide yes)
 			(show_name no)
@@ -72974,6 +73615,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0805 1kΩ 1.5A 150mΩ   [MPZ2012S102AT000] [SMD]"
+			(at 198.12 1076.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e9dc8638-ee4f-44b0-a7c9-bbe9ed7565b6")
 		)
@@ -73079,6 +73731,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 4.7nF 25V ±10% X7R   [CC0402KRX7R8BB472] [SMD]"
+			(at 228.6 375.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 4.7nF 25V ±10% X7R   [CC0402KRX7R8BB472] [SMD]"
 			(at 228.6 375.92 0)
 			(hide yes)
 			(show_name no)
@@ -73236,18 +73899,7 @@
 				)
 			)
 		)
-		(property "OEPSPN" "OEPS010050"
-			(at 613.41 698.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C105883"
+		(property "LCSC" ""
 			(at 613.41 698.5 90)
 			(hide yes)
 			(show_name no)
@@ -73271,6 +73923,17 @@
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 613.41 698.5 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 613.41 698.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -73388,6 +74051,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 464.82 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 464.82 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 464.82 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 464.82 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -73580,6 +74276,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 3kΩ ±1% 0.100W   [ERJ-2RKF3001X] [SMD]"
+			(at 104.14 675.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 3kΩ ±1% 0.100W   [ERJ-2RKF3001X] [SMD]"
 			(at 104.14 675.64 0)
 			(hide yes)
 			(show_name no)
@@ -73860,6 +74567,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
+			(at 383.54 1016 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5d95af0f-b795-4248-919e-3a0292f51080")
 		)
@@ -73964,6 +74682,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 175.26 589.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 175.26 589.28 0)
 			(hide yes)
 			(show_name no)
@@ -74089,6 +74818,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 335.28 896.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 335.28 896.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 335.28 896.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f6fb1bf8-7603-4453-81dd-20893fab7f9a")
 		)
@@ -74204,6 +74966,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 386.08 1056.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e1ed357f-12e1-416d-be30-ffce96204322")
 		)
@@ -74309,6 +75082,17 @@
 		)
 		(property "old description" "OTHER:   SWITCH SLIDE DIP SPST 0.1A 6V 1 POS   [CHS-01TA] [Other]"
 			(at 198.12 1000.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "OTHER:   SWITCH SLIDE DIP SPST 0.1A 6V 1 POS   [CHS-01TA] [Other]"
+			(at 198.12 1000.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -74621,6 +75405,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 215.9 566.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 215.9 566.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 215.9 566.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "63814e9c-2a66-4358-aada-9164a8972098")
 		)
@@ -74736,6 +75553,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
+			(at 462.28 767.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6f043b71-689c-488b-9ff2-11bb00823451")
 		)
@@ -74840,6 +75668,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 848.36 1214.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 848.36 1214.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 848.36 1214.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 848.36 1214.12 0)
 			(hide yes)
 			(show_name no)
@@ -75356,6 +76217,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
+			(at 144.78 591.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "180e9ded-f6c0-4573-9a2d-bd76fc2d6965")
 		)
@@ -75461,6 +76333,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 5.6kΩ ±1% 0.100W   [ERJ-2RKF5601X] [SMD]"
+			(at 177.8 998.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 5.6kΩ ±1% 0.100W   [ERJ-2RKF5601X] [SMD]"
 			(at 177.8 998.22 0)
 			(hide yes)
 			(show_name no)
@@ -75653,6 +76536,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 254 929.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 254 929.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 254 929.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 254 929.64 0)
 			(hide yes)
 			(show_name no)
@@ -75934,6 +76850,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
+			(at 152.4 1087.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "61febcd7-d48b-4db8-a721-6ab4e5a459ba")
 		)
@@ -76039,6 +76966,17 @@
 		)
 		(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 100uH 920mA 456mΩ   [SRN6045TA-101M] [SMD]"
 			(at 152.4 1076.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "INDUCTOR:   FIXED INDUCTOR SMD 100uH 920mA 456mΩ   [SRN6045TA-101M] [SMD]"
+			(at 152.4 1076.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -76319,6 +77257,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 218.44 1135.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "74a779f9-c564-48a4-afa3-fc65740d329d")
 		)
@@ -76424,6 +77373,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 47nF 25V ±10% X7R   [GRM155R71E473KA88D] [SMD]"
+			(at 246.38 957.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 47nF 25V ±10% X7R   [GRM155R71E473KA88D] [SMD]"
 			(at 246.38 957.58 0)
 			(hide yes)
 			(show_name no)
@@ -76817,6 +77777,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
+			(at 370.84 929.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e066fafe-f552-433b-b47f-399d1e00a254")
 		)
@@ -77010,6 +77981,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
+			(at 160.02 591.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "615f934e-1f29-45ea-af13-6bd404fe590d")
 		)
@@ -77114,6 +78096,17 @@
 			)
 		)
 		(property "old description" "CONNECTOR:   SDR RCPT 90º 26POS   [12226-8250-00FR] [SMD]"
+			(at 78.74 439.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CONNECTOR:   SDR RCPT 90º 26POS   [12226-8250-00FR] [SMD]"
 			(at 78.74 439.42 0)
 			(hide yes)
 			(show_name no)
@@ -77317,6 +78310,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 358.14 896.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 358.14 896.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 358.14 896.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7ae45591-9a37-4094-a407-8e9dc7cf36da")
 		)
@@ -77510,6 +78536,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
+			(at 381 1120.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9287bcca-6664-4f76-a5ce-4faed999fd2e")
 		)
@@ -77615,6 +78652,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR POL:   SMD TANT B0 1411 33uF 20V ±20% 50Ohm   [TL8B0336M020C] [SMD]"
+			(at 835.66 1214.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR POL:   SMD TANT B0 1411 33uF 20V ±20% 50Ohm   [TL8B0336M020C] [SMD]"
 			(at 835.66 1214.12 0)
 			(hide yes)
 			(show_name no)
@@ -78055,6 +79103,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "IC:   RES ARRAY 8 RES 2.2K OHM 1506   [EXB-2HV222JV] [SMD]"
+			(at 426.72 370.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "C1"
 			(uuid "4b946926-c108-4f84-b0bd-42f65cc2310c")
 		)
@@ -78211,6 +79270,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 368.3 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "75b2dbaa-d822-4abb-822d-dee0faff5774")
 		)
@@ -78316,6 +79386,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 505.46 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 505.46 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -78675,6 +79756,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
+			(at 124.46 1087.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1da1bc2b-3705-475e-b79b-a4e67fd31ebb")
 		)
@@ -78780,6 +79872,17 @@
 			)
 		)
 		(property "old description" "IC:   BUFFER NON-INVERT 2CH   [SN74LVC2G34DCKR] [SC-70-6]"
+			(at 157.48 759.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   BUFFER NON-INVERT 2CH   [SN74LVC2G34DCKR] [SC-70-6]"
 			(at 157.48 759.46 0)
 			(hide yes)
 			(show_name no)
@@ -78906,6 +80009,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 637.54 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
 			(at 637.54 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -79109,6 +80223,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 256.54 952.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 256.54 952.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 256.54 952.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c155adff-487c-4936-87c0-b96ba97e6c41")
 		)
@@ -79302,6 +80449,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 49.9Ω ±0.5% 0.063W   [RR0510R-49R9-D] [SMD]"
+			(at 233.68 957.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "66f58794-33c1-4800-9a77-71ac7ea32c47")
 		)
@@ -79407,6 +80565,17 @@
 		)
 		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
 			(at 381 886.46 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
+			(at 381 886.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -79678,6 +80847,17 @@
 		)
 		(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 4.7uH 950mA 350mΩ   [1008PS-472KLC] [-]"
 			(at 124.46 1076.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "INDUCTOR:   FIXED INDUCTOR SMD 4.7uH 950mA 350mΩ   [1008PS-472KLC] [-]"
+			(at 124.46 1076.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -80192,6 +81372,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 368.3 1130.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "37197ae5-e088-4f18-8e27-0ec475834324")
 		)
@@ -80374,6 +81565,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 835.66 1259.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 835.66 1259.84 0)
 			(hide yes)
 			(show_name no)
@@ -80688,6 +81890,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 49.9Ω ±0.5% 0.063W   [RR0510R-49R9-D] [SMD]"
+			(at 233.68 1191.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8c9132cf-d403-437a-bc9f-1fcb628ffe98")
 		)
@@ -80792,6 +82005,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 693.42 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 693.42 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -80994,6 +82218,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 467.36 347.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2e5baf0d-032b-46da-9001-a5db71676999")
 		)
@@ -81108,6 +82343,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 220.98 1087.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "794f18eb-4a9f-4beb-badc-9cc4976b49f2")
 		)
@@ -81212,6 +82458,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 596.9 787.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 596.9 787.4 0)
 			(hide yes)
 			(show_name no)
@@ -81414,6 +82671,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
+			(at 71.12 576.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "SIG"
 			(uuid "5ccfadbe-21e2-434d-ab1a-f59cec6f3e6f")
 		)
@@ -81527,6 +82795,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 231.14 1318.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 231.14 1318.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 231.14 1318.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 231.14 1318.26 0)
 			(hide yes)
 			(show_name no)
@@ -81838,6 +83139,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 551.18 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4b48b3b3-8c9d-49b2-acca-e560d28d31f4")
 		)
@@ -81942,6 +83254,17 @@
 			)
 		)
 		(property "old description" "OTHER:   PTC RESET FUSE 60V 140MA 1812   [MINISMDC014F-2] [Other]"
+			(at 93.98 754.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "OTHER:   PTC RESET FUSE 60V 140MA 1812   [MINISMDC014F-2] [Other]"
 			(at 93.98 754.38 0)
 			(hide yes)
 			(show_name no)
@@ -82067,6 +83390,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 358.14 1130.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 358.14 1130.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 358.14 1130.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6554914a-35e2-423d-9375-7eb4e98f0ae2")
 		)
@@ -82182,6 +83538,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
+			(at 599.44 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8ce99d9a-f1f1-468c-bc6a-1500b17acaaa")
 		)
@@ -82286,6 +83653,17 @@
 			)
 		)
 		(property "old description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
+			(at 777.24 1003.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
 			(at 777.24 1003.3 0)
 			(hide yes)
 			(show_name no)
@@ -83689,6 +85067,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 274.32 1059.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1a288212-3e2a-4819-b991-5ae784f89141")
 		)
@@ -84339,6 +85728,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
+			(at 63.5 1310.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "GND@1"
 			(uuid "a244e1c4-5615-4422-ace7-6aeee9abb492")
 		)
@@ -84482,17 +85882,6 @@
 				)
 			)
 		)
-		(property "OEPSPN" ""
-			(at 474.98 726.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "LCSC" ""
 			(at 474.98 726.44 90)
 			(hide yes)
@@ -84517,6 +85906,17 @@
 		)
 		(property "old description" "RESISTOR:   SMD 1206 4.7Ω ±5% 1W   [SG73P2BTTD4R7J] [SMD]"
 			(at 474.98 726.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 1206 4.7Ω ±5% 1W   [SG73P2BTTD4R7J] [SMD]"
+			(at 474.98 726.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -84878,6 +86278,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 243.84 929.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "611cb1c8-f22f-4056-9a4f-71eb2d6e713f")
 		)
@@ -84993,6 +86404,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 581.66 789.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "03748324-2071-487b-b08e-8243f2b67ef6")
 		)
@@ -85097,6 +86519,17 @@
 			)
 		)
 		(property "old description" "IC:   SWITCH SPST-NOX4 1.5OHM   [DG1412EEN-T1-GE4] [16-QFN (4x4)]"
+			(at 226.06 279.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   SWITCH SPST-NOX4 1.5OHM   [DG1412EEN-T1-GE4] [16-QFN (4x4)]"
 			(at 226.06 279.4 0)
 			(hide yes)
 			(show_name no)
@@ -85815,6 +87248,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "IC:   RES ARRAY 8 RES 2.2K OHM 1506   [EXB-2HV222JV] [SMD]"
+			(at 426.72 431.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "C1"
 			(uuid "e740d03d-25a6-48fc-af93-f97d25ef2380")
 		)
@@ -86048,6 +87492,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 637.54 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "558b0886-cab4-45ed-8dd5-8fa6728acf21")
 		)
@@ -86152,6 +87607,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 619.76 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 619.76 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -86346,6 +87812,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 388.62 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 388.62 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -86738,6 +88215,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 335.28 1130.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 335.28 1130.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 335.28 1130.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "31575c4d-8d25-40d8-9bf5-d01e47775aae")
 		)
@@ -86921,6 +88431,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 205.74 1135.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 205.74 1135.38 0)
 			(hide yes)
 			(show_name no)
@@ -87115,6 +88636,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
+			(at 612.14 927.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
 			(at 612.14 927.1 0)
 			(hide yes)
 			(show_name no)
@@ -87398,6 +88930,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 100Ω ±1% 0.100W   [ERJ-2RKF1000X] [SMD]"
+			(at 185.42 414.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "95ee7019-1d60-4256-a841-97a24db782ce")
 		)
@@ -87503,6 +89046,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 238.76 441.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 238.76 441.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 238.76 441.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 238.76 441.96 0)
 			(hide yes)
 			(show_name no)
@@ -87695,6 +89271,17 @@
 			)
 		)
 		(property "old description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
+			(at 777.24 508 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
 			(at 777.24 508 0)
 			(hide yes)
 			(show_name no)
@@ -89098,6 +90685,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 861.06 1214.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 861.06 1214.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 861.06 1214.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bd805370-6bd6-4102-8c11-69c1d0383b07")
 		)
@@ -89203,6 +90823,17 @@
 		)
 		(property "old description" "INDUCTOR:   FIXED INDUCTOR SMD 100uH 920mA 456mΩ   [SRN6045TA-101M] [SMD]"
 			(at 152.4 1310.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "INDUCTOR:   FIXED INDUCTOR SMD 100uH 920mA 456mΩ   [SRN6045TA-101M] [SMD]"
+			(at 152.4 1310.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -89405,6 +91036,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 15kΩ ±1% 0.100W   [ERJ-2RKF1502X] [SMD]"
+			(at 637.54 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "55519361-3015-42b4-b7b7-fbdee41d5422")
 		)
@@ -89597,6 +91239,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 693.42 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "df44199c-a9c7-4fe7-ab03-76af0534c65c")
 		)
@@ -89701,6 +91354,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
+			(at 144.78 680.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
 			(at 144.78 680.72 0)
 			(hide yes)
 			(show_name no)
@@ -89826,6 +91490,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 381 1163.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "389637ba-ec30-4c28-add4-39ae60a80d11")
 		)
@@ -89930,6 +91605,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 49.9Ω ±0.5% 0.063W   [RR0510R-49R9-D] [SMD]"
+			(at 180.34 665.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 49.9Ω ±0.5% 0.063W   [RR0510R-49R9-D] [SMD]"
 			(at 180.34 665.48 0)
 			(hide yes)
 			(show_name no)
@@ -90123,6 +91809,17 @@
 		)
 		(property "old description" "OTHER:   SWITCH SLIDE DIP SPST 0.1A 6V 1 POS   [CHS-01TA] [Other]"
 			(at 198.12 1234.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "OTHER:   SWITCH SLIDE DIP SPST 0.1A 6V 1 POS   [CHS-01TA] [Other]"
+			(at 198.12 1234.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -90403,6 +92100,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "DIODE:   TVS DIODE 7VWM 13VC   [SESD0402X1UN-0030-088] [0402/2DFN]"
+			(at 101.6 1318.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "C"
 			(uuid "d4246ba8-e681-4866-b86b-98f97b2014d5")
 		)
@@ -90508,6 +92216,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 563.88 736.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
 			(at 563.88 736.6 0)
 			(hide yes)
 			(show_name no)
@@ -90779,6 +92498,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR POL:   SMD TANT B0 1411 33uF 20V ±20% 50Ohm   [TL8B0336M020C] [SMD]"
+			(at 787.4 1214.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR POL:   SMD TANT B0 1411 33uF 20V ±20% 50Ohm   [TL8B0336M020C] [SMD]"
 			(at 787.4 1214.12 0)
 			(hide yes)
 			(show_name no)
@@ -91092,6 +92822,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 596.9 416.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "87e971d6-8fbe-4b0e-8638-68f1833b8012")
 		)
@@ -91284,6 +93025,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
+			(at 160.02 680.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e79ac973-4d82-4864-a123-d91624ef67e1")
 		)
@@ -91388,6 +93140,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 330.2 632.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 330.2 632.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 330.2 632.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 330.2 632.46 0)
 			(hide yes)
 			(show_name no)
@@ -91749,6 +93534,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "IC:   LVDS 4channel receiver   [FIN1032MTCX] [16-TSSOP]"
+			(at 203.2 431.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "9"
 			(uuid "8403c4fd-7134-4a7f-9e94-e87eabaeaedd")
 		)
@@ -91896,6 +93692,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 764.54 1231.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 764.54 1231.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 764.54 1231.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 764.54 1231.9 0)
 			(hide yes)
 			(show_name no)
@@ -92100,6 +93929,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "IC:   RES ARRAY 8 RES 2.2K OHM 1506   [EXB-2HV222JV] [SMD]"
+			(at 426.72 411.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "C7"
 			(uuid "5c55b744-c13c-4083-9d6c-80b2d2ba3e34")
 		)
@@ -92257,6 +94097,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 340.36 1176.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "df920912-e1e4-43c3-905f-5db6044dd886")
 		)
@@ -92371,6 +94222,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
+			(at 756.92 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e292d6b6-a417-46f8-8e83-1929d3f27581")
 		)
@@ -92475,6 +94337,17 @@
 			)
 		)
 		(property "old description" "IC:   SWITCH SPST-NOX4 1.5OHM   [DG1412EEN-T1-GE4] [16-QFN (4x4)]"
+			(at 226.06 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   SWITCH SPST-NOX4 1.5OHM   [DG1412EEN-T1-GE4] [16-QFN (4x4)]"
 			(at 226.06 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -92710,6 +94583,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
+			(at 622.3 924.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
 			(at 622.3 924.56 0)
 			(hide yes)
 			(show_name no)
@@ -92981,6 +94865,17 @@
 			)
 		)
 		(property "old description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
+			(at 777.24 342.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
 			(at 777.24 342.9 0)
 			(hide yes)
 			(show_name no)
@@ -94383,6 +96278,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 447.04 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cd97278d-c22b-4c70-89c8-a9d7e8b532b0")
 		)
@@ -94488,6 +96394,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
+			(at 177.8 619.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
 			(at 177.8 619.76 0)
 			(hide yes)
 			(show_name no)
@@ -94612,6 +96529,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 165.1 1135.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 165.1 1135.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 165.1 1135.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5961b3a2-7d2a-474c-8db2-6f5e0c21cb7d")
 		)
@@ -94715,6 +96665,17 @@
 			)
 		)
 		(property "old description" "IC:   TVS DIODE ARRAY   [D3V3XA4B10LP-7] [10-UFDFN]"
+			(at 218.44 497.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   TVS DIODE ARRAY   [D3V3XA4B10LP-7] [10-UFDFN]"
 			(at 218.44 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -94941,6 +96902,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 73.2kΩ ±1% 0.100W   [ERJ-2RKF7322X] [SMD]"
+			(at 850.9 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "00b711fb-53ed-4587-99c9-538379d678a0")
 		)
@@ -95045,6 +97017,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 220.98 1320.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 220.98 1320.8 0)
 			(hide yes)
 			(show_name no)
@@ -95170,6 +97153,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 424.18 609.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 424.18 609.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 424.18 609.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2b93c4e5-066b-43cc-8e53-14af2130c73b")
 		)
@@ -95285,6 +97301,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 21kΩ ±1% 0.100W   [ERJ-2RKF2102X] [SMD]"
+			(at 177.8 1249.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "02c720e3-2e55-4d23-9ec4-da7846ab0eaa")
 		)
@@ -95389,6 +97416,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 561.34 347.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 561.34 347.98 0)
 			(hide yes)
 			(show_name no)
@@ -95514,6 +97552,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 322.58 1130.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fe593f4e-ff4c-4ec0-b449-59137d0efcd6")
 		)
@@ -95618,6 +97667,17 @@
 			)
 		)
 		(property "old description" "OTHER:   PTC RESET FUSE 60V 140MA 1812   [MINISMDC014F-2] [Other]"
+			(at 93.98 665.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "OTHER:   PTC RESET FUSE 60V 140MA 1812   [MINISMDC014F-2] [Other]"
 			(at 93.98 665.48 0)
 			(hide yes)
 			(show_name no)
@@ -95742,6 +97802,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
+			(at 124.46 1320.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cbf9fb6a-20f8-41dd-9dea-a8664c64c807")
 		)
@@ -95847,6 +97918,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 381 929.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 381 929.64 0)
 			(hide yes)
 			(show_name no)
@@ -96050,6 +98132,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 571.5 309.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 571.5 309.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 571.5 309.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b2a3f387-e85b-48de-bf3d-d0c935066ae2")
 		)
@@ -96154,6 +98269,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
+			(at 447.04 609.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
 			(at 447.04 609.6 0)
 			(hide yes)
 			(show_name no)
@@ -96424,6 +98550,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 419.1 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 419.1 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 419.1 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 419.1 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -96706,6 +98865,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 619.76 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c7cc894e-eba5-43a5-b1a0-a1d6f17dca09")
 		)
@@ -96810,6 +98980,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 693.42 226.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 693.42 226.06 0)
 			(hide yes)
 			(show_name no)
@@ -97171,6 +99352,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 312.42 1130.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 312.42 1130.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 312.42 1130.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "45b26a7e-456f-4672-a5fb-4510b6cbf67c")
 		)
@@ -97432,6 +99646,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 215.9 655.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 215.9 655.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 215.9 655.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 215.9 655.32 0)
 			(hide yes)
 			(show_name no)
@@ -97790,6 +100037,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 304.8 1308.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9e8645ab-8e09-4757-85dc-7bda0dfcc344")
 		)
@@ -97905,6 +100163,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 474.98 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dba5a119-0ae9-4e0a-a3d7-d2ea893cb82f")
 		)
@@ -98009,6 +100278,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 591.82 1145.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 591.82 1145.54 0)
 			(hide yes)
 			(show_name no)
@@ -98212,6 +100492,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 177.8 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 177.8 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 177.8 314.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3116797c-6ca3-443f-b1fc-31a88c150e4c")
 		)
@@ -98405,6 +100718,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 535.94 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "10cf0fb6-ffdc-4cd8-a975-ba4e4c03635b")
 		)
@@ -98510,6 +100834,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 5.6kΩ ±1% 0.100W   [ERJ-2RKF5601X] [SMD]"
+			(at 177.8 1229.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 5.6kΩ ±1% 0.100W   [ERJ-2RKF5601X] [SMD]"
 			(at 177.8 1229.36 0)
 			(hide yes)
 			(show_name no)
@@ -98634,6 +100969,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
+			(at 152.4 680.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9d6932f6-bed8-4453-ae4d-61611f864bfc")
 		)
@@ -98738,6 +101084,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 649kΩ ±1% 0.100W   [ERJ-2RKF6493X] [SMD]"
+			(at 538.48 795.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 649kΩ ±1% 0.100W   [ERJ-2RKF6493X] [SMD]"
 			(at 538.48 795.02 0)
 			(hide yes)
 			(show_name no)
@@ -99129,6 +101486,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 421.64 896.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 421.64 896.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 421.64 896.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8b88ddf7-e46e-4503-af44-6e795e628a8f")
 		)
@@ -99390,6 +101780,17 @@
 			)
 		)
 		(property "old description" "DIODE:   RF DIODE PIN 150V 250MW   [BAR66E6327HTSA1] [PG-SOT23]"
+			(at 116.84 665.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "DIODE:   RF DIODE PIN 150V 250MW   [BAR66E6327HTSA1] [PG-SOT23]"
 			(at 116.84 665.48 0)
 			(hide yes)
 			(show_name no)
@@ -99675,6 +102076,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 584.2 309.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7566a1c2-1cec-4267-bbad-2e12be1240d3")
 		)
@@ -99946,6 +102358,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "DIODE:   RF DIODE PIN 150V 250MW   [BAR66E6327HTSA1] [PG-SOT23]"
+			(at 116.84 576.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d7614ee8-43e2-4677-8e44-105c2943614e")
 		)
@@ -100142,6 +102565,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 454.66 322.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e78d0f2f-fbd3-448e-bcdc-c7a12abb47bc")
 		)
@@ -100257,6 +102691,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 256.54 1186.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 256.54 1186.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 256.54 1186.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "46fc53fc-f011-45b2-b8ee-119e0b1ca112")
 		)
@@ -100362,6 +102829,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 345.44 896.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 345.44 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -100722,6 +103200,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 100Ω ±1% 0.100W   [ERJ-2RKF1000X] [SMD]"
+			(at 185.42 398.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "19cca51b-ac09-47d8-b2e5-3236d5bfbe3c")
 		)
@@ -100907,6 +103396,17 @@
 			)
 		)
 		(property "old description" "IC:   RES ARRAY 8 RES 2.2K OHM 1506   [EXB-2HV222JV] [SMD]"
+			(at 426.72 391.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   RES ARRAY 8 RES 2.2K OHM 1506   [EXB-2HV222JV] [SMD]"
 			(at 426.72 391.16 0)
 			(hide yes)
 			(show_name no)
@@ -101420,6 +103920,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 345.44 1130.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6f369ce7-1d4e-47a3-8700-0e63c6f9565a")
 		)
@@ -101848,6 +104359,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "TRANSISTOR:   MOSFET N-CH 20V 630mA   [SI1012CR-T1-GE3] [SC-75A]"
+			(at 552.45 721.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "db6aef20-2253-45e1-819f-90e041f50621")
 		)
@@ -101956,6 +104478,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
+			(at 424.18 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
 			(at 424.18 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -102159,6 +104692,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
+			(at 358.14 1257.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ea76ea07-d412-4247-bcfb-a7a18131b067")
 		)
@@ -102263,6 +104807,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 337.82 1257.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 337.82 1257.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 337.82 1257.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 337.82 1257.3 0)
 			(hide yes)
 			(show_name no)
@@ -102456,6 +105033,17 @@
 			)
 		)
 		(property "old description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
+			(at 762 1155.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
 			(at 762 1155.7 0)
 			(hide yes)
 			(show_name no)
@@ -103936,6 +106524,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 347.98 1023.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 347.98 1023.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 347.98 1023.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b186723e-4f29-4ae2-93cb-c9706d9c124e")
 		)
@@ -104040,6 +106661,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 177.8 901.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 177.8 901.7 0)
 			(hide yes)
 			(show_name no)
@@ -104233,6 +106865,17 @@
 			)
 		)
 		(property "old description" "IC:   DC DC CONVERTER ADJ 2outputs 2x1A   [LTM8049IY#PBF] [77-BGA (15x9)]"
+			(at 807.72 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   DC DC CONVERTER ADJ 2outputs 2x1A   [LTM8049IY#PBF] [77-BGA (15x9)]"
 			(at 807.72 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -104741,6 +107384,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 177.8 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 177.8 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 177.8 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bdfd2be3-1442-41bb-ab52-2e81ce126131")
 		)
@@ -104847,6 +107523,17 @@
 			)
 		)
 		(property "old description" "IC:   COMPARATOR 1 GP   [ADCMP600BRJZ-R2] [SOT23-5]"
+			(at 205.74 579.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   COMPARATOR 1 GP   [ADCMP600BRJZ-R2] [SOT23-5]"
 			(at 205.74 579.12 0)
 			(hide yes)
 			(show_name no)
@@ -104971,6 +107658,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 871.22 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 871.22 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -105251,6 +107949,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
+			(at 439.42 609.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c1df1098-626e-457f-bb74-4aa485b47d5d")
 		)
@@ -105355,6 +108064,17 @@
 			)
 		)
 		(property "old description" "IC:   SWITCH SPST-NOX4 1.5OHM   [DG1412EEN-T1-GE4] [16-QFN (4x4)]"
+			(at 226.06 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   SWITCH SPST-NOX4 1.5OHM   [DG1412EEN-T1-GE4] [16-QFN (4x4)]"
 			(at 226.06 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -105600,6 +108320,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 177.8 764.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 177.8 764.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 177.8 764.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "da97f09b-4898-4c10-a435-a698ce696b3c")
 		)
@@ -105714,6 +108467,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 175.26 1087.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e4f4253a-356e-4e8f-981b-06d2d0011740")
 		)
@@ -105818,6 +108582,17 @@
 			)
 		)
 		(property "old description" "IC:   COMPARATOR 1 GP   [ADCMP600BRJZ-R2] [SOT23-5]"
+			(at 208.28 579.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   COMPARATOR 1 GP   [ADCMP600BRJZ-R2] [SOT23-5]"
 			(at 208.28 579.12 0)
 			(hide yes)
 			(show_name no)
@@ -105951,6 +108726,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 175.26 1320.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1232c776-65c0-4348-9f79-b6fb97383fc3")
 		)
@@ -106055,6 +108841,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 3kΩ ±1% 0.100W   [ERJ-2RKF3001X] [SMD]"
+			(at 330.2 612.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 3kΩ ±1% 0.100W   [ERJ-2RKF3001X] [SMD]"
 			(at 330.2 612.14 0)
 			(hide yes)
 			(show_name no)
@@ -106170,6 +108967,17 @@
 			)
 		)
 		(property "old description" "IC:   LDO NEGATIVE ADJ 200mA   [TPS7A3001DRBT] [8-SON (3x3)]"
+			(at 665.48 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   LDO NEGATIVE ADJ 200mA   [TPS7A3001DRBT] [8-SON (3x3)]"
 			(at 665.48 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -106317,6 +109125,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 637.54 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
 			(at 637.54 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -106709,6 +109528,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 167.64 716.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "00261bc6-acbf-4e11-9caa-37e415d2aeaa")
 		)
@@ -106813,6 +109643,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 3kΩ ±1% 0.100W   [ERJ-2RKF3001X] [SMD]"
+			(at 104.14 586.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 3kΩ ±1% 0.100W   [ERJ-2RKF3001X] [SMD]"
 			(at 104.14 586.74 0)
 			(hide yes)
 			(show_name no)
@@ -107015,6 +109856,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 408.94 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 408.94 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 408.94 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ddacc92e-cca0-423f-bcb7-91bad6705dea")
 		)
@@ -107120,6 +109994,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
+			(at 370.84 1163.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
 			(at 370.84 1163.32 0)
 			(hide yes)
 			(show_name no)
@@ -107557,6 +110442,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 243.84 1140.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "52e19357-1ce5-48fa-b6f3-6d406f3da78d")
 		)
@@ -107750,6 +110646,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 205.74 901.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "31b2d9ce-bdbc-4960-b256-981607e4c039")
 		)
@@ -107857,6 +110764,17 @@
 			)
 		)
 		(property "old description" "IC:   OPAMP 2 CIRCUIT   [TLV9062IDSGR] [8-WSON]"
+			(at 511.81 713.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   OPAMP 2 CIRCUIT   [TLV9062IDSGR] [8-WSON]"
 			(at 511.81 713.74 0)
 			(hide yes)
 			(show_name no)
@@ -108150,6 +111068,17 @@
 			)
 		)
 		(property "old description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
+			(at 777.24 838.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
 			(at 777.24 838.2 0)
 			(hide yes)
 			(show_name no)
@@ -109474,6 +112403,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 553.72 833.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 553.72 833.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 553.72 833.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0c8099dc-b2f6-43dd-b215-697a36bc918b")
 		)
@@ -109578,6 +112540,17 @@
 			)
 		)
 		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
+			(at 71.12 754.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
 			(at 71.12 754.38 0)
 			(hide yes)
 			(show_name no)
@@ -109789,6 +112762,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "IC:   DAC 8BIT 2CH   [MCP47FEB02A0-E/ST] [8-TSSOP]"
+			(at 393.7 627.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "8"
 			(uuid "8a73f07f-9018-44c2-8a77-fb4f294fd69e")
 		)
@@ -109912,6 +112896,17 @@
 			)
 		)
 		(property "old description" "IC:   DESERIALIZER FPD-Link III   [DS90UB934TRGZRQ1] [48-VQFN (7x7)]"
+			(at 307.34 1201.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   DESERIALIZER FPD-Link III   [DS90UB934TRGZRQ1] [48-VQFN (7x7)]"
 			(at 307.34 1201.42 0)
 			(hide yes)
 			(show_name no)
@@ -110571,6 +113566,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1210 100nF 500V ±10% X7R   [C1210C104KCRACTU] [SMD]"
+			(at 744.22 1165.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8115abc0-d63b-4cb2-9172-40501d1b16d8")
 		)
@@ -110763,6 +113769,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 800.1 1214.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 800.1 1214.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 800.1 1214.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2fa91f97-6171-450e-865c-2f539dab40ce")
 		)
@@ -110868,6 +113907,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 21kΩ ±1% 0.100W   [ERJ-2RKF2102X] [SMD]"
+			(at 177.8 1021.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 21kΩ ±1% 0.100W   [ERJ-2RKF2102X] [SMD]"
 			(at 177.8 1021.08 0)
 			(hide yes)
 			(show_name no)
@@ -111137,6 +114187,17 @@
 			)
 		)
 		(property "old description" "IC:   TVS DIODE ARRAY   [D3V3XA4B10LP-7] [10-UFDFN]"
+			(at 156.21 458.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   TVS DIODE ARRAY   [D3V3XA4B10LP-7] [10-UFDFN]"
 			(at 156.21 458.47 0)
 			(hide yes)
 			(show_name no)
@@ -111443,6 +114504,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 2.2kΩ ±1% 0.100W   [ERJ-2RKF2201X] [SMD]"
+			(at 607.06 838.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c4e90c1e-b4ed-4e3b-87c9-ba995deca7e7")
 		)
@@ -111558,6 +114630,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 501.65 722.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "327bad56-f1f3-4232-9569-fa7064ff8a8e")
 		)
@@ -111662,6 +114745,17 @@
 			)
 		)
 		(property "old description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
+			(at 71.12 665.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
 			(at 71.12 665.48 0)
 			(hide yes)
 			(show_name no)
@@ -111952,6 +115046,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 0Ω 1A   [RC0402JR-070RL] [SMD]"
+			(at 378.46 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fb23bbcd-1625-455b-8368-b9c351c7424b")
 		)
@@ -112056,6 +115161,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 706.12 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 706.12 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -112181,6 +115297,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
+			(at 599.44 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f2c1b92c-492a-4c4e-bbab-2f309dad08d2")
 		)
@@ -112286,6 +115413,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
+			(at 472.44 767.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
 			(at 472.44 767.08 0)
 			(hide yes)
 			(show_name no)
@@ -112489,6 +115627,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 254 1163.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 254 1163.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 254 1163.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f16152c7-0514-46ba-bbad-6be178e7f124")
 		)
@@ -112672,6 +115843,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 358.14 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 358.14 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -112874,6 +116056,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 381 713.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 381 713.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 381 713.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6fe91704-b493-440a-9431-8d4c235f41f9")
 		)
@@ -112979,6 +116194,17 @@
 			)
 		)
 		(property "old description" "IC:   FIXED REG BUCK 1.8V 1.6A   [TPS62061DSGT] [8-WSON (2x2)]"
+			(at 561.34 1143 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   FIXED REG BUCK 1.8V 1.6A   [TPS62061DSGT] [8-WSON (2x2)]"
 			(at 561.34 1143 0)
 			(hide yes)
 			(show_name no)
@@ -113124,6 +116350,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 391.16 713.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "80df3ec7-7f17-4cc8-bc3e-a2b5e0d413be")
 		)
@@ -113239,6 +116476,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 525.78 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 525.78 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 525.78 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a69906df-2f5b-4136-9af4-1adb21e3efd4")
 		)
@@ -113343,6 +116613,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 845.82 1259.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
 			(at 845.82 1259.84 0)
 			(hide yes)
 			(show_name no)
@@ -113536,6 +116817,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 100Ω ±1% 0.100W   [ERJ-2RKF1000X] [SMD]"
+			(at 185.42 429.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 100Ω ±1% 0.100W   [ERJ-2RKF1000X] [SMD]"
 			(at 185.42 429.26 0)
 			(hide yes)
 			(show_name no)
@@ -113894,6 +117186,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 218.44 901.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9b98c119-229e-41cc-8e08-399656c6f53c")
 		)
@@ -113998,6 +117301,17 @@
 			)
 		)
 		(property "old description" "OTHER:   PTC RESET FUSE 60V 140MA 1812   [MINISMDC014F-2] [Other]"
+			(at 93.98 576.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "OTHER:   PTC RESET FUSE 60V 140MA 1812   [MINISMDC014F-2] [Other]"
 			(at 93.98 576.58 0)
 			(hide yes)
 			(show_name no)
@@ -114191,6 +117505,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 439.42 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 439.42 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 439.42 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 439.42 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -114464,6 +117811,17 @@
 			)
 		)
 		(property "old description" "IC:   DAC 16BIT 16CH   [AD5766BCPZ-RL7] [40-LFCSP-WQ (6x6)]"
+			(at 378.46 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   DAC 16BIT 16CH   [AD5766BCPZ-RL7] [40-LFCSP-WQ (6x6)]"
 			(at 378.46 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -114783,6 +118141,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1210 100nF 500V ±10% X7R   [C1210C104KCRACTU] [SMD]"
+			(at 726.44 1165.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "77281dc9-bd25-4fa7-87c6-183d5d73c17a")
 		)
@@ -114888,6 +118257,17 @@
 			)
 		)
 		(property "old description" "IC:   LDO ADJ 150mA   [TPS7A4901DRBR] [8-SON (3x3)]"
+			(at 665.48 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   LDO ADJ 150mA   [TPS7A4901DRBR] [8-SON (3x3)]"
 			(at 665.48 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -115235,6 +118615,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 434.34 1130.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8e38f7ca-2c7b-468e-9538-adb9380968c4")
 		)
@@ -115428,6 +118819,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 177.8 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 177.8 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 177.8 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "96e76ac0-eeb2-4807-b311-a5af8c5814b2")
 		)
@@ -115532,6 +118956,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 152.4 1135.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 152.4 1135.38 0)
 			(hide yes)
 			(show_name no)
@@ -115656,6 +119091,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 3.48kΩ ±1% 0.100W   [ERJ-2RKF3481X] [SMD]"
+			(at 477.52 802.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "8017c9c1-d9d7-4529-b1cd-ebede8d97410")
 		)
@@ -115760,6 +119206,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 706.12 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 706.12 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -115885,6 +119342,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
+			(at 599.44 932.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d6a469bb-7c69-4dda-907a-f6f90645b467")
 		)
@@ -115999,6 +119467,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 368.3 1023.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "60d590e2-f97f-400c-9fdf-f23a8234265b")
 		)
@@ -116103,6 +119582,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
+			(at 254 906.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
 			(at 254 906.78 0)
 			(hide yes)
 			(show_name no)
@@ -116383,6 +119873,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 231.14 1084.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 231.14 1084.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 231.14 1084.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "773be65a-31c1-4bba-83f9-ae156507b7d2")
 		)
@@ -116653,6 +120176,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 812.8 1214.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 812.8 1214.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 812.8 1214.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6cbfb411-cd0a-4156-b225-a1497cd480f1")
 		)
@@ -116835,6 +120391,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 467.36 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 467.36 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 467.36 330.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 467.36 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -117116,6 +120705,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "TRANSISTOR:   MOSFET N-CH 20V 630mA   [SI1012CR-T1-GE3] [SC-75A]"
+			(at 477.52 713.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "27a95251-96ac-4c9b-b05b-7d21554440de")
 		)
@@ -117224,6 +120824,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 47nF 25V ±10% X7R   [GRM155R71E473KA88D] [SMD]"
+			(at 246.38 1191.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 47nF 25V ±10% X7R   [GRM155R71E473KA88D] [SMD]"
 			(at 246.38 1191.26 0)
 			(hide yes)
 			(show_name no)
@@ -117505,6 +121116,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
+			(at 599.44 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2593e920-0dbf-4e27-bfc3-5357aa54b18b")
 		)
@@ -117777,6 +121399,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "IC:   TRANSCEIVER Half LVDS   [DS91M040TSQ/NOPB] [32-WQFN (5x5)]"
+			(at 335.28 802.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "23"
 			(uuid "9378f8d4-74f5-426e-9e6b-7295e71db81e")
 		)
@@ -117984,6 +121617,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 185.42 1084.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 185.42 1084.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 185.42 1084.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3658a943-151b-4ada-94cc-cd63f370f65f")
 		)
@@ -118176,6 +121842,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "OTHER:   SWITCH SLIDE DIP SPST 0.1A 6V 2 POS   [CHS-02TB] [Other]"
+			(at 822.96 1282.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "cb30315a-d600-4045-9743-424441d35bea")
 		)
@@ -118287,6 +121964,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 190.5 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 190.5 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 190.5 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 190.5 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -118521,18 +122231,7 @@
 				)
 			)
 		)
-		(property "OEPSPN" "OEPS010050"
-			(at 509.27 703.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C105883"
+		(property "LCSC" ""
 			(at 509.27 703.58 0)
 			(hide yes)
 			(show_name no)
@@ -118555,6 +122254,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 509.27 703.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
 			(at 509.27 703.58 0)
 			(hide yes)
 			(show_name no)
@@ -118682,6 +122392,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FIXED INDUCTOR SMD 4.7uH 950mA 350mΩ   [1008PS-472KLC] [-]"
+			(at 124.46 1310.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b51d6f8e-ed60-4db7-a134-3b6aab2dbc40")
 		)
@@ -118787,6 +122508,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 337.82 942.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
 			(at 337.82 942.34 0)
 			(hide yes)
 			(show_name no)
@@ -118989,6 +122721,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 347.98 1257.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 347.98 1257.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 347.98 1257.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9c08c100-93bf-43df-975c-9904858b7685")
 		)
@@ -119094,6 +122859,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 287.02 1059.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
 			(at 287.02 1059.18 0)
 			(hide yes)
 			(show_name no)
@@ -119374,6 +123150,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100pF 50V ±5% C0G   [CC0402JRNPO9BN101] [SMD]"
+			(at 579.12 416.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "972a2319-b78f-4cba-a72d-e24075b6c7dd")
 		)
@@ -119478,6 +123265,17 @@
 			)
 		)
 		(property "old description" "DNP: Do Not Populate (DNI)"
+			(at 304.8 1292.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "DNP: Do Not Populate (DNI)"
 			(at 304.8 1292.86 0)
 			(hide yes)
 			(show_name no)
@@ -119838,6 +123636,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 706.12 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "49a5a767-cef3-4487-9a30-af0048badd9d")
 		)
@@ -119942,6 +123751,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 421.64 1130.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 421.64 1130.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 421.64 1130.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 421.64 1130.3 0)
 			(hide yes)
 			(show_name no)
@@ -120067,6 +123909,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 368.3 896.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1e64015e-0214-42e5-925d-a5873f3c2936")
 		)
@@ -120171,6 +124024,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 378.46 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
 			(at 378.46 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -120363,6 +124227,17 @@
 			)
 		)
 		(property "old description" "IC:   EEPROM 64KBIT I2C   [24AA64-I/ST] [8-TSSOP]"
+			(at 734.06 1236.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   EEPROM 64KBIT I2C   [24AA64-I/ST] [8-TSSOP]"
 			(at 734.06 1236.98 0)
 			(hide yes)
 			(show_name no)
@@ -120739,6 +124614,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
+			(at 63.5 1076.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "GND@3"
 			(uuid "3c1bd7b5-f629-4fd4-a2e8-63316d794b2f")
 		)
@@ -120940,6 +124826,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "DNP: Do Not Populate (DNI)"
+			(at 299.72 1059.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "62696c92-494a-42af-a7c8-e9b0a576a5e8")
 		)
@@ -121054,6 +124951,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 243.84 1163.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0f66ea3a-2ae2-4bfe-9f29-f9268cfcb5e2")
 		)
@@ -121158,6 +125066,17 @@
 			)
 		)
 		(property "old description" "IC:   COMPARATOR 1 GP   [ADCMP600BRJZ-R2] [SOT23-5]"
+			(at 208.28 668.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   COMPARATOR 1 GP   [ADCMP600BRJZ-R2] [SOT23-5]"
 			(at 208.28 668.02 0)
 			(hide yes)
 			(show_name no)
@@ -121360,6 +125279,17 @@
 			)
 		)
 		(property "old description" "DIODE:   DIODE ZENER 4.55V 1W   [KDZVTR4.3B] [PMDU]"
+			(at 314.96 629.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "DIODE:   DIODE ZENER 4.55V 1W   [KDZVTR4.3B] [PMDU]"
 			(at 314.96 629.92 0)
 			(hide yes)
 			(show_name no)
@@ -121641,6 +125571,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "DIODE:   TVS DIODE 7VWM 13VC   [SESD0402X1UN-0030-088] [0402/2DFN]"
+			(at 101.6 1084.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "A"
 			(uuid "d4896460-44d3-40e2-9530-784a5625e8ef")
 		)
@@ -121745,6 +125686,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 165.1 901.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 165.1 901.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 165.1 901.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 165.1 901.7 0)
 			(hide yes)
 			(show_name no)
@@ -121949,6 +125923,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 561.34 789.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 561.34 789.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 561.34 789.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0949477b-905a-43e3-8b2b-5ecd1cda93c1")
 		)
@@ -122132,6 +126139,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 398.78 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 398.78 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 398.78 312.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 398.78 312.42 0)
 			(hide yes)
 			(show_name no)
@@ -122403,6 +126443,17 @@
 			)
 		)
 		(property "old description" "IC:   DGT POT 10KOHM 256TAP 16TSSOP   [AD5142BRUZ10] [16-TSSOP]"
+			(at 505.46 858.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   DGT POT 10KOHM 256TAP 16TSSOP   [AD5142BRUZ10] [16-TSSOP]"
 			(at 505.46 858.52 0)
 			(hide yes)
 			(show_name no)
@@ -122756,6 +126807,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 495.3 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 495.3 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 495.3 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e7cfecdb-c5e5-495f-9ec1-ca15466d65e9")
 		)
@@ -122870,6 +126954,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
+			(at 358.14 1023.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ce0b2002-dcb6-4dd7-a6d3-cc0bbd7d42a4")
 		)
@@ -122974,6 +127069,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
+			(at 370.84 622.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
 			(at 370.84 622.3 0)
 			(hide yes)
 			(show_name no)
@@ -123176,6 +127282,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 299.72 1074.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1fbfcc9e-75c5-4d14-86e0-34dddf298ae2")
 		)
@@ -123368,6 +127485,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
+			(at 756.92 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0dc70735-d411-442e-bf4b-aca71e63275e")
 		)
@@ -123483,6 +127611,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 238.76 375.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 238.76 375.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 238.76 375.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "2d0c77be-00c1-4b10-9b3d-0782bec2134a")
 		)
@@ -123588,6 +127749,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 322.58 896.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
 			(at 322.58 896.62 0)
 			(hide yes)
 			(show_name no)
@@ -123869,6 +128041,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 607.06 787.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d5b983d4-8f8f-4ec1-a186-89bd070e0d43")
 		)
@@ -123975,6 +128158,17 @@
 		)
 		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
 			(at 726.44 203.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
+			(at 726.44 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -124167,6 +128361,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 777.24 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
 			(at 777.24 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -124449,6 +128654,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
+			(at 383.54 1249.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f4416886-4278-413c-a035-6f91416ec8c6")
 		)
@@ -124721,6 +128937,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
+			(at 612.14 916.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b220fab4-6e32-4948-8554-1107665f0a36")
 		)
@@ -124835,6 +129062,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 47kΩ ±1% 0.100W   [ERJ-2RKF4702X] [SMD]"
+			(at 637.54 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a6e9f50e-1dfe-4a27-9fd7-b7dfcf70abbf")
 		)
@@ -124938,6 +129176,17 @@
 			)
 		)
 		(property "old description" "IC:   TVS DIODE ARRAY   [D3V3XA4B10LP-7] [10-UFDFN]"
+			(at 156.21 497.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   TVS DIODE ARRAY   [D3V3XA4B10LP-7] [10-UFDFN]"
 			(at 156.21 497.84 0)
 			(hide yes)
 			(show_name no)
@@ -125243,6 +129492,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 360.68 1163.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 360.68 1163.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 360.68 1163.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c69e7627-bb1b-43b8-98ba-17c17d6533ec")
 		)
@@ -125436,6 +129718,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
+			(at 441.96 767.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d146c730-ea82-4e57-939f-00fc57f59000")
 		)
@@ -125550,6 +129843,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 561.34 355.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "52711d7b-b195-4707-b31b-41c28884077a")
 		)
@@ -125654,6 +129958,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 73.2kΩ ±1% 0.100W   [ERJ-2RKF7322X] [SMD]"
+			(at 850.9 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 73.2kΩ ±1% 0.100W   [ERJ-2RKF7322X] [SMD]"
 			(at 850.9 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -125935,6 +130250,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 863.6 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bb9297c8-4566-48a0-83f3-49eb4dcc10f7")
 		)
@@ -126039,6 +130365,39 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 337.82 1023.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 337.82 1023.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 337.82 1023.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
 			(at 337.82 1023.62 0)
 			(hide yes)
 			(show_name no)
@@ -126242,6 +130601,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 3.48kΩ ±1% 0.100W   [ERJ-2RKF3481X] [SMD]"
+			(at 469.9 792.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f90f21c8-4b63-470a-bcea-22aa6dbd409b")
 		)
@@ -126434,6 +130804,39 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 264.16 906.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 264.16 906.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 264.16 906.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "56aec794-413c-4830-953e-5c9acbae9f24")
 		)
@@ -126549,6 +130952,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
+			(at 177.8 708.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7181f897-555a-45c0-8f2c-5099b46d5d05")
 		)
@@ -126653,6 +131067,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
+			(at 254 1140.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
 			(at 254 1140.46 0)
 			(hide yes)
 			(show_name no)
@@ -126778,6 +131203,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 4.7nF 25V ±10% X7R   [CC0402KRX7R8BB472] [SMD]"
+			(at 228.6 441.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "10d2cc45-c1ef-4de3-a3a6-8912c023224d")
 		)
@@ -126883,6 +131319,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 398.78 1056.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
 			(at 398.78 1056.64 0)
 			(hide yes)
 			(show_name no)
@@ -127154,6 +131601,17 @@
 			)
 		)
 		(property "old description" "IC:   LDO ADJ 150mA   [TPS7A4901DRBR] [8-SON (3x3)]"
+			(at 665.48 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   LDO ADJ 150mA   [TPS7A4901DRBR] [8-SON (3x3)]"
 			(at 665.48 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -127649,6 +132107,17 @@
 			)
 		)
 		(property "old description" "IC:   ADC 16BIT 16 channels   [AD7616BSTZ] [80-LQFP]"
+			(at 505.46 355.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   ADC 16BIT 16 channels   [AD7616BSTZ] [80-LQFP]"
 			(at 505.46 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -128195,6 +132664,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "IC:   OPAMP 2 CIRCUIT   [TLV9062IDSGR] [8-WSON]"
+			(at 511.81 713.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e9ada005-d4b5-4d25-b34c-1b8d8b39f932")
 		)
@@ -128320,6 +132800,17 @@
 			)
 		)
 		(property "OEPS PN" "OEPS020001"
+			(at 609.6 408.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 0Ω 1A   [RC0402JR-070RL] [SMD]"
 			(at 609.6 408.94 0)
 			(hide yes)
 			(show_name no)
@@ -128512,6 +133003,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 368.3 1257.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 368.3 1257.3 0)
 			(hide yes)
 			(show_name no)
@@ -128816,6 +133318,17 @@
 			)
 		)
 		(property "old description" "IC:   DC-DC CONVERTER 2outputs1.5-12V 1.5-12V   [LTM4622AIY#PBF] [25-BGA]"
+			(at 513.08 769.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   DC-DC CONVERTER 2outputs1.5-12V 1.5-12V   [LTM4622AIY#PBF] [25-BGA]"
 			(at 513.08 769.62 0)
 			(hide yes)
 			(show_name no)
@@ -129243,6 +133756,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
+			(at 132.08 886.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "51bdf8a6-6755-4cb6-8c84-c3e1e5afccd9")
 		)
@@ -129591,6 +134115,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "IC:   VREF 2.5V 0.05%   [LM4132AMF-2.5/NOPB] [SOT-23-5]"
+			(at 416.56 335.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "0959ed7e-f906-4cea-8579-a72fd2060fce")
 		)
@@ -129712,6 +134247,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FIXED INDUCTOR SMD 6.8uH 1.2A 276mΩ   [1277AS-H-6R8M=P2] [SMD]"
+			(at 535.94 1135.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1db67cbf-bda8-4aaf-b42c-d23108ed0391")
 		)
@@ -129816,6 +134362,17 @@
 			)
 		)
 		(property "old description" "CONNECTOR:   HEADER 1.27MM R/A 10POS   [FTSH-105-01-F-D-RA-K] [TH]"
+			(at 76.2 830.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CONNECTOR:   HEADER 1.27MM R/A 10POS   [FTSH-105-01-F-D-RA-K] [TH]"
 			(at 76.2 830.58 0)
 			(hide yes)
 			(show_name no)
@@ -130123,6 +134680,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "IC:   DESERIALIZER FPD-Link III   [DS90UB934TRGZRQ1] [48-VQFN (7x7)]"
+			(at 307.34 967.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "24"
 			(uuid "7f4f5dbc-30ac-4f32-9646-dcd10ca52c81")
 		)
@@ -130379,6 +134947,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "IC:   LVDS 2channel driver   [SN65LVDS9638DGN] [8-MSOP-PowerPad]"
+			(at 203.2 363.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "856d6121-94b3-4d62-abef-922351874da9")
 		)
@@ -130583,6 +135162,17 @@
 			)
 		)
 		(property "old description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
+			(at 777.24 673.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
 			(at 777.24 673.1 0)
 			(hide yes)
 			(show_name no)
@@ -132066,6 +136656,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "TRANSISTOR:   MOSFET N-CH 20V 630mA   [SI1012CR-T1-GE3] [SC-75A]"
+			(at 154.94 708.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bcac1bc1-094c-4914-bd21-7de7cf957ed0")
 		)
@@ -132262,6 +136863,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 386.08 1290.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "269981c8-a451-428c-a68c-a8984fda0964")
 		)
@@ -132368,6 +136980,17 @@
 		)
 		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
 			(at 726.44 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
+			(at 726.44 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -132559,6 +137182,17 @@
 			)
 		)
 		(property "old description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
+			(at 152.4 591.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
 			(at 152.4 591.82 0)
 			(hide yes)
 			(show_name no)
@@ -132762,6 +137396,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
+			(at 622.3 914.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5a68a3d5-36a6-4012-828c-38acf9860e63")
 		)
@@ -132867,6 +137512,17 @@
 		)
 		(property "old description" "INDUCTOR:   FERRITE BEAD SMD 0805 1kΩ 1.5A 150mΩ   [MPZ2012S102AT000] [SMD]"
 			(at 198.12 1310.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0805 1kΩ 1.5A 150mΩ   [MPZ2012S102AT000] [SMD]"
+			(at 198.12 1310.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -133102,6 +137758,17 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
+			(at 726.44 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f95b6a62-8350-4706-9c3d-cab71da735ea")
 		)
@@ -133206,6 +137873,17 @@
 			)
 		)
 		(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 434.34 896.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
 			(at 434.34 896.62 0)
 			(hide yes)
 			(show_name no)

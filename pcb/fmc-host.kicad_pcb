@@ -286,6 +286,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
+			(at 0 0 45)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5a02cf6d-0476-41ab-9525-0d3cfe05fa40")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/4a8fe531-fc81-414e-a033-02861515f82b")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -493,6 +506,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "43dbc2d5-1391-4a20-92ba-6e13d48dee90")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   COMPARATOR 1 GP   [ADCMP600BRJZ-R2] [SOT23-5]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bf8ade00-f052-4867-8485-7446d567f0b9")
 			(effects
 				(font
 					(size 1 1)
@@ -781,6 +807,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 49.9Ω ±0.5% 0.063W   [RR0510R-49R9-D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c75ac1ea-bd22-45ee-a1aa-8da6c0e857fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/164e5a2b-77ff-41dc-8217-0960aa30efe9")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -988,6 +1027,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2d761cd3-4c30-45d8-8622-6909e764bfa9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b123cfd2-e201-4f63-a2ed-77b678c9f665")
 			(effects
 				(font
 					(size 1 1)
@@ -1209,6 +1261,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 49.9Ω ±0.5% 0.063W   [RR0510R-49R9-D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6581edd8-e5a0-4838-958b-a4238b43a027")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/429de088-9eb3-499c-b0da-f316ac8bfadc")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -1416,6 +1481,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "58c59a08-5adf-4585-a08d-ed3df517b05c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a1df846b-836b-47bb-9977-8ce289a0e107")
 			(effects
 				(font
 					(size 1 1)
@@ -1637,6 +1715,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea6f87d6-9815-4f52-b40b-ee3b1d56cd94")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/e4292051-4412-40d2-a722-d633a139a6c2")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -1808,6 +1899,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1210 100nF 500V ±10% X7R   [C1210C104KCRACTU] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eb660638-a85e-4747-8783-0a1b53e4f78f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/a0dbab34-77da-44ab-91b4-9bbd5ebd769c")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -1971,6 +2075,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7e445294-e883-4cf9-90b8-cc49480dd5bb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7ff3187-954a-46d9-9403-1b95310d857d")
 			(effects
 				(font
 					(size 1 1)
@@ -2185,6 +2302,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e47e8af7-9fb8-4120-8ee6-c201a3eedd4d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   DC DC CONVERTER ADJ 2outputs 2x1A   [LTM8049IY#PBF] [77-BGA (15x9)]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "52cd56e4-21c2-40fa-aeda-37d62d298e5a")
 			(effects
 				(font
 					(size 1 1)
@@ -3356,6 +3486,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "IC:   BUFFER NON-INVERT 2CH   [SN74LVC2G34DCKR] [SC-70-6]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f404a7d1-ac63-43bd-b821-303c9e2f1288")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/3dbc6a93-87b8-43d4-b083-78f072123465")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -3607,6 +3750,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5fde1efd-316c-46ae-bd0a-69656f889599")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/951171bb-010c-4668-b864-431880dced3c")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -3814,6 +3970,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "afa42508-e1a8-4959-85de-72c9df3e7718")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e21ae06-108c-4aa5-9f89-a115c6752f9d")
 			(effects
 				(font
 					(size 1 1)
@@ -4034,6 +4203,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "daa3be6c-0802-461a-b861-6f1c2f5c7293")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/34b67ee7-7039-44a8-a139-b7d70d71c6ee")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -4241,6 +4423,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5ba00895-7e0f-46ae-899c-fa15b9b76090")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "DIODE:   RF DIODE PIN 150V 250MW   [BAR66E6327HTSA1] [PG-SOT23]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e7653d1-12eb-4ff8-880a-eda37d85ad29")
 			(effects
 				(font
 					(size 1 1)
@@ -4476,6 +4671,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17a25d23-c005-4b8b-bd5e-88b99ffcf78c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2efa1564-4a47-4110-a7c4-b82280a38006")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -4690,6 +4898,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4320b9b6-5ebe-402f-9567-9e8ae10bc5ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ded07321-4b02-48ad-bc04-a8353d12b8fc")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -4897,6 +5118,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b528bbf9-26c4-457c-9443-ebff3bf307bb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   ADC 16BIT 16 channels   [AD7616BSTZ] [80-LQFP]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "846fd1d6-1160-4ede-840f-f2a1e25313b4")
 			(effects
 				(font
 					(size 1 1)
@@ -9306,6 +9540,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "OTHER:   PTC RESET FUSE 60V 140MA 1812   [MINISMDC014F-2] [Other]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c10b9456-894a-4b5f-a7ff-19591f2a157b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b1a40828-b43a-4127-a177-2d3984d442cc")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -9476,6 +9723,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FIXED INDUCTOR SMD 100uH 920mA 456mΩ   [SRN6045TA-101M] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "088bfe52-8542-4fd3-9e94-3e5d8fd81e83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5a89ea57-c7a6-44d5-bdb9-0565bc2dcede")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -9619,6 +9879,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "15d1110a-d119-4784-b52e-5e2d56560629")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "de06a1ee-4074-4afa-8e62-97e549fb1cd9")
 			(effects
 				(font
 					(size 1 1)
@@ -9840,6 +10113,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "26fc17a0-eb85-4988-aea1-b500f66c391c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/53cc7726-ef20-4fd0-92ac-30c0a3dbddcc")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -10046,6 +10332,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "78cd4735-898b-4efc-a357-d31827dbab24")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "317cff99-b5f4-4d68-ac66-c5e0b14444f3")
 			(effects
 				(font
 					(size 1 1)
@@ -10267,6 +10566,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 3.48kΩ ±1% 0.100W   [ERJ-2RKF3481X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "919d08c2-b6b3-4ffe-876a-ed544d6efa1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ba2e1747-e74d-4245-951e-a5cfc644a084")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -10474,6 +10786,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4fb53aab-a85e-4036-a229-366733e83d13")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5a505e4b-f227-4a6f-b63f-b431db441d28")
 			(effects
 				(font
 					(size 1 1)
@@ -10695,6 +11020,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e93a98a-0f07-4966-9dfb-b2cab0f7ae10")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/8c2fe185-8cd3-40e0-81e1-111ea74925ba")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -10902,6 +11240,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3c961800-9f81-4c58-824d-9bcd0cb7799f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 3kΩ ±1% 0.100W   [ERJ-2RKF3001X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a5c6238a-a6ad-4f17-a0f7-acde415684ab")
 			(effects
 				(font
 					(size 1 1)
@@ -11123,6 +11474,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0805 1kΩ 1.5A 150mΩ   [MPZ2012S102AT000] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "011b150c-2ca7-4795-993e-508dfdd3464a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/fd2d5122-6a73-4ca8-a45a-cadef8ee85fc")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -11329,6 +11693,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0dd922c1-799c-41d9-aad3-c0c2754ff715")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CONNECTOR:   SDR RCPT 90º 26POS   [12226-8250-00FR] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f2228448-57a7-46be-bcf5-12254cd5d23e")
 			(effects
 				(font
 					(size 1 1)
@@ -11854,6 +12231,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6251116d-b38a-49f8-bf9c-86e8aee9b762")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/478499f1-4c95-4c5f-8432-92119b771309")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -12068,6 +12458,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8375c4b4-e085-4f73-a331-f2231031070f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/090e5153-6fb2-491b-b58e-dfabc51c98ae")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -12231,6 +12634,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "debf1caa-5f35-4367-be5b-bd7a9d1a2c37")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   LDO ADJ 150mA   [TPS7A4901DRBR] [8-SON (3x3)]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47cd3190-032f-4558-9aff-95ddb56f2440")
 			(effects
 				(font
 					(size 1 1)
@@ -12605,6 +13021,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "015b7c92-a28c-4e36-b475-6c11d54c63c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/9c6ee67a-493a-4b88-9acc-e7aecc7291ce")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -12821,6 +13250,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "912da1d4-d940-4618-9e41-b253e97014f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   DAC 16BIT 16CH   [AD5766BCPZ-RL7] [40-LFCSP-WQ (6x6)]"
+			(at 0 0 135)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "957fab1b-1de5-4d83-8954-b911a82af65a")
 			(effects
 				(font
 					(size 1 1)
@@ -15307,6 +15749,45 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 45)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "876438f0-f00e-4fdf-a68d-37caca829bed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 45)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4cd311cc-133a-4dc8-b789-eff3208faa24")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 45)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "34f3d27c-8d2f-4519-8a4c-fcda1069bef6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ae678b1f-389f-47ff-b941-2d6bcc4a9c34")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -15514,6 +15995,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7f95c3b6-b68d-400d-ad1f-2c41def70d8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   TVS DIODE ARRAY   [D3V3XA4B10LP-7] [10-UFDFN]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8794557e-2d37-4adb-a6f1-3d60cc06273f")
 			(effects
 				(font
 					(size 1 1)
@@ -15859,6 +16353,45 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ac953b63-2935-4d6e-a08e-811f291ba478")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "499c7d19-7872-41e6-8c96-fef6f806f782")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6375ff33-33b7-4025-afd7-1de01412b0e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/07ade975-3aa8-4c4d-a1b4-5a60046f34da")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -16066,6 +16599,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "612d240c-a1ca-4684-8d59-3c0e4e925f4c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6b4fba0c-fb5b-4a47-b227-e803d8b74f7a")
 			(effects
 				(font
 					(size 1 1)
@@ -16287,6 +16833,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "16a1bbde-2051-478d-af87-11ad1d0b06a7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/708c19ed-cf22-4416-932b-919d5eb2766e")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -16493,6 +17052,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d9ce1d0b-ed80-43b8-90bf-6501e24cba28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "235751a3-0b98-425f-a3bd-ab5e65e7f075")
 			(effects
 				(font
 					(size 1 1)
@@ -16714,6 +17286,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 3kΩ ±1% 0.100W   [ERJ-2RKF3001X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ec911ec-d4a5-4ebb-9ff8-945f408d64cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/955487c3-4adf-43b6-9a5b-820941c84478")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -16928,6 +17513,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FIXED INDUCTOR SMD 100uH 920mA 456mΩ   [SRN6045TA-101M] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9e5d55d9-2021-415e-9e73-6bb28ad295cc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2f19a30a-6f9d-45d3-86e1-f19c33c30a6a")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -17071,6 +17669,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9a8e2506-fc45-4500-9c8e-424ce910add0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "DNP: Do Not Populate (DNI)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39936264-fdeb-4fa4-95f8-cc82bd1954fa")
 			(effects
 				(font
 					(size 1 1)
@@ -17286,6 +17897,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ff2450a6-9d44-465a-82e1-0ae3cdf904e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   COMPARATOR 1 GP   [ADCMP600BRJZ-R2] [SOT23-5]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0b8b3be-533d-486b-a6b6-f9e51fd4201f")
 			(effects
 				(font
 					(size 1 1)
@@ -17574,6 +18198,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 649kΩ ±1% 0.100W   [ERJ-2RKF6493X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c7b5b77-8786-4440-ba1a-1c30a81a96d0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/75568058-6dde-42d3-a1c9-f0d8dc642f4f")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -17781,6 +18418,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ae45211c-fd98-4808-a761-e3d9c3670f7b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   LDO NEGATIVE ADJ 200mA   [TPS7A3001DRBT] [8-SON (3x3)]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f586ba6-127a-4ae1-909f-c417abb14257")
 			(effects
 				(font
 					(size 1 1)
@@ -18147,6 +18797,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f5f07dd2-f5e2-4d72-bf6a-b083ceaf6b18")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CONNECTOR:   ARRAY PLUG 400POS GOLD   [ASP-134488-01] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "77daffff-5507-474a-9c85-cd558a751c75")
 			(effects
 				(font
 					(size 1 1)
@@ -28155,6 +28818,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "18b4f45b-83d9-4641-a4e6-00f47a19f118")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/079a35a0-2e84-4169-9169-60ab49d2f45d")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -28362,6 +29038,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "686332e8-4265-40fe-a463-a46a4e71b4f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35bd29ce-e058-417e-914b-e75c88d2eb09")
 			(effects
 				(font
 					(size 1 1)
@@ -28583,6 +29272,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3ca02376-adf1-43ea-bb0b-b03ec74d5b09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5c4f06ce-0cb7-476f-ab6e-c1643257dee4")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -28790,6 +29492,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f9563295-00ac-4731-986b-efdda350d4e5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f368d8be-62e6-4ebe-a496-44ab2dc96d42")
 			(effects
 				(font
 					(size 1 1)
@@ -29012,6 +29727,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c22e1cdd-660c-455a-b70c-994fd86f54cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/eb56946f-3ae8-45e6-87c4-1c6522cdb308")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -29219,6 +29947,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a1322daa-ad59-4d23-b00c-4cd12e5de0dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 178kΩ ±1% 0.100W   [ERJ-2RKF1783X] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f75dfe8-5118-481b-89c6-b54bf556bd34")
 			(effects
 				(font
 					(size 1 1)
@@ -29440,6 +30181,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "576337e6-268f-4b55-8f2d-e6aecb76c5ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/8edfa17a-3426-455d-b712-bdbf705abd48")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -29647,6 +30401,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0134751a-1d75-4ffb-976c-2de2e147068b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 21kΩ ±1% 0.100W   [ERJ-2RKF2102X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4c0560d6-2320-4d5d-8ecc-a8212b58e006")
 			(effects
 				(font
 					(size 1 1)
@@ -29868,6 +30635,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 47kΩ ±1% 0.100W   [ERJ-2RKF4702X] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8496e55-1d7a-4901-9df9-bb843339be1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/061d283b-bb23-4e5b-87dc-c0e067b48f80")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -30075,6 +30855,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9774bde0-78b6-4446-8ec9-d49715b3bc8a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "DIODE:   TVS DIODE 7VWM 13VC   [SESD0402X1UN-0030-088] [0402/2DFN]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc1ec11b-07ba-4190-969f-674c057bc5dc")
 			(effects
 				(font
 					(size 1 1)
@@ -30352,6 +31145,45 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1cdd6dfc-077a-47fd-b2ae-bc2a3ab1d043")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a37fa5b8-a675-45e2-bd1d-dccf41464142")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f1c6e101-05c7-4408-81fc-e606ee735602")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c2d9bcad-d332-4c4d-acc4-0ed49f51f68e")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -30559,6 +31391,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4077ed84-8624-46fe-a228-8cbfc63e51d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 47nF 25V ±10% X7R   [GRM155R71E473KA88D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d534fd71-0208-4135-9235-46ce9ad97d47")
 			(effects
 				(font
 					(size 1 1)
@@ -30780,6 +31625,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b67cebd-a932-49dc-bd95-02b10ab3ff85")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/e03c0447-3811-4f49-9891-c90c5687d1f6")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -30994,6 +31852,45 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "204b1991-c426-4cce-93d8-801bf2106d1f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0ebe74a8-a4f7-4935-90e9-e8937a77835c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "117afd51-8018-4ac4-bccc-ab6ebff0b569")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/7e6f6a3d-a13b-4008-8095-25a89ef63f07")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -31200,6 +32097,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e2c9e976-28f8-4a2e-853e-cc0fea85025e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c121b057-d942-4f4f-9d08-dcfa52a90241")
 			(effects
 				(font
 					(size 1 1)
@@ -31421,6 +32331,45 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94e1ab0d-e67b-4942-9a93-9013ed96fd85")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4ec918f-ae82-45b6-b2b1-a941ba291c0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5c96530b-6430-4e72-9d15-52561c3817ed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/060a40a7-eb35-402b-9b96-ad56f6984617")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -31635,6 +32584,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "56e9ffcf-3262-41aa-b958-2c22924de66a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/27faa0a4-ff94-4581-8533-5162b0ccfeee")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -31798,6 +32760,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7c37cf3a-cc27-497e-b453-b4b751fc3651")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a69abfb3-940e-4e58-baa5-20475cde5b5b")
 			(effects
 				(font
 					(size 1 1)
@@ -32019,6 +32994,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "573a5ff1-eb5e-4add-9d76-04b9d3fce5f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c8d845c6-30b4-40f7-ab10-68f785708534")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -32233,6 +33221,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19b057c6-deb4-4a86-8887-8db13a110a67")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/24505a9c-b1f3-4324-bb17-73b1f43f88c9")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -32440,6 +33441,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1bb65a46-96ac-49ee-a724-527fec71a728")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   RES ARRAY 8 RES 2.2K OHM 1506   [EXB-2HV222JV] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ea79994-a0a3-4d1b-bb61-a911fad1c212")
 			(effects
 				(font
 					(size 1 1)
@@ -32759,6 +33773,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "08e89ef1-93b9-40c3-91b7-e7d6d445227d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ba5df0d5-3066-4c7a-831c-a9a5998d72a2")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -32966,6 +33993,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f299d87d-cb3d-4d20-bb03-a2289ee91ef9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 47kΩ ±1% 0.100W   [ERJ-2RKF4702X] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7f9259bf-a755-4375-88dd-744753b25f89")
 			(effects
 				(font
 					(size 1 1)
@@ -33187,6 +34227,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "471f0a6e-34bf-4cb2-b570-90225ddd7f7d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5d7b4168-1d9c-4fab-88c8-3e301fc2c899")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -33394,6 +34447,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7895a199-d953-43fa-8bc7-f01365ed4beb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   LVDS 4channel receiver   [FIN1032MTCX] [16-TSSOP]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55774221-9a1b-4c5f-843d-6daad51a5a6b")
 			(effects
 				(font
 					(size 1 1)
@@ -33804,6 +34870,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "TRANSISTOR:   MOSFET N-CH 20V 630mA   [SI1012CR-T1-GE3] [SC-75A]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1dd64a1d-1c35-4ae6-922e-94878b56f0ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/f9805484-6b9e-457e-8b9a-38e002b73fb7")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -34001,6 +35080,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d032c84e-2513-4aee-8ee1-7a9e064c1f69")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   DESERIALIZER FPD-Link III   [DS90UB934TRGZRQ1] [48-VQFN (7x7)]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dfa0ec11-1541-42c3-b22c-fae7aee99b68")
 			(effects
 				(font
 					(size 1 1)
@@ -34885,6 +35977,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "IC:   DGT POT 10KOHM 256TAP 16TSSOP   [AD5142BRUZ10] [16-TSSOP]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0bd72a94-1fc6-4792-88d0-aba810569193")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/d6d8de40-5941-4a55-acaf-7a43c3f4e0c9")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -35279,6 +36384,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f2323ef6-ef46-4968-a54f-d1695a475f02")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/a9ac8238-4eb9-45ca-b5cd-2db9cb157cf9")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -35443,6 +36561,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7654f253-a3de-47c1-9a78-fc04eda08bcc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eb8078d9-9ae3-4bae-bcc9-c2b3ce12a47e")
 			(effects
 				(font
 					(size 1 1)
@@ -35673,6 +36804,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "86241e20-9a23-417e-a85f-5aa0e6f70269")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/500765b8-e303-4b70-b937-4d3e1e6764b2")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -35888,6 +37032,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 49.9Ω ±0.5% 0.063W   [RR0510R-49R9-D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b29e8aaa-6d3d-4847-a915-ac950461f995")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5dbca99d-4b82-4327-a8fe-c5bf5a481dca")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -36094,6 +37251,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3bcf8f25-ada5-434a-b55e-9af64ecc417f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CONNECTOR:   HEADER 0.8MM 8POS   [BM08B-SURS-TF] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6bd9c8c2-23f3-4ef3-ba3f-86d3dea913e7")
 			(effects
 				(font
 					(size 1 1)
@@ -36377,6 +37547,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e84d39ca-3b77-4bd3-87b6-b09e8db185ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   TVS DIODE ARRAY   [D3V3XA4B10LP-7] [10-UFDFN]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f94ef817-65ed-46fa-a82c-7f14a1553e5d")
 			(effects
 				(font
 					(size 1 1)
@@ -36722,6 +37905,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "IC:   RES ARRAY 8 RES 2.2K OHM 1506   [EXB-2HV222JV] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35e535fb-035b-47b8-bef7-0720b8df63e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/657db313-e4c1-4661-a46c-f00c4ff9b81a")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -37034,6 +38230,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 5.6kΩ ±1% 0.100W   [ERJ-2RKF5601X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4664bae1-ec64-4cb9-9435-f565fa9c0009")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2c858582-92f5-4c89-b1b8-78bf2335d132")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -37241,6 +38450,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2b8c49b7-137e-4322-b9a7-3c1a6202ae52")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "428f559c-a6b2-4b54-a8b4-424e4538d490")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "30eb8f76-e10b-4c42-aa28-8f56c4c20d25")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d0dbc93-4801-4e0c-b933-918a4cae6915")
 			(effects
 				(font
 					(size 1 1)
@@ -37462,6 +38710,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ced84ed-4ef7-4896-9550-9f1fcafbf646")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/084dfd9b-fd61-42c2-be1a-16200b1d4e91")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -37676,6 +38937,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e2fd1e5-c635-4815-af40-75f1e32dd9f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/dce27770-1dcc-45ee-96a9-225f87c94707")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -37839,6 +39113,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "856a7227-0eeb-4f8e-bd9e-a90201dd9abf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "DIODE:   RF DIODE PIN 150V 250MW   [BAR66E6327HTSA1] [PG-SOT23]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "de6682a1-49b1-42c5-86d4-e617dc064579")
 			(effects
 				(font
 					(size 1 1)
@@ -38074,6 +39361,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f4c8e386-349e-4945-912f-5e77fb321380")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/1485e16f-7b12-4b84-b415-5ade78d2be3a")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -38281,6 +39581,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c233dab2-e63c-4ca5-9356-8aa947cac55d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0fae71f6-6a0c-40ad-a4a6-f5aae1e0c35c")
 			(effects
 				(font
 					(size 1 1)
@@ -38502,6 +39815,45 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5eccdf1a-719d-4b6c-a3ef-36b856b0a402")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7aab2fd8-117a-4b20-af3c-b6c2b03e51f4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d4198f1e-e499-4de2-9de5-95dfd8a509ed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/144c04f5-7b1f-4519-9780-5bf655edef5d")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -38709,6 +40061,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8898519c-24d2-41c9-8d81-986e008d3d48")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "DIODE:   TVS DIODE 7VWM 13VC   [SESD0402X1UN-0030-088] [0402/2DFN]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "940f3c7e-d021-47a4-a93e-ec29eeaeff1f")
 			(effects
 				(font
 					(size 1 1)
@@ -38985,6 +40350,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "OTHER:   PTC RESET FUSE 60V 140MA 1812   [MINISMDC014F-2] [Other]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2f542083-322c-45b2-8709-f6ed4f2227f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6a6352a0-7df4-4b13-95ce-34ca0718bf9c")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -39147,6 +40525,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b04751f3-06bd-49f8-8e60-66e98dea50e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   LVDS 2channel driver   [SN65LVDS9638DGN] [8-MSOP-PowerPad]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47f0963c-7a0a-4469-b034-5886a1d6a81a")
 			(effects
 				(font
 					(size 1 1)
@@ -39419,6 +40810,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a94f2220-cfc6-4158-a72f-6e24bcb17de9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/96dcf0b0-7e66-480a-91de-bd2e0afa5b93")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -39626,6 +41030,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "914516f9-f461-4446-b32f-de298596c39f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "73f7db78-f7b3-4468-8242-084e30425402")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc29d810-147f-4ba3-bed8-5c83316a64b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0dd6f8db-14bd-455e-b8bc-b1700d1ae659")
 			(effects
 				(font
 					(size 1 1)
@@ -39860,6 +41303,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6fff28b1-5491-4ba7-af1d-51d5bb2c73b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ded5c784-dfbf-4374-940f-5b6634f7c2c8")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -40067,6 +41523,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "09649227-f7bf-46fe-a15c-660ef23f7d42")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   DC-DC CONVERTER 2outputs1.5-12V 1.5-12V   [LTM4622AIY#PBF] [25-BGA]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1e4da9c0-746b-4093-8b29-bbf8566e5eb7")
 			(effects
 				(font
 					(size 1 1)
@@ -40662,6 +42131,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "IC:   LDO ADJ 150mA   [TPS7A4901DRBR] [8-SON (3x3)]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "866d2d3f-ef05-47c1-b1dc-7112ffc376fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ed4a2531-a89d-4c47-ac1e-c4c67dd48fde")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -41029,6 +42511,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 49.9Ω ±0.5% 0.063W   [RR0510R-49R9-D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67095d25-2f99-4867-8a96-7d1b5b507481")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/3ec91a80-408b-42fe-bacb-1c3c0270bb56")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -41243,6 +42738,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "DIODE:   DIODE ZENER 4.55V 1W   [KDZVTR4.3B] [PMDU]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "40b9b07e-5fab-4cce-b491-3207b515f925")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/d003bb41-298a-4207-a625-62c4b7f05642")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -41440,6 +42948,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b9a55030-ec74-4509-8901-b0931bfd4761")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d04fbf9a-98ca-4973-90ac-2a729788aa0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "deacf43f-4724-4a8e-9a5e-7d647d3e9011")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "65123b83-5a0f-49c4-8001-d6b0fc2a0d64")
 			(effects
 				(font
 					(size 1 1)
@@ -41661,6 +43208,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a39f1a12-da16-49ad-a79e-19390eab0966")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/70407b9f-bef3-4830-a246-582a9f33c04a")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -41868,6 +43428,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8b3d0dbf-8ceb-4b26-a4c7-e183d1078261")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   DESERIALIZER FPD-Link III   [DS90UB934TRGZRQ1] [48-VQFN (7x7)]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b1ce8be-7c70-4b88-9a06-6f382c224fb1")
 			(effects
 				(font
 					(size 1 1)
@@ -42751,6 +44324,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "OTHER:   PTC RESET FUSE 60V 140MA 1812   [MINISMDC014F-2] [Other]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc45e01b-bd8f-4bbf-af4c-a8f6fd77216e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/49d82b6c-a792-434b-b230-10ac24c64583")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -42914,6 +44500,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "134b8028-16f5-47e6-ba99-a870c8e0d468")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f4c245f-8bfa-46c8-b1c5-91f17ef0c10d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4a997531-ef7b-47ee-9dab-b29f212fa9e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8394c2d4-aced-4f4f-b18c-b683f88cc978")
 			(effects
 				(font
 					(size 1 1)
@@ -43135,6 +44760,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5e78e5a-805f-4f0c-b066-c7f3f2b29da3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/e6f22576-a7dc-4253-803b-281663614728")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -43349,6 +44987,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 15kΩ ±1% 0.100W   [ERJ-2RKF1502X] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c7ecf90-50cf-4a5a-bd50-b1df4ca57c19")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5b2b6fbe-ce47-42ef-9618-c61c3e3a512a")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -43556,6 +45207,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cefa03c6-83d3-44f9-ada3-541221ee0ef2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7b17061a-fb60-4f70-890d-41db899fbc28")
 			(effects
 				(font
 					(size 1 1)
@@ -43790,6 +45454,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "947072a3-81bc-4e63-a14c-534020a08835")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/fa687fae-af75-44cf-8172-5acaf242840e")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -43997,6 +45674,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a12f961b-a0d1-417a-87d2-f3a46b27e2f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "DIODE:   RF DIODE PIN 150V 250MW   [BAR66E6327HTSA1] [PG-SOT23]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "415be8aa-8f58-48c1-925d-6df3a366fc01")
 			(effects
 				(font
 					(size 1 1)
@@ -44232,6 +45922,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "893f75f9-ab87-48f6-b3e7-5f487def5180")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/cee53e45-2282-4034-8884-b5c133443b05")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -44455,6 +46158,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "deeae1ad-0584-4085-bd66-5e583724f212")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/a6b39465-65a9-4955-9c9f-e2413e4e78f5")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -44671,6 +46387,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b2a6d037-87db-4d30-b612-2890fb5a57d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   RES ARRAY 8 RES 2.2K OHM 1506   [EXB-2HV222JV] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ed6f43d3-046e-4aa1-a29c-ce9aedb9a3df")
 			(effects
 				(font
 					(size 1 1)
@@ -44983,6 +46712,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7811cff2-b37a-4ae6-bd91-9444100ae395")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   SWITCH SPST-NOX4 1.5OHM   [DG1412EEN-T1-GE4] [16-QFN (4x4)]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e66a35e-451e-41a4-8d7c-a7bc676cba53")
 			(effects
 				(font
 					(size 1 1)
@@ -45471,6 +47213,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2e844b89-b5a3-48c8-ad34-9c56c9488d42")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/4b773608-e778-46ce-9829-729905b3b751")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -45677,6 +47432,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "16eecd2e-1a91-41b2-9441-555b2483d38e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   TRANSCEIVER Half LVDS   [DS91M040TSQ/NOPB] [32-WQFN (5x5)]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "08e15b57-bdcd-4fc0-95d8-d3f08a63a246")
 			(effects
 				(font
 					(size 1 1)
@@ -46379,6 +48147,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 3kΩ ±1% 0.100W   [ERJ-2RKF3001X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c0598e5e-ee04-44e8-9dff-331daf42635f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/1fca7513-3b75-47fc-98c3-b265a9a97c3c")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -46586,6 +48367,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "67fa574f-f4ca-47cc-b568-5e281c9bac01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   RES ARRAY 8 RES 2.2K OHM 1506   [EXB-2HV222JV] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ff03da88-52fb-45da-b8c7-0f34efa054ce")
 			(effects
 				(font
 					(size 1 1)
@@ -46905,6 +48699,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fdd7b428-c07f-43eb-a818-f694144e8fc1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/dc47e2ef-94db-409d-91f2-0efb2b3ca885")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -47119,6 +48926,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1210 47uF 25V ±20% X5R   [TMK325ABJ476MM-T] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c9170cb-fa61-442e-8825-87b349f31da0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/65cf2003-31f4-4a22-8d11-890bdbde9472")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -47282,6 +49102,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8622a889-dc03-4723-8442-92751bb82a54")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0805 1kΩ 1.5A 150mΩ   [MPZ2012S102AT000] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ebe4e6ae-9646-493e-b45a-0ccd720c1718")
 			(effects
 				(font
 					(size 1 1)
@@ -47496,6 +49329,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ee918f89-e48d-4d31-9619-bbc7f4573e98")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   SWITCH SPST-NOX4 1.5OHM   [DG1412EEN-T1-GE4] [16-QFN (4x4)]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ff7a35f-2317-4616-8052-54ad7232aa3e")
 			(effects
 				(font
 					(size 1 1)
@@ -47984,6 +49830,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5960b000-fd72-4c04-9090-7f0dab477ff6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/15de8911-852d-43c8-bf04-80f4705e7573")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -48198,6 +50057,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1210 100nF 500V ±10% X7R   [C1210C104KCRACTU] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "71d48a31-1f17-4321-b80e-5c5a6d90542f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b663bcb3-d1c0-4a1a-ba38-6e04351eeb31")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -48360,6 +50232,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "53c25097-8aa1-4de7-beae-6f3c58004485")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0603 150Ω ±1% 0.250W   [CRGP0603F150R] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "25dbca19-be96-43f8-a4d2-7f60f503ad43")
 			(effects
 				(font
 					(size 1 1)
@@ -48574,6 +50459,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b2f9085f-4173-4ee7-98b5-5767bdc66426")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e1726aea-e6de-4d34-b181-3aa3f8f9df0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf0eb189-e71e-4d31-9a6f-96d0bde8bcce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6bd8cff9-d441-4fea-abb6-257f70139aee")
 			(effects
 				(font
 					(size 1 1)
@@ -48808,6 +50732,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
+			(at 0 0 45)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b35497e-282b-44f7-9978-63e2174a772e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c14a17e3-ff19-49eb-9c09-f57b34c571ef")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -49015,6 +50952,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f9b57e09-2f51-4851-8730-7e9890f37c13")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 3.48kΩ ±1% 0.100W   [ERJ-2RKF3481X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd8c4df0-2e37-444f-9ab2-db09763eba9a")
 			(effects
 				(font
 					(size 1 1)
@@ -49236,6 +51186,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 3kΩ ±1% 0.100W   [ERJ-2RKF3001X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5bc65ece-d90d-4fcd-b5e7-005a52defa8c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/1259b3b2-c918-40ee-9572-9ba9c6ae3ca4")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -49443,6 +51406,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8b03e16b-f58e-430a-b6bd-8b253c07bd2b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ea77a37-a09c-4d39-8bca-2ce0327018dd")
 			(effects
 				(font
 					(size 1 1)
@@ -49664,6 +51640,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e43e3d13-79af-4876-9338-8c579933534d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/a95237e6-6fc8-4e8e-800e-5a0c20b00071")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -49878,6 +51867,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "42dc49ab-d0e8-4e75-b366-85f624ca7ca1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/1b75b346-ca2f-44f9-8bc3-d3b04378ba40")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -50085,6 +52087,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "686963ec-127d-4443-9eda-df6d78991c05")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "INDUCTOR:   FIXED INDUCTOR SMD 4.7uH 950mA 350mΩ   [1008PS-472KLC] [-]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e73beca-e397-478b-945a-a0cd41378695")
 			(effects
 				(font
 					(size 1 1)
@@ -50743,6 +52758,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 5.6kΩ ±1% 0.100W   [ERJ-2RKF5601X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b045f523-b539-4d23-902f-a576850c3ae2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/742f4201-846a-44ea-8a05-ebc43d142506")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -50950,6 +52978,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "61089be2-938d-4b11-9d6a-a9debd38c20c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   DAC 8BIT 2CH   [MCP47FEB02A0-E/ST] [8-TSSOP]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "783b3458-aaa7-4534-8114-37f36e0618ce")
 			(effects
 				(font
 					(size 1 1)
@@ -51306,6 +53347,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FIXED INDUCTOR SMD 4.7uH 950mA 350mΩ   [1008PS-472KLC] [-]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "601d16f5-c06f-4485-bc52-e8e552839878")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c6010ed2-b57e-49c7-b800-6aa2895f3c07")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -51469,6 +53523,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3f4db0bb-db8d-429d-8b80-3bee7a7120bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4d306132-395a-4edc-a41a-97989e661488")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dda01d16-4d7d-45b5-9225-deb547cbc33d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05f9327c-472b-4247-bf8b-36ea8dc84d3d")
 			(effects
 				(font
 					(size 1 1)
@@ -51691,6 +53784,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dd73fdcb-180f-40de-8563-123f90aeba22")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ec338669-df1b-4931-ad49-8bf375d6fb68")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -51905,6 +54011,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3752c1b3-1a2d-4ac4-8075-54df322ee1e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ae43c339-6ec8-4d00-ad36-ebb305568406")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -52112,6 +54231,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ee414d1e-cfc5-4299-8c43-e4adb6c68e9f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7f23c730-05e7-468c-9a92-eabd91cd4d8c")
 			(effects
 				(font
 					(size 1 1)
@@ -52346,6 +54478,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8565b248-ac0d-41f6-a24f-90fc8640e9bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/fe318afc-3d85-4de6-aba3-4af5b6009a58")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -52553,6 +54698,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ce5578ef-5576-4971-91c6-18f3cf287692")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "64fdbfbb-ff6c-4962-9335-21fc74e38a5f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ea251b7-c874-447b-ae1c-dac0977b12f2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a728d026-3545-4fd2-9366-904607a1ea90")
 			(effects
 				(font
 					(size 1 1)
@@ -52774,6 +54958,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "48ef7713-5f65-49d8-8195-a71c9d66178c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6b2c1b87-d36a-471d-b31a-bcf9a822a526")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -52988,6 +55185,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ef37ff0-274c-4191-8f88-1f3f0e3475cb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/679a08ca-6785-4c30-a35e-70ee1c7d6b42")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -53195,6 +55405,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "87bfeb48-eb79-4420-b856-df3984cbb3c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CONNECTOR:   MMCX RCPT 50ohm 90º   [262105] [TH]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9ddb46f3-33a5-4b03-b000-eceaeedc0805")
 			(effects
 				(font
 					(size 1 1)
@@ -53425,6 +55648,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 21kΩ ±1% 0.100W   [ERJ-2RKF2102X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a12207da-7afa-4b26-934d-bbe48106f5fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/69442fc4-d925-48c3-ae0f-01c3e0a88d3e")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -53632,6 +55868,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a8e6e0b5-9b5d-4bf0-8193-c1bc1364eb6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "DNP: Do Not Populate (DNI)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93b46ef3-7f08-4e79-a2a6-0eaf8999303e")
 			(effects
 				(font
 					(size 1 1)
@@ -53854,6 +56103,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "36027e68-a15b-4b4f-96cb-84d9405adccc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/42cf9385-d63e-4615-a73c-250b125ec885")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -54061,6 +56323,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "886ecd70-af6f-4527-9aa1-17feacb40830")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "862e1bee-c4f2-4820-86cf-fc6b5f8f747c")
 			(effects
 				(font
 					(size 1 1)
@@ -54282,6 +56557,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ff643793-fdfd-4e1b-9d19-6ed712e78c75")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/53b64385-529c-4923-97d6-0eefd64c9a99")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -54496,6 +56784,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 47nF 25V ±10% X7R   [GRM155R71E473KA88D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "125cd1ac-f8db-4ae8-87c7-d4ae100cd35d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/30ac97e1-bc12-44b0-a0f8-0e8a40a47d47")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -54703,6 +57004,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3dc1435b-4f8e-4e69-b47e-d68200db725e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "IC:   SWITCH SPST-NOX4 1.5OHM   [DG1412EEN-T1-GE4] [16-QFN (4x4)]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "224037c3-9699-4302-815e-600dba6e46a0")
 			(effects
 				(font
 					(size 1 1)
@@ -55191,6 +57505,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "IC:   TVS DIODE ARRAY   [D3V3XA4B10LP-7] [10-UFDFN]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "591b8f45-47bb-4538-bbd7-2d51c4e81119")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Diodes*UDFN*1.0x2.5mm*P0.5mm*")
 		(path "/67fadbfd-d1ce-42ab-bad3-2a2cb88a4733")
 		(sheetname "/")
@@ -55530,6 +57857,45 @@
 				)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8605bc7-fed0-46b5-b3b8-0ac4c5776073")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3e7e607-2ede-4d65-87bb-52408a4afe5a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ce2f2683-6264-4aa1-8448-a182ccf3d38a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/0d8d334c-d50e-4f6a-8df6-d8d987433612")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -55743,6 +58109,19 @@
 				)
 			)
 		)
+		(property "OEPS Description" "TRANSISTOR:   MOSFET N-CH 20V 630mA   [SI1012CR-T1-GE3] [SC-75A]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c0a8dc08-f6d3-426a-9c71-d1bf655f0913")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/0ff0b26c-2e2f-4746-942b-e5d12a855dfd")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -55940,6 +58319,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0c42db34-2772-4d08-8958-778f9488b845")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "08a6cd6f-70df-4baa-88cf-43cffef6ddba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6c43a81f-4392-4837-8fcf-654d6569784a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e4b18936-78cf-4a66-92f1-71f21c63356b")
 			(effects
 				(font
 					(size 1 1)
@@ -56158,6 +58576,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d27099da-686b-46b9-afb4-e22f9a7c4903")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c4e58c07-4932-407b-b48c-84a2424f5116")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "83310214-e28f-49d5-8be0-7d2b7b0df222")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ca0aa42d-eb81-490b-b052-7cb01732aa7c")
 			(effects
 				(font
 					(size 1 1)
@@ -56385,6 +58845,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cb28bf26-2f54-41fd-9695-8ab7d31be7a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/1945c6be-22b9-46e6-8642-a2c7dde92b56")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -56596,6 +59070,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "40ca0384-8a19-4338-9a4f-04567ca32c2b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b4853084-eb45-4fed-915b-3cb8fa9d521f")
 			(effects
 				(font
 					(size 1 1)
@@ -56816,6 +59304,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8448482e-5659-414b-a33b-13da097bb8e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 73.2kΩ ±1% 0.100W   [ERJ-2RKF7322X] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "25c58d55-6f75-4170-a7ce-cf9285dcff18")
 			(effects
 				(font
 					(size 1 1)
@@ -57045,6 +59547,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "e2945684-1e5f-47c1-9ff5-ac98bced97bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "IC:   BUFFER INVERT 2CH SCHMITT-TRIGGER   [SN74LVC2G14DBVR] [SOT-23-6]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "be62216c-2829-4356-b94a-365f9657be4f")
 			(effects
 				(font
 					(size 1 1)
@@ -57453,6 +59969,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 135)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bf4e16ad-9664-4458-a482-277c4d2b34eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/3a504c46-5a22-4a51-9d36-20c3a6ca72af")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -57664,6 +60194,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "bef31a98-8f63-4c3f-8e3d-e0c7b601b775")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c97bf08a-efea-450a-af84-e8574db8fd56")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e2283725-de70-4499-adb9-c84bdebb25c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2238bd1b-99a4-4025-8480-b29ebdc83ff8")
 			(effects
 				(font
 					(size 1 1)
@@ -59661,6 +62233,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
+			(at 0 0 135)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f58d1952-542a-4290-89bd-a2eb86964120")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/82b4283b-f6ab-47df-ab9c-76c6c184627d")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -59872,6 +62458,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4fbb45b0-d1a3-48fc-9c73-6f3d918dedb2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "09363bd5-124e-4d54-9b4b-a4c0268cd805")
 			(effects
 				(font
 					(size 1 1)
@@ -60099,6 +62699,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "63bef766-2d32-4109-b256-2df6e6934d6e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "999331a0-13b4-4d7a-8250-abceab87044a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fcfed1fc-04a9-4c54-9501-022d23b914d6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/de0439b0-26b2-44ca-8424-2540de5016ad")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -60310,6 +62952,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "abab109e-fb34-4ee4-bbac-db742a4727bb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 0Ω 1A   [RC0402JR-070RL] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "68dd0bc0-054e-4bdd-b21c-03f4a72db34c")
 			(effects
 				(font
 					(size 1 1)
@@ -60537,6 +63193,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "691f5433-ac54-4b6b-8846-f6fd0a547427")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f5ddc469-ac51-4040-8df7-fcee19e002ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1ebf674e-8e10-4039-b75a-d7ea2800267d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/bd473b3b-8754-455b-9757-96fe1d37e5c4")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -60748,6 +63446,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "dbc1d75b-d38b-4a8c-b5b2-754e03e9e43f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6b94b086-5eee-4d6f-88c6-ec03a9cd4447")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "445edcbc-25fb-443e-885e-fbad510c14b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "10dc555f-250f-41a6-b288-578ab539f6a0")
 			(effects
 				(font
 					(size 1 1)
@@ -60976,6 +63716,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "332d8ab1-010b-4842-90a6-74961ae3b7bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/eb60b294-27e9-4213-8e7c-eb0eb514766d")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -61187,6 +63941,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "488c491d-2fbe-4ece-9920-011828c2eb24")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "60e8accc-19dd-405b-a2bc-0c28b6422878")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bc85ef59-774b-47b7-bc6e-8dab5f40981d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b04ee568-1ff6-4c7b-abd4-422457f33342")
 			(effects
 				(font
 					(size 1 1)
@@ -61415,6 +64211,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "af8de4ed-c773-4b12-b12d-0b3b63f8c455")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/5755170a-3476-4feb-b845-16c898580f4f")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -61626,6 +64436,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c11f03b8-2a7c-40ca-9349-2e02ff2360e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6e8e7c63-f1a5-4f12-b40d-3e8562f24be0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2c3144a4-c519-4aa9-8c2c-3a71194faa77")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1cb11870-44f6-48de-ae99-5f7ae956d9f3")
 			(effects
 				(font
 					(size 1 1)
@@ -61853,6 +64705,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1cb26417-af26-4f9e-9fbd-4c6786e43114")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/cf3ebe2d-fbe4-458e-9ecc-bd381d8fab6c")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -62064,6 +64930,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a6f4040d-4764-41d9-9840-869f14a0f0b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1f80d7a8-bee4-41ed-8c85-7389721d61d3")
 			(effects
 				(font
 					(size 1 1)
@@ -62291,6 +65171,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "dbb4bff2-764f-42dd-87ba-b69e27439469")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/40a67b9b-1b1b-4eed-86dd-33bf16ed5194")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -62510,6 +65404,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c0a35cbd-ba9c-434c-b585-54c2307f62da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/21d0cdd9-9e94-4049-b4e5-0c76e80cab74")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -62721,6 +65629,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "43180ec9-e7d0-4089-9847-6fe3dd1588b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f712a7a3-2904-439b-9bd6-69f6fbc71eea")
 			(effects
 				(font
 					(size 1 1)
@@ -62949,6 +65871,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8f51ef6d-7ada-4c0c-8fb7-bb3a544855f3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d1a2408a-5b25-4a1c-a4fd-66ae87d491b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cc6be48a-b353-4f6d-8a5d-107817276007")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/8640dc6a-adb5-4ad9-8a09-29502e2537ff")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -63160,6 +66124,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "494d6086-4537-456b-8959-8191dbad2c82")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0ec484c1-14c3-4df6-9f64-99c53e45943b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7709e78e-efa9-4973-905e-9218a9680da7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a0743ddb-170e-4299-a55c-25b080d21bb0")
 			(effects
 				(font
 					(size 1 1)
@@ -63387,6 +66393,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c7f7149f-85dc-4b8c-831b-885ceb99a712")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0df1a4e4-0d76-4996-bc85-7ba3f18a85de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f9a6942d-c625-4142-9fa6-5e08dcf3c79e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/96bf28cc-b8f8-4acf-92d3-a038ece16ee4")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -63598,6 +66646,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "da3fcf28-e12c-460e-bd28-562a3e56cbf0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "73786df3-4be2-452c-836a-6b5fc4e3243d")
 			(effects
 				(font
 					(size 1 1)
@@ -63826,6 +66888,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b0ce71c5-3498-486b-b37f-46927534f492")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/6cdc48a7-80d9-4b1d-a1eb-0cc17629b3ab")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -64037,6 +67113,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b803d3f0-e594-49f6-857f-57d16965a197")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "574bb39d-d99d-4893-bfba-0c9b2fcfa2f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "74b6b098-215b-45cc-a3c5-a6a749f998cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "03cb1bb8-0699-4013-982e-dc5a6fa979cb")
 			(effects
 				(font
 					(size 1 1)
@@ -64359,6 +67477,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 1206 4.7Ω ±5% 1W   [SG73P2BTTD4R7J] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "70f54df2-ea62-44ea-b3eb-f6a51e7df2b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/4f01acb6-9c56-499f-afd4-742e66c5d85d")
 		(sheetname "/")
@@ -64547,6 +67679,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "eeb32494-d8f1-4570-aeb7-bb70df63d5df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a61e3209-55ef-4312-b038-b0c59f85967a")
 			(effects
 				(font
 					(size 1 1)
@@ -64774,6 +67920,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100pF 50V ±5% C0G   [CC0402JRNPO9BN101] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ef89477c-00dc-45b9-877e-82ead53bcf31")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/cab9eb08-9a8e-4977-b523-94dbd70a95a6")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -64985,6 +68145,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9bbfb9e0-e6db-46f2-b8ef-c36cf7f6e039")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3caa0f5c-0863-4961-8330-3950f5a08bf6")
 			(effects
 				(font
 					(size 1 1)
@@ -65213,6 +68387,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e53436bc-1655-44ec-a142-b7f9447e5acf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/61bcd36f-fcc1-40eb-9fad-9ddc6f8f346d")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -65345,7 +68533,7 @@
 			(effects
 				(font
 					(size 0.633376 0.633376)
-					(thickness 0.166624)
+					(thickness 0.158344)
 				)
 				(justify left bottom mirror)
 			)
@@ -65502,7 +68690,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPSPN" "OEPS010050"
+		(property "OEPSPN" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -65516,12 +68704,26 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C105883"
+		(property "LCSC" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d9e56fd6-dd4c-4dff-a624-2d2424a30be5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "361a2c5d-b620-4b94-826d-24d57aec35f5")
 			(effects
 				(font
 					(size 1 1)
@@ -65749,6 +68951,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8ddc0976-c1f0-452a-b420-ed5bc689b97f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "298de013-8236-401c-97d5-8caf32f703e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0f14f115-6736-4b92-ad8e-4f08712a9598")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/71942a87-70da-42b4-bcac-2b327d5fa8d5")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -65968,6 +69212,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9acd8200-a92a-44bc-918b-1a7d6af7c7c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/bb83cede-4d1c-4f80-b891-4a2db15935b7")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -66179,6 +69437,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d80416be-a662-47c1-9576-4f36f4ee5fab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4b11912d-1c05-42f1-bc27-63249d33520a")
 			(effects
 				(font
 					(size 1 1)
@@ -66531,6 +69803,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c1a7fd21-3bdc-4e27-b164-67d6b790d233")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4511870d-0dd5-4052-9e82-3d39536762ff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "97008489-56ac-4d15-b87a-da06bcdd8802")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/2e17300f-1b22-43c3-b353-c3e89de1c246")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -66742,6 +70056,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "cf8193ab-b99d-405b-835a-b2fe156f6586")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d3a70306-1ef5-42a6-85ce-5463a422ae18")
 			(effects
 				(font
 					(size 1 1)
@@ -66969,6 +70297,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2d9bc80d-6199-4311-b7ea-1fe7de980833")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4ab31fb4-e38e-46b1-88bd-ec75b8ac4df2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a8de4d0e-0627-4219-b5a1-31a071412ae4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/c4b1ecbd-29b7-4adc-8813-18473d466521")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -67188,6 +70558,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR POL:   SMD TANT B0 1411 33uF 20V ±20% 50Ohm   [TL8B0336M020C] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "593a5beb-0239-4a44-9a7f-4d2a04fc8368")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/360b67fd-8b72-4db5-8938-20a27cece1f0")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -67385,6 +70769,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d5d4ffec-f826-49c2-aff3-ae6b28c56e68")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6010a58f-376f-4fd8-b9bd-eebfc0f402c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "572b8f40-71c9-4deb-9aea-11f252746fa5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7c7edb17-f119-401b-99fa-8eb92353d892")
 			(effects
 				(font
 					(size 1 1)
@@ -67612,6 +71038,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d6b9d342-87f7-46b5-a738-2a255cb3ac5c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/e5515355-bb45-47cc-9692-05b8c962e575")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -67831,6 +71271,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b83d9d3f-b835-4e8b-85ce-e883372ad4a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/0f7e30f9-2f7d-426b-930e-12ee5e8161ef")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -68042,6 +71496,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "323a1778-2b36-444b-a1bd-09032e789da3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d3b36f24-e36f-425a-b482-b4d514fab97d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "805b9e46-3445-41e3-b2a2-669dc5ab142e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c63b33da-2658-421b-86d0-92ccdee58a17")
 			(effects
 				(font
 					(size 1 1)
@@ -68395,6 +71891,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d2647a04-d7cf-41cf-854e-f442f67345bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/b1816bab-c448-4965-89eb-70987d0fa100")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -68605,6 +72115,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "267c0c1a-4170-4467-a9d7-ee54c22fe207")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "OTHER:   SWITCH SLIDE DIP SPST 0.1A 6V 2 POS   [CHS-02TB] [Other]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fbd12a80-874a-4dba-9b0a-7eabae85414a")
 			(effects
 				(font
 					(size 1 1)
@@ -68853,6 +72377,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7406352f-f1f0-467e-901b-781fcd55a68f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 4.7nF 25V ±10% X7R   [CC0402KRX7R8BB472] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1a7956bf-1377-4d05-b2a9-736e310bf683")
 			(effects
 				(font
 					(size 1 1)
@@ -69205,6 +72743,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 100Ω ±1% 0.100W   [ERJ-2RKF1000X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "42ac1954-0023-4480-888e-968299768896")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/5790733d-04f0-467f-9138-36f16982058a")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -69416,6 +72968,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "3eb5b818-b4d9-41da-bf35-84a642a4748e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9787c23f-d66f-4ac2-a45d-ffa2a05145a4")
 			(effects
 				(font
 					(size 1 1)
@@ -69643,6 +73209,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6c6a6de2-4455-442f-9297-1e4b3f8984eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/30340250-b2a1-4769-b603-b5e38b6666d9")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -69856,6 +73436,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "69e9041f-b6ab-440c-b36e-7d11aa2cce5a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "IC:   OPAMP 2 CIRCUIT   [TLV9062IDSGR] [8-WSON]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b0ce5036-0b76-4f84-afda-c6b057a7cc0b")
 			(effects
 				(font
 					(size 1 1)
@@ -70230,6 +73824,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "01ea7bee-5940-492b-bb45-b33ce94826af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fe9151ee-9e2e-444e-9bd0-1fce2dd4771a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1d883ceb-d504-4d0d-add1-7ad65a4667d4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/18fdae85-d55d-415f-bac5-462a5fe372c7")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -70449,6 +74085,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 73.2kΩ ±1% 0.100W   [ERJ-2RKF7322X] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b16a6ea3-a4d7-4a3a-ace5-39826e630834")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/e584c5e1-a822-40e1-951f-d32257c92413")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -70660,6 +74310,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c7329368-2183-4894-a947-edaa1c814756")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "22337fe0-146a-49d4-8887-99b8c20e6796")
 			(effects
 				(font
 					(size 1 1)
@@ -71014,6 +74678,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a8386e58-695b-46fc-8b81-cbb05dc0c4aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cd533ed6-effe-489a-aa46-2b5bb5cc0c23")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "256f6fa9-b00a-43ef-a741-e31e558c6096")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/59db5e6e-f29b-416e-bbb7-ef293c675d79")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -71225,6 +74931,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "335a8e54-f04e-4961-9fce-b3eef268c326")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c7521756-ddd1-4602-b047-28c39ffc511d")
 			(effects
 				(font
 					(size 1 1)
@@ -71452,6 +75172,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9ea83180-bc32-4a9b-8d16-71a30743deb2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4356a1d9-4601-4ee5-ab1d-5a93c24d6b5a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6808820f-f557-4541-8113-553689fce654")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/3568a481-aea2-4156-aa86-eee9b7a7953b")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -71671,6 +75433,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e49a1fe4-d9d0-421b-8273-36b33768a50c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4c6c6193-887e-4673-9e77-cde0d9a60bd9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e4750df5-7cf8-4392-94e3-d7bfe9e17f4c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/bfbe3c27-cfd3-478f-952e-0b1a6db7ac39")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -71882,6 +75686,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "87910470-17e5-4b12-9b78-a2e6ed7f9e9b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "OTHER:   SWITCH SLIDE DIP SPST 0.1A 6V 1 POS   [CHS-01TA] [Other]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "aa0fdff2-4bd7-4225-8b38-0ca54cbdd778")
 			(effects
 				(font
 					(size 1 1)
@@ -72116,6 +75934,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "59e46177-4eb6-4666-b973-3c82d17394c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "IC:   EEPROM 64KBIT I2C   [24AA64-I/ST] [8-TSSOP]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a1ccc17f-9fce-4b92-9622-bfaf317e523a")
 			(effects
 				(font
 					(size 1 1)
@@ -72604,6 +76436,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cb7452fe-4c00-4092-bb06-fc0853efe004")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/ac49a95a-cb85-42b8-a5cb-d8090f21f85e")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -72815,6 +76661,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "247a03ca-85c0-41b1-97d6-ef6fc1c31de8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c7bdd3b8-1901-47f2-98de-12371f0794cc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "78f03c29-ed49-4b28-8222-3fd77b0227e5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "64649ed3-f5b1-4961-8e2d-7ec6206fc535")
 			(effects
 				(font
 					(size 1 1)
@@ -73042,6 +76930,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "87fe2b53-e131-4fb4-b175-ea74a9836a21")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/de16539a-3fb8-4fb7-b848-c513f9ac7964")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -73253,6 +77155,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f86d4825-fdb6-4286-977a-aa6fb957e1d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bb8f1621-553e-48ff-a569-43641fca67e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "40f0f100-29b2-4f88-9108-3c49dea3243f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c8b0af94-a62f-4e94-9557-555a6a3c922d")
 			(effects
 				(font
 					(size 1 1)
@@ -73480,6 +77424,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "81ac5d95-220f-4646-a330-9f24c4b9ce14")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/bcc8cb3e-0331-43b0-86d6-a18d5122cefc")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -73690,6 +77648,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7e463903-f885-40c0-b607-eeb33a22163e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "IC:   FIXED REG BUCK 1.8V 1.6A   [TPS62061DSGT] [8-WSON (2x2)]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d8e79433-e94e-4838-a210-016cdd4e8644")
 			(effects
 				(font
 					(size 1 1)
@@ -73987,6 +77959,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a49d0884-b08d-42dd-93f7-802e22aebd88")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "20cb4632-ce7d-496e-9db4-b7d224cc081e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "afa2e6d8-80b9-4d86-adca-1595f9a2a0d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/6513e3ac-df27-4745-938c-930ab9e3256d")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -74198,6 +78212,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "70be4bd1-9d17-47cd-87af-5d8c57fa5889")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "IC:   VREF 2.5V 0.05%   [LM4132AMF-2.5/NOPB] [SOT-23-5]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e1babe14-15f2-4d4b-9506-a67730a6acc5")
 			(effects
 				(font
 					(size 1 1)
@@ -74485,6 +78513,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 100Ω ±1% 0.100W   [ERJ-2RKF1000X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9c6d04f7-35ab-4af4-b3e6-74ec1b7293e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/aed4efdb-d95a-427a-bbe5-6cedf71ee4d4")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -74704,6 +78746,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f4fa4790-a758-4553-8012-901930609f99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/bae8433a-bafe-410b-9193-59b943cc876d")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -74915,6 +78971,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0a5fe438-1251-4aa9-b429-c8588c86969d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6ffe19b9-af09-448d-bf23-13ac5e5b705f")
 			(effects
 				(font
 					(size 1 1)
@@ -75143,6 +79213,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3bd06680-e864-4179-b326-739c9116de02")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/08a2fcd9-17aa-46b3-8ef5-730c2bc86e72")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -75354,6 +79438,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a638d5c4-7cbb-48fd-9616-ed028364aa6d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "16a49b2e-aeb4-43a7-857e-d646513ae866")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b8175484-14a0-419a-832b-f032f5953a10")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0afe776c-1bf6-441b-b8dc-6504e844da99")
 			(effects
 				(font
 					(size 1 1)
@@ -75581,6 +79707,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 135)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e516946d-3386-4b9b-90a9-a0b510e6d815")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 135)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "65d7ffbf-045d-4928-b8c7-125338fd4da3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 135)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e276ac9d-50e8-4c2b-82f5-a02e189198ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/b27d0fcf-a524-429e-afe6-e16479b3fac6")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -75800,6 +79968,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 45)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8fd76802-9ecb-4ff6-9f7d-4c47ff6d4c9e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/7293de75-85e3-4bd4-897b-1382968741e4")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -76010,6 +80192,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "dcf5a056-aadb-4ff4-9c43-1e87bc19b27a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CONNECTOR:   HEADER 1.27MM R/A 10POS   [FTSH-105-01-F-D-RA-K] [TH]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5a533fc5-cc25-4477-8cc4-5b7001aca401")
 			(effects
 				(font
 					(size 1 1)
@@ -76391,6 +80587,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8392b675-7a46-4b33-95f1-0d3131f9aa99")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/9a950a8c-e3ef-449e-8628-2d597a5658a5")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -76602,6 +80812,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4c29c0e3-7e06-43a7-8bc4-df5d54a847c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "16d2bbe5-564e-4539-8ffb-7ce032e61130")
 			(effects
 				(font
 					(size 1 1)
@@ -76954,6 +81178,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "94cd9734-821b-4334-9c37-ba7a86f7ead5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/ae7719d0-d93e-4a59-baf3-47dbf7f86f1d")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -77298,6 +81536,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR POL:   SMD TANT B0 1411 33uF 20V ±20% 50Ohm   [TL8B0336M020C] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8b931c65-25fb-489a-a54e-b6edb00b9651")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/5fe5785b-18b5-490d-812f-48fb949ec6ee")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -77495,6 +81747,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "849d69ba-8203-4c0b-8bac-4b64c378c065")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4b56b973-0c59-4c1f-b61b-b26fbb421410")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "526b9d16-d809-4238-9955-6ef39d7a918b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ce57438d-e1bc-4a32-92c8-e4b100af11d0")
 			(effects
 				(font
 					(size 1 1)
@@ -77722,6 +82016,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f8766dcd-5609-4fd4-91ca-caf4912e3e7c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "246f1739-b869-4b9a-9beb-106c7b37a810")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e5e027b9-9af8-4301-80c4-335b156d36cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/582160e7-bdec-43d1-ad19-795849e1106c")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -77933,6 +82269,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "2557d088-a6e4-40ef-a6a9-04e70d672148")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 100Ω ±1% 0.100W   [ERJ-2RKF1000X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "877d6924-bd5a-407f-8748-07e7b526d3d5")
 			(effects
 				(font
 					(size 1 1)
@@ -78160,6 +82510,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6a0a95bb-d126-4f66-9801-6edf28bccc30")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/151cd71c-3a89-4c44-9f82-72b8fa15b08c")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -78371,6 +82735,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "00267c14-1d06-4757-9c2a-da8cce127356")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "aaaf0ab2-e58c-468c-b2a7-09add99b89f3")
 			(effects
 				(font
 					(size 1 1)
@@ -78598,6 +82976,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fcbb64f6-96e5-4d59-950b-8dd9e4a3a852")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "97e22fec-4f6f-4d32-8530-790295502491")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2bc7adc2-2ff0-4594-b0fc-69744ac926c9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/bf4e3418-7569-4903-94c7-fd4b74b8445e")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -78817,6 +83237,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cca58766-48c6-466c-8058-6f023e868206")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/72d6a9b3-8ff1-487a-8a85-975f8deda4d1")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -79028,6 +83462,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "1a6f0a16-dcca-4c4c-9491-5c06f787c3e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5b6c4983-4e28-4f05-8806-aaa02a7cffcc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "375a7724-ac26-4145-bcaa-000ff8a9b719")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e2c7a3b9-7433-44c7-b514-cbb3a872c2ee")
 			(effects
 				(font
 					(size 1 1)
@@ -79256,6 +83732,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 0Ω 1A   [RC0402JR-070RL] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "885a2902-70a1-4303-acba-bede0e9bfb82")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/a9479352-36c3-4780-9aa3-1a20ffea4970")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -79467,6 +83957,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "36913804-9da6-4d66-98c5-1a31bcb24a11")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "28bc2e57-5193-4c66-9ff1-4223fef34084")
 			(effects
 				(font
 					(size 1 1)
@@ -79694,6 +84198,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d30351dd-f28b-4846-8c9d-309a730caa7f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/126cfcb3-ec3d-422e-8a57-298b8ba855b7")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -79905,6 +84423,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "77aeb3c9-0c9e-4282-b9b6-97b80f4dc843")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5ef45635-57e0-41be-9908-39bf48b9a222")
 			(effects
 				(font
 					(size 1 1)
@@ -80132,6 +84664,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f59d18dc-acce-4613-83a5-c2101511a9f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/15f48abd-0735-4494-a7ce-7ffb792eb6b9")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -80351,6 +84897,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8e3ff7d1-0f68-4795-9246-1765e1865252")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a00d40d2-e172-4aaf-bc94-6cebeb3bd0e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "64ea7d29-0444-4a4e-85f0-d72a1b21a125")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/0d6b2aac-dab8-4c02-9e75-599afad17117")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -80562,6 +85150,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "faf735e7-2a2a-40e4-8f9f-4362085e55cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "OTHER:   SWITCH SLIDE DIP SPST 0.1A 6V 1 POS   [CHS-01TA] [Other]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fd9c7234-3d9c-40d9-8329-44f4bebe887f")
 			(effects
 				(font
 					(size 1 1)
@@ -80803,6 +85405,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "74626e32-44b4-4a9a-9cc5-86b54459822c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "031633c9-cc5b-4406-8619-722d543f7b4a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "22231d46-2881-432b-b49c-db2f59bcff9c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/899267b5-bef4-4c1b-bb34-ea5e1e75b035")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -81021,6 +85665,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "TRANSISTOR:   MOSFET N-CH 20V 630mA   [SI1012CR-T1-GE3] [SC-75A]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b726426b-28fb-4031-aee3-1b27fb3ac64f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/8288453e-bc38-4a93-849c-0b66003b88c8")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -81222,6 +85880,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "d045ec2a-88b4-433b-88fa-ec2e9d0f5c01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "137c96d9-dfd0-4ae3-bc13-f353c49ef610")
 			(effects
 				(font
 					(size 1 1)
@@ -81449,6 +86121,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FIXED INDUCTOR SMD 6.8uH 1.2A 276mΩ   [1277AS-H-6R8M=P2] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f699da68-a65b-4c3f-ba3b-41402170cb49")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/f49659f2-9c19-464b-8ecb-da76e6a3a1de")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -81616,6 +86302,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "57286cfa-3b95-4596-8b71-0b603c548e96")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "120c436b-78c5-4ea4-ac37-f6ce08e1ee5a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "af96f1f4-46bd-4219-97cd-4b54f9120638")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f0d1311d-74ea-4a98-b471-2aeae57c4870")
 			(effects
 				(font
 					(size 1 1)
@@ -81968,6 +86696,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "53ab1189-17cd-4425-9716-32b98102ca49")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "00ce5480-bc4d-4378-9336-e13b70d5d0a3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0e271819-7f71-4448-91fc-50954440bf01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/280f9dc0-2fd4-41a9-820f-6f0f261337a1")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -82187,6 +86957,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "89043360-64fe-4b99-b975-99acee8ca4ec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "63c2d8a9-0848-41cd-bad4-1d5889929a70")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3f25dfd1-8e82-41b7-b7eb-0300bf603ae5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/eb36fb7b-de01-4306-864d-58f9ae1508d1")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -82398,6 +87210,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a4da939d-8a74-41ad-9ead-6fa6c9bcfc4a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7c614e49-76ee-4488-822c-3df1ba8458f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "91654e73-0be0-471a-8fa4-f52be8685120")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "447f4977-c04a-4bf0-8778-94b509fe0a3a")
 			(effects
 				(font
 					(size 1 1)
@@ -82626,6 +87480,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "577eb75c-ecf2-47ce-a74c-398792dd1b03")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/666231f2-ff49-4e5c-927a-4ffcb26de04d")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -82837,6 +87705,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9b133ccd-d873-469c-8fdd-46185d6c0d5c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "41dea768-af34-4d9a-8153-ab5c4851ce3d")
 			(effects
 				(font
 					(size 1 1)
@@ -83064,6 +87946,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "28f071d3-2c29-4570-9cbc-3d8de8957f8e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/a6abe281-66ea-43d4-8c75-4b1b802cee83")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -83276,6 +88172,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f138ac2a-a365-4a61-8993-debf961395a7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f33ce1f7-ef2d-47db-abab-95eb71c9d0a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d2fa786d-4b32-422e-8b19-251480d3247b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 225)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6550645f-8e0e-49da-8a95-78be344f8e1d")
 			(effects
 				(font
 					(size 1 1)
@@ -83643,6 +88581,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0402 600Ω 900mA 230mΩ   [BLM15PX601SN1D] [0402]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "925e73cc-c59d-4262-8ca6-7704d02a364c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/a9553848-81a1-465b-820d-815c484d7a49")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -83987,6 +88939,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e1442436-b879-4bdd-8b86-ecab79310027")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/802de07e-5eac-4d09-bb87-a8553bb51d25")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -84207,6 +89173,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fb44c97d-1fde-40cf-8afe-8bc65e8366e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/3ee81d37-a461-4b9a-93bc-49001309c836")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -84418,6 +89398,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "28a344e2-9aa0-47d6-8c53-ffc8d86e94e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7e57431e-862c-4b08-89b9-7f98f486c26f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "61ef85b6-1a6b-4130-a970-242e6b8222f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5a24d8ab-b282-432f-846a-0b806d7f491b")
 			(effects
 				(font
 					(size 1 1)
@@ -84646,6 +89668,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d175dc89-506b-46ee-88d3-8ab1f3cb4a81")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/f34a277b-42e4-4c25-8fc4-9c47f468f87c")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -84857,6 +89893,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7e4b5b68-4fc8-49c6-a75b-052deccf8cdd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "20a60922-4bf5-4fad-84be-8dc54cac043e")
 			(effects
 				(font
 					(size 1 1)
@@ -85084,6 +90134,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 1uF 25V ±10% X7R   [GCM21BR71E105KA56L] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "42511829-4ba0-4245-be4a-07f72336d9c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/850871d1-4c13-4412-ba4d-04a5eba93d23")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -85295,6 +90359,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "2a8feffd-b85d-4b2c-8fe3-793041553954")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2d58cb4f-a9f4-4ae9-9b11-b19a983dfa2a")
 			(effects
 				(font
 					(size 1 1)
@@ -85522,6 +90600,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f3264e79-e8ee-4f46-b2b1-6a10f0ec765f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/35e45e2a-4376-4d91-b6fd-83a7d0fbdb6c")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -85733,6 +90825,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "5d359970-88f1-4dd8-994d-3a2190e5fa9f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "449522da-9ac8-4ef7-8aa5-af0f9a3110b8")
 			(effects
 				(font
 					(size 1 1)
@@ -85960,6 +91066,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 10nF 25V ±10% X7R   [GCM155R71E103KA37D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2ebaf14a-e04e-45c0-971f-65d04ab046b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/883ff14b-3fd8-4498-9dd2-9f54b19cdc4f")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -86171,6 +91291,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "6235b25c-077c-4bce-8261-6aedf3bc7175")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c858909b-c8e5-4e65-825b-fb59ecb17fe8")
 			(effects
 				(font
 					(size 1 1)
@@ -86523,6 +91657,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "869fa731-7629-413d-8498-dcc7508250f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/f06cb2f9-c686-45ef-8765-2883f8178829")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -86867,6 +92015,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2861c50e-2fbd-4dfd-8834-ff63d014b96d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/99ba3d7c-037c-4716-913b-2e86ad787b7b")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -87078,6 +92240,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ea4b086a-349a-4d71-a5a7-bb31341d0766")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "08719599-de51-44de-8f41-4288d0d42fc3")
 			(effects
 				(font
 					(size 1 1)
@@ -87305,6 +92481,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "INDUCTOR:   FERRITE BEAD SMD 0603 600Ω 1.3A 150mΩ (OEPS J30 030)   [BLM18KG601SN1D] [0603]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "aaed8108-0aef-4361-9c59-4cc3fe7b2aa4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/0fb9efdb-94aa-4c96-be27-2ef7e5917b7b")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -87524,6 +92714,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fc8e7926-123f-4882-90fd-bc019139449b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/3a19c12e-d048-4532-9369-a744c4352771")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -87735,6 +92939,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "7f04d3d9-b438-4c5a-ae22-dbd75f5cfe04")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 165kΩ ±1% 0.100W   [ERJ-2RKF1653X] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "258a459e-b477-4c0f-aeb8-e398c3e68ce2")
 			(effects
 				(font
 					(size 1 1)
@@ -87963,6 +93181,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 1kΩ ±1% 0.100W   [ERJ-2RKF1001X] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d151953c-5e8a-4f75-932b-1f44567a65b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/fc78c837-1cd3-499b-97b0-a0d51a2284fc")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -88173,6 +93405,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "2200b5b4-3ea7-4938-acc6-4ec2c05eb93a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "TRANSISTOR:   MOSFET N-CH 20V 630mA   [SI1012CR-T1-GE3] [SC-75A]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "08702c54-8d92-4587-867b-b220a1c753c2")
 			(effects
 				(font
 					(size 1 1)
@@ -88515,6 +93761,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "895001e2-2cdc-48f9-a171-eebc0f1644be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "22f6a526-c075-410a-89bf-260328b25940")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ba1f2bf9-0d84-4374-8a37-20d47dabcd03")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/77634a51-0191-475c-936c-38fa8fe7538d")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -88734,6 +94022,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "15125e65-19fc-4e7f-ba46-1d6f32be642f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "21ed332c-fc09-4b2c-9c91-1d780848d415")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "080f6e6d-5bfc-4a3a-b929-50879b9fd349")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/72fb155c-eada-49f0-8e61-2dcd4af763e0")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -88945,6 +94275,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "94e407a4-d754-46dc-b37c-f4118ccf0c8a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e00e9954-e3a1-4f41-a19f-3ab3f6f3c7f2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "92c42f99-7e6f-4dcb-b794-54ea7887cdf8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "865cbf56-1dfe-4ce3-a592-04078a721522")
 			(effects
 				(font
 					(size 1 1)
@@ -89298,6 +94670,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 2.2kΩ ±1% 0.100W   [ERJ-2RKF2201X] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "538712b6-ef2c-45f6-90d0-0f15b3b67918")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/a59ee660-50ea-4527-ae34-a595212febdc")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -89509,6 +94895,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "1ced8443-e39c-4136-9e52-7e456329c98c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 2kΩ ±1% 0.100W   [ERJ-2RKF2001X] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "50f443b6-900b-404e-b67e-8c0dcc0d46bd")
 			(effects
 				(font
 					(size 1 1)
@@ -89956,6 +95356,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 1206 4.7Ω ±5% 1W   [SG73P2BTTD4R7J] [SMD]"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f1457850-f5c9-4d4c-8af5-ea8cd433e889")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/05cd182e-4d95-4b94-aa79-72443a7be1b7")
 		(sheetname "/")
@@ -90278,6 +95692,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 4.7kΩ ±1% 0.100W   [ERJ-2RKF4701X] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "18693d35-3d0b-4cf3-880a-bbdc0cbaa8a6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/65868360-20e8-4890-b10b-6222f79738dd")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -90497,6 +95925,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0805 10uF 25V ±10% X5R   [GRM21BR61E106KA73L] [SMD]"
+			(at 0 0 135)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2e400d54-067a-4e89-a887-c90e316fd674")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/73e514d8-9a86-48e8-8f8a-2653fb7bb8c8")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -90708,6 +96150,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4bfaa82c-6536-4bf5-9d4b-84e9414361cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a5cb09a3-583a-4ed2-8190-eeffc014ae41")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "79353c2b-e826-4ce4-9fa3-768e0681fa4d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4d2e9ea1-e5b7-4db9-92a5-4104b1035b96")
 			(effects
 				(font
 					(size 1 1)
@@ -91060,6 +96544,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 4.7nF 25V ±10% X7R   [CC0402KRX7R8BB472] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ba05eea7-ae67-4d4a-b690-99dd9c03ac77")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/ec1e17a1-7e3a-41d3-886d-e92eb9d0db51")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -91271,6 +96769,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f48f8837-db7d-4c31-8045-60c4d3e3b4d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "499d0f2c-b660-4165-b852-8220b690a043")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bbe4c696-9d20-4a7c-9e62-49cf60f903e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "737410fc-ddeb-4562-af9f-10c97bd9d0d6")
 			(effects
 				(font
 					(size 1 1)
@@ -91536,7 +97076,7 @@
 			(effects
 				(font
 					(size 0.633376 0.633376)
-					(thickness 0.166624)
+					(thickness 0.158344)
 				)
 				(justify left bottom mirror)
 			)
@@ -91693,7 +97233,7 @@
 				(justify mirror)
 			)
 		)
-		(property "OEPSPN" "OEPS010050"
+		(property "OEPSPN" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -91707,12 +97247,26 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C105883"
+		(property "LCSC" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9368a7f6-9db4-4cbf-ba3a-d3ec9c3b8d32")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "13b710fb-6829-41c7-a035-4c0d0cfd2a75")
 			(effects
 				(font
 					(size 1 1)
@@ -91940,6 +97494,20 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "RESISTOR:   SMD 0402 10kΩ ±1% 0.100W   [ERJ-2RKF1002X] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0ab0c21c-c238-43d8-9fe5-ed4ff6d300dc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/7e388a80-55d5-4888-a0c9-9e772de4bdcb")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -92151,6 +97719,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ea12c38c-4de9-4d2b-bcd3-915e182cc5e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0a663300-fcaa-455a-87b2-f8777f137c34")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0abc919b-57b3-4827-9913-84ced5aa5869")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f8039502-29fb-447e-aee5-1fb485f80dba")
 			(effects
 				(font
 					(size 1 1)
@@ -92378,6 +97988,48 @@
 				(justify mirror)
 			)
 		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3d06d921-d8a4-4b03-92ea-06388f7d356e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ea662026-d0c4-49d1-8fda-ae6736c60d2e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "831bbeaa-8655-4e7b-a1bf-aaacc0cd2bb8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(path "/d218d72d-d84d-4cf7-91c2-b2cea2cf543e")
 		(sheetname "/")
 		(sheetfile "fmc-host.kicad_sch")
@@ -92589,6 +98241,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a90a997b-30cc-4fe8-94ad-a68886ec5c6c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "OEPS Description" "CAPACITOR:   SMD CER 0402 100nF 25V ±10% X7R   [GRM155R71E104KE14D] [SMD]"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "87d83dc9-d946-4d5f-8e6f-3dbc45b283e5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "TempCo" "X7R"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "368eac4b-4977-4732-a36a-75e2c45809e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Voltage" "25V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "be28a9f5-db1d-4714-bc8d-578acf0e6ce4")
 			(effects
 				(font
 					(size 1 1)
