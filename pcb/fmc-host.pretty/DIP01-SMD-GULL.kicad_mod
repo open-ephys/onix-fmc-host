@@ -1,0 +1,216 @@
+(footprint "DIP01-SMD-GULL"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 2.403 3.169 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "69d8b998-b28e-415b-bbbb-aad5aef455eb")
+		(effects
+			(font
+				(size 0.633376 0.633376)
+				(thickness 0.166624)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "CHS-01TA"
+		(at 2.523 6.077 90)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5f2813e8-0340-46fd-84a7-db53603f7162")
+		(effects
+			(font
+				(size 0.83312 0.83312)
+				(thickness 0.18288)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bd500547-304e-4eec-aa69-1a731fbf1532")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5b63594e-294e-45e0-bf43-57c4149dac45")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "CHS-01TA"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "43217ebb-6f3a-4151-93c9-05ad93d2eaff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "OEPS PN" "OEPS100086"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "79358934-c761-476f-be6c-6cd445085f20")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "old description" "OTHER:   SWITCH SLIDE DIP SPST 0.1A 6V 1 POS   [CHS-01TA] [Other]"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "60608fd9-c549-46fc-8fa9-579aee83d76e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "fmc-host.kicad_sch")
+	(attr dnp)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.25 5.3)
+		(end -1.25 1.5)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "aed3d36c-e39b-4a44-bc8a-a49f0d6011fb")
+	)
+	(fp_line
+		(start -0.508 1.178)
+		(end 0.508 1.178)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7c5acab6-3721-4686-81c3-e331ae683f29")
+	)
+	(fp_line
+		(start -0.508 3.942)
+		(end -0.508 1.178)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "107405b3-01c4-44cb-a2b5-806776625e57")
+	)
+	(fp_line
+		(start 0.508 1.178)
+		(end 0.508 3.942)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "34b4323d-3b0c-4773-8630-19f724b62ed9")
+	)
+	(fp_line
+		(start 0.508 3.942)
+		(end -0.508 3.942)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "69cd1377-edf5-425f-af88-053f28477eed")
+	)
+	(fp_line
+		(start 1.25 -0.3)
+		(end 1.25 5.3)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d2a03765-3d58-4c2e-8e8c-de7a54220f2e")
+	)
+	(fp_poly
+		(pts
+			(xy -0.508 2.956) (xy 0.508 2.956) (xy 0.508 1.178) (xy -0.508 1.178)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "ae6e37ed-2b23-4580-99cf-b2830a5753af")
+	)
+	(fp_poly
+		(pts
+			(xy -1.2 5.3) (xy 1.2 5.3) (xy 1.2 -0.3) (xy -1.2 -0.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.CrtYd")
+		(uuid "a160159c-dce1-4ed5-954a-4d35cc58f6d7")
+	)
+	(fp_text user "ON"
+		(at -0.965 -0.357 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d38fdd1c-d4e7-4e38-917d-35949ac52980")
+		(effects
+			(font
+				(size 0.656 0.656)
+				(thickness 0.144)
+			)
+			(justify right)
+		)
+	)
+	(pad "1" smd rect
+		(at 0 5.08)
+		(size 0.76 1.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "698b6933-2592-432a-9de1-1deab9a9fd2b")
+	)
+	(pad "2" smd rect
+		(at 0 0)
+		(size 0.76 1.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "9ec79797-661a-472f-9adb-90d604d08475")
+	)
+	(embedded_fonts no)
+)

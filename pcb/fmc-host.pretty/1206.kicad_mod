@@ -1,0 +1,202 @@
+(footprint "1206"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 1.04 1.624 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e535ebe8-d32b-49f0-b93a-224f556e045b")
+		(effects
+			(font
+				(size 0.633376 0.633376)
+				(thickness 0.166624)
+			)
+			(justify right top)
+		)
+	)
+	(property "Value" "10uF"
+		(at -2.54 2.54 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "37faf6f4-c463-41b1-bb0f-c13d2222540a")
+		(effects
+			(font
+				(size 0.83312 0.83312)
+				(thickness 0.18288)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a478bec3-d2ba-4ea0-8b1b-c9aad1845d55")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ef4dc2c1-83c8-4c82-b5c1-94e93edb7da1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "GRM31CR71E106KA12L"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0677e807-d33b-495f-85b8-54a7a911a312")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "OEPS PN" "OEPS010007"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bbdd0c76-269d-4620-b0ce-e82b422207ca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "old description" "CAPACITOR:   SMD CER 1206 10uF 25V ±10% X7R   [GRM31CR71E106KA12L] [SMD]"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e3034515-e16d-4273-97f9-bf468c7abb08")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "fmc-host.kicad_sch")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.54 -1.27)
+		(end 2.54 -1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "91a5816d-eb36-44ce-a410-3191c679a34e")
+	)
+	(fp_line
+		(start -2.54 1.27)
+		(end -2.54 -1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d070c570-3f23-4a95-bf0e-6e668b3ba0da")
+	)
+	(fp_line
+		(start 2.54 -1.27)
+		(end 2.54 1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e7d517ea-5e38-41ae-bd45-82d2cd1c01a5")
+	)
+	(fp_line
+		(start 2.54 1.27)
+		(end -2.54 1.27)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c79e99fd-772a-40a6-9717-9cf39dcc5cb2")
+	)
+	(fp_line
+		(start -1.5494 -0.8128)
+		(end 1.5494 -0.8128)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f4543e1a-9d0f-4222-9444-95c761f847bd")
+	)
+	(fp_line
+		(start 1.5494 0.8128)
+		(end -1.5494 0.8128)
+		(stroke
+			(width 0.1016)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bdd8104a-a944-4c6e-bc73-af3c9621c324")
+	)
+	(fp_poly
+		(pts
+			(xy -1.6002 0.8128) (xy -1.0922 0.8128) (xy -1.0922 -0.8128) (xy -1.6002 -0.8128)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "f5d83f35-74da-441b-a8cb-5acb094a6f26")
+	)
+	(fp_poly
+		(pts
+			(xy 1.0922 0.8128) (xy 1.6002 0.8128) (xy 1.6002 -0.8128) (xy 1.0922 -0.8128)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "4e337534-a5ce-43eb-a3ba-1f4ca1bb8561")
+	)
+	(pad "1" smd rect
+		(at -1.651 0)
+		(size 1.2192 1.8796)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "90118af7-cd49-416e-9239-c66a35abfe7a")
+	)
+	(pad "2" smd rect
+		(at 1.651 0)
+		(size 1.2192 1.8796)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "882a25f3-ea2e-42e7-a24f-55aac41a5d31")
+	)
+	(embedded_fonts no)
+)

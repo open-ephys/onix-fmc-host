@@ -1,0 +1,188 @@
+(footprint "SC75"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.2518 -1.823684 270)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "42a42847-e53e-432c-ac8e-e0a991a473a4")
+		(effects
+			(font
+				(size 0.633376 0.633376)
+				(thickness 0.166624)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "SI1012R"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "64fefcdd-1357-4499-8e46-375d93953b84")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5f666be7-9d7c-4b25-94a9-b0a9d48b71f2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "N-MOSFET transistor, gate/source/drain"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aa80d7c3-6598-4bc2-b16c-ab2e3591ac5b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "SI1012CR-T1-GE3"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "04000660-43ac-4e43-a180-c2fd9e4f83ea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "OEPS PN" "OEPS060024"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e96feb72-4535-4fe3-bf01-f349b82db7f8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "old description" "TRANSISTOR:   MOSFET N-CH 20V 630mA   [SI1012CR-T1-GE3] [SC-75A]"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8d18fe40-fdce-4619-a614-4930b7c73df7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "fmc-host.kicad_sch")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.8 -0.4)
+		(end -0.4 -0.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4e6aa1a7-7d7b-4881-a80b-74dd646019e2")
+	)
+	(fp_line
+		(start -0.8 0.2)
+		(end -0.8 -0.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0e5eec35-3080-4522-84e0-2ac0e41e6268")
+	)
+	(fp_line
+		(start -0.1 0.4)
+		(end 0.1 0.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8b2fc0ba-1862-4685-a0f7-a59cef616ace")
+	)
+	(fp_line
+		(start 0.4 -0.4)
+		(end 0.8 -0.4)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1721e6c2-6afe-494b-b9a1-b076b60a3a9b")
+	)
+	(fp_line
+		(start 0.8 -0.4)
+		(end 0.8 0.2)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0cdbf731-b632-4f3b-9760-17141f275efa")
+	)
+	(fp_poly
+		(pts
+			(xy -0.8 0.4) (xy 0.8 0.4) (xy 0.8 -0.4) (xy -0.8 -0.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.CrtYd")
+		(uuid "f93e4cb0-197e-485b-82de-2937991ca517")
+	)
+	(pad "1" smd rect
+		(at -0.508 0.6505 180)
+		(size 0.356 0.503)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "1ab5c114-c691-4c9b-9023-52265cbcd9ed")
+	)
+	(pad "2" smd rect
+		(at 0.508 0.6505 180)
+		(size 0.356 0.503)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "1e185f5d-6db8-4e30-827c-b3e1bfd92546")
+	)
+	(pad "3" smd rect
+		(at 0 -0.6505 180)
+		(size 0.356 0.503)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.04)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "19c02fb3-23a6-4757-b3f4-00309b099f8d")
+	)
+	(embedded_fonts no)
+)
